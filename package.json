@@ -1,0 +1,30 @@
+{
+  "name": "@acnhcompanion/data-formatter",
+  "description": "Google Sheet JSON Formatter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/samantharachelb/acnhcompanion-data-formatter.git"
+  },
+  "author": {
+    "name": "Samantha Belnavis",
+    "email": "me@samantharachelb.ca"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samantharachelb/acnhcompanion-data-formatter/issues"
+  },
+  "homepage": "https://github.com/samantharachelb/acnhcompanion-data-formatter#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "json-query": "^2.2.2",
+    "mongoose": "^5.10.0",
+    "toml": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/json-query": "^2.2.0",
+    "@types/mongoose": "^5.7.36",
+    "@types/node": "^14.6.0"
+  }
+}
