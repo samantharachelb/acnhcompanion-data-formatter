@@ -1,0 +1,406 @@
+[
+  {
+    "source_sheet": "Reactions",
+    "name": "Aggravation",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Outraged.png",
+    "source": [
+      "Peppy"
+    ],
+    "id": 1
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Agreement",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Nodding.png",
+    "source": [
+      "Cranky"
+    ],
+    "id": 2
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Amazed",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Shocked.png",
+    "source": [
+      "Snooty"
+    ],
+    "id": 3
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Apologetic",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Apologize.png",
+    "source": [
+      "Big Sister"
+    ],
+    "id": 4
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Bashfulness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Blushing.png",
+    "source": [
+      "Lazy"
+    ],
+    "id": 5
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Bewilderment",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Pardon.png",
+    "source": [
+      "Cranky"
+    ],
+    "id": 6
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Cold Chill",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/ColdChill.png",
+    "source": [
+      "Big Sister"
+    ],
+    "id": 7
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Confident",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Assent.png",
+    "source": [
+      "Big Sister"
+    ],
+    "source_notes": "Requires a high level of friendship",
+    "id": 8
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Curiosity",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/QuestionMark.png",
+    "source": [
+      "Peppy"
+    ],
+    "id": 9
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Daydreaming",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AbsentMindedness.png",
+    "source": [
+      "Normal"
+    ],
+    "source_notes": "Requires a high level of friendship",
+    "id": 10
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Delight",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Clapping.png",
+    "source": [
+      "All"
+    ],
+    "id": 11
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Disagreement",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Negative.png",
+    "source": [
+      "Big Sister"
+    ],
+    "id": 12
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Distress",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Frantic.png",
+    "source": [
+      "Jock"
+    ],
+    "id": 13
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Dozing",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Sleep.png",
+    "source": [
+      "Smug"
+    ],
+    "id": 14
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Encouraging",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Cheering.png",
+    "source": [
+      "Jock"
+    ],
+    "id": 15
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Fearful",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Shaking.png",
+    "source": [
+      "Normal"
+    ],
+    "id": 16
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Flourish",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Dance.png",
+    "source": [
+      "Jock"
+    ],
+    "source_notes": "Requires a high level of friendship",
+    "id": 17
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Glee",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/HappyDance.png",
+    "source": [
+      "Normal"
+    ],
+    "id": 18
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Greetings",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Greeting.png",
+    "source": [
+      "All"
+    ],
+    "id": 19
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Happiness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Smiling.png",
+    "source": [
+      "Peppy"
+    ],
+    "id": 20
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Heartbreak",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/BrokenHeart.png",
+    "source": [
+      "Smug"
+    ],
+    "id": 21
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Inspiration",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/IdeaBulb.png",
+    "source": [
+      "Cranky"
+    ],
+    "source_notes": "Requires a high level of friendship",
+    "id": 22
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Intense",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Silent.png",
+    "source": [
+      "Snooty"
+    ],
+    "id": 23
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Joy",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/HappyFlower.png",
+    "source": [
+      "All"
+    ],
+    "id": 24
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Laughter",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Laughing.png",
+    "source": [
+      "Big Sister"
+    ],
+    "id": 25
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Love",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Love.png",
+    "source": [
+      "Snooty"
+    ],
+    "source_notes": "Requires a high level of friendship",
+    "id": 26
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Mischief",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Scheming.png",
+    "source": [
+      "Peppy"
+    ],
+    "source_notes": "Requires a high level of friendship",
+    "id": 27
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Mistaken",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Oops.png",
+    "source": [
+      "Lazy"
+    ],
+    "id": 28
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Pleased",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Hello.png",
+    "source": [
+      "Normal"
+    ],
+    "id": 29
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Pride",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/SmugFace.png",
+    "source": [
+      "Lazy"
+    ],
+    "source_notes": "Requires a high level of friendship",
+    "id": 30
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Resignation",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/OhGeez.png",
+    "source": [
+      "Smug"
+    ],
+    "id": 31
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Sadness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/SadSpiral.png",
+    "source": [
+      "Normal"
+    ],
+    "id": 32
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Sheepishness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/WrySmile.png",
+    "source": [
+      "Cranky"
+    ],
+    "id": 33
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Shocked",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Surprised.png",
+    "source": [
+      "Jock"
+    ],
+    "id": 34
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Showmanship",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Shaki.png",
+    "source": [
+      "Smug"
+    ],
+    "source_notes": "Requires a high level of friendship",
+    "id": 35
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Shyness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Hesitate.png",
+    "source": [
+      "Lazy"
+    ],
+    "id": 36
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Sighing",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Sighing.png",
+    "source": [
+      "Snooty"
+    ],
+    "id": 37
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Sleepy",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Sleepy.png",
+    "source": [
+      "Peppy"
+    ],
+    "id": 38
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Smirking",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Grin.png",
+    "source": [
+      "Smug"
+    ],
+    "id": 39
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Sneezing",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Sneezing.png",
+    "source": [
+      "Jock"
+    ],
+    "id": 40
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Sorrow",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Crying.png",
+    "source": [
+      "Lazy"
+    ],
+    "id": 41
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Surprise",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Aha.png",
+    "source": [
+      "All"
+    ],
+    "id": 42
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Thought",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Thinking.png",
+    "source": [
+      "Snooty"
+    ],
+    "id": 43
+  },
+  {
+    "source_sheet": "Reactions",
+    "name": "Worry",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Worried.png",
+    "source": [
+      "Cranky"
+    ],
+    "id": 44
+  }
+]

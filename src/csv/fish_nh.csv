@@ -1,0 +1,81 @@
+name,nh_jan_morn,nh_jan_day,nh_jan_eve,nh_jan_night,nh_feb_morn,nh_feb_day,nh_feb_eve,nh_feb_night,nh_mar_morn,nh_mar_day,nh_mar_eve,nh_mar_night,nh_apr_morn,nh_apr_day,nh_apr_eve,nh_apr_night,nh_may_morn,nh_may_day,nh_may_eve,nh_may_night,nh_jun_morn,nh_jun_day,nh_jun_eve,nh_jun_night,nh_jul_morn,nh_jul_day,nh_jul_eve,nh_jul_night,nh_aug_morn,nh_aug_day,nh_aug_eve,nh_aug_night,nh_sep_morn,nh_sep_day,nh_sep_eve,nh_sep_night,nh_oct_morn,nh_oct_day,nh_oct_eve,nh_oct_night,nh_nov_morn,nh_nov_day,nh_nov_eve,nh_nov_night,nh_dec_morn,nh_dec_day,nh_dec_eve,nh_dec_night
+bitterling,15%,15%,15%,15%,15%,15%,15%,15%,12%,14%,12%,12%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16%,17%,16%,16%,13%,13%,13%,13%
+pale chub,N/A,7%,N/A,N/A,N/A,7%,N/A,N/A,N/A,9%,N/A,N/A,N/A,9%,N/A,N/A,N/A,8%,N/A,N/A,N/A,8%,N/A,N/A,N/A,7%,N/A,N/A,N/A,7%,N/A,N/A,N/A,6%,N/A,N/A,N/A,9%,N/A,N/A,N/A,8%,N/A,N/A,N/A,8%,N/A,N/A
+crucian carp,12%,12%,12%,12%,12%,12%,12%,12%,10%,11%,10%,10%,11%,11%,11%,10%,9%,9%,9%,7%,9%,10%,9%,8%,9%,9%,9%,8%,9%,9%,9%,8%,4%,4%,4%,4%,9%,9%,9%,8%,12%,11%,12%,12%,12%,11%,12%,12%
+dace,8%,N/A,8%,8%,8%,N/A,8%,8%,9%,N/A,9%,9%,10%,N/A,10%,10%,9%,N/A,9%,8%,7%,N/A,7%,7%,7%,N/A,7%,7%,8%,N/A,8%,8%,3%,N/A,3%,3%,8%,N/A,8%,8%,10%,N/A,10%,10%,9%,N/A,9%,9%
+carp,8%,8%,8%,8%,8%,8%,8%,8%,8%,7%,8%,8%,9%,7%,9%,8%,6%,6%,6%,7%,6%,6%,6%,6%,6%,6%,6%,6%,6%,6%,6%,6%,3%,3%,3%,3%,8%,8%,8%,8%,7%,8%,7%,7%,6%,6%,6%,6%
+koi,3%,N/A,3%,3%,3%,N/A,3%,3%,3%,N/A,3%,3%,3%,N/A,3%,3%,1%,N/A,1%,2%,2%,N/A,2%,2%,2%,N/A,2%,2%,2%,N/A,2%,2%,1%,N/A,1%,1%,3%,N/A,3%,3%,2%,N/A,2%,2%,4%,N/A,4%,4%
+goldfish,4%,3%,4%,4%,4%,3%,4%,4%,3%,2%,3%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,1%,2%,1%,1%,2%,2%,2%,2%,2%,2%,2%,2%,3%,3%,3%,3%
+pop-eyed goldfish,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A
+ranchu goldfish,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A
+killifish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4%,4%,4%,4%,3%,3%,3%,3%,3%,3%,3%,3%,3%,3%,3%,3%,3%,3%,3%,3%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+crawfish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11%,12%,11%,11%,9%,10%,9%,9%,8%,10%,8%,8%,9%,8%,9%,7%,9%,10%,9%,8%,4%,4%,4%,4%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+soft-shelled turtle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4%,N/A,4%,4%,4%,N/A,4%,4%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+snapping turtle,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,3%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+tadpole,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5%,6%,5%,6%,6%,6%,6%,6%,5%,5%,5%,5%,5%,5%,5%,5%,5%,5%,5%,5%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+frog,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8%,9%,8%,8%,9%,9%,9%,7%,9%,8%,9%,9%,8%,8%,8%,7%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+freshwater goby,4%,N/A,4%,4%,4%,N/A,4%,4%,3%,N/A,3%,3%,3%,N/A,3%,3%,3%,N/A,3%,3%,3%,N/A,3%,3%,3%,N/A,3%,3%,3%,N/A,3%,3%,3%,N/A,3%,2%,5%,N/A,5%,5%,3%,N/A,3%,3%,4%,N/A,4%,4%
+loach,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13%,14%,13%,13%,16%,16%,16%,16%,12%,12%,12%,12%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+catfish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7%,N/A,7%,7%,7%,N/A,7%,7%,8%,N/A,8%,8%,8%,N/A,8%,8%,7%,N/A,7%,6%,8%,N/A,8%,8%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+giant snakehead,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+bluegill,N/A,8%,N/A,N/A,N/A,8%,N/A,N/A,N/A,9%,N/A,N/A,N/A,9%,N/A,N/A,N/A,8%,N/A,N/A,N/A,8%,N/A,N/A,N/A,7%,N/A,N/A,N/A,7%,N/A,N/A,N/A,6%,N/A,N/A,N/A,8%,N/A,N/A,N/A,10%,N/A,N/A,N/A,7%,N/A,N/A
+yellow perch,8%,8%,8%,8%,8%,8%,8%,8%,7%,7%,7%,7%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8%,8%,8%,8%,10%,9%,10%,9%,8%,8%,8%,8%
+black bass,11%,11%,11%,11%,11%,11%,11%,11%,10%,11%,10%,10%,9%,9%,9%,9%,9%,10%,9%,8%,10%,10%,10%,9%,8%,8%,8%,7%,8%,9%,8%,8%,4%,5%,4%,4%,11%,9%,11%,10%,10%,9%,10%,11%,12%,12%,12%,12%
+tilapia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7%,7%,7%,7%,7%,7%,7%,7%,7%,7%,7%,7%,8%,8%,8%,8%,9%,9%,9%,8%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+pike,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,1%,1%,1%,2%,2%,2%,2%,2%,1%,2%,2%,1%,1%,1%,1%
+pond smelt,18%,18%,18%,18%,18%,18%,18%,18%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20%,20%,20%,20%
+sweetfish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9%,8%,9%,9%,10%,10%,10%,9%,7%,7%,7%,5%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+cherry salmon,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7%,N/A,7%,7%,8%,N/A,8%,8%,6%,N/A,6%,6%,7%,N/A,7%,7%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6%,3%,6%,6%,8%,8%,8%,8%,9%,3%,9%,9%,N/A,N/A,N/A,N/A
+char,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,N/A,1%,1%,1%,N/A,1%,1%,1%,N/A,1%,1%,1%,N/A,1%,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,2%,1%,1%,1%,4%,1%,1%,1%,2%,1%,1%,N/A,N/A,N/A,N/A
+golden trout,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,N/A,1%,1%,1%,N/A,1%,1%,1%,N/A,1%,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,N/A,1%,1%,1%,N/A,1%,1%,1%,N/A,1%,1%,N/A,N/A,N/A,N/A
+stringfish,1%,N/A,1%,1%,1%,N/A,1%,1%,1%,N/A,1%,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,N/A,1%,1%
+salmon,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20%,20%,20%,20%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+king salmon,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5%,5%,5%,5%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+mitten crab,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3%,N/A,3%,3%,5%,N/A,5%,5%,5%,N/A,5%,5%,N/A,N/A,N/A,N/A
+guppy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,3%,N/A,N/A,N/A,3%,N/A,N/A,N/A,N/A,N/A,N/A
+nibble fish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+angelfish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3%,N/A,3%,3%,3%,N/A,3%,3%,2%,N/A,2%,2%,2%,N/A,2%,2%,2%,N/A,2%,2%,5%,N/A,5%,5%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+betta,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,2%,N/A,N/A,N/A,4%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+neon tetra,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,3%,N/A,N/A,N/A,3%,N/A,N/A,N/A,N/A,N/A,N/A
+rainbowfish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,2%,N/A,N/A,N/A,3%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+piranha,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,N/A,1%,N/A,2%,N/A,1%,N/A,2%,N/A,1%,N/A,3%,N/A,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+arowana,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,N/A,1%,2%,1%,N/A,1%,2%,1%,N/A,1%,2%,1%,N/A,1%,2%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+dorado,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,1%,2%,N/A,2%,1%,2%,N/A,2%,1%,2%,N/A,2%,2%,2%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+gar,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,N/A,1%,2%,1%,N/A,1%,2%,1%,N/A,1%,2%,1%,N/A,1%,2%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+arapaima,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,N/A,1%,1%,1%,N/A,1%,1%,1%,N/A,1%,1%,1%,N/A,1%,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+saddled bichir,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+sturgeon,2%,2%,2%,2%,2%,2%,2%,2%,1%,1%,1%,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,1%,1%,1%,1%,1%,1%,1%,4%,4%,4%,4%,1%,1%,1%,1%
+sea butterfly,10%,11%,10%,10%,10%,11%,10%,10%,10%,10%,10%,10%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10%,11%,10%,10%
+sea horse,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6%,6%,6%,6%,6%,6%,6%,6%,6%,6%,6%,6%,5%,5%,5%,5%,5%,5%,5%,5%,6%,6%,6%,6%,7%,7%,7%,7%,6%,7%,6%,6%,N/A,N/A,N/A,N/A
+clown fish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5%,5%,5%,5%,6%,6%,6%,6%,5%,6%,5%,6%,5%,5%,5%,5%,5%,5%,5%,5%,5%,5%,5%,6%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+surgeonfish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+butterfly fish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4%,4%,4%,4%,5%,5%,5%,5%,4%,4%,4%,4%,4%,4%,4%,4%,4%,4%,4%,4%,4%,4%,4%,4%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Napoleonfish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,1%,1%,N/A,1%,1%,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+zebra turkeyfish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7%,7%,7%,7%,8%,8%,8%,8%,7%,7%,7%,7%,6%,7%,6%,7%,6%,6%,6%,7%,7%,8%,7%,8%,8%,8%,8%,8%,8%,8%,8%,8%,N/A,N/A,N/A,N/A
+blowfish,N/A,N/A,N/A,5%,N/A,N/A,N/A,5%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5%,N/A,N/A,N/A,5%
+puffer fish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8%,8%,8%,8%,7%,8%,7%,8%,8%,8%,8%,8%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+anchovy,3%,4%,3%,N/A,3%,4%,3%,N/A,3%,3%,3%,N/A,3%,3%,3%,N/A,3%,3%,3%,N/A,3%,3%,3%,N/A,3%,3%,3%,N/A,3%,3%,3%,N/A,2%,2%,2%,N/A,4%,4%,4%,N/A,3%,5%,3%,N/A,3%,4%,3%,N/A
+horse mackerel,20%,21%,20%,18%,19%,20%,19%,18%,18%,20%,18%,19%,16%,16%,16%,17%,20%,20%,20%,20%,18%,18%,18%,17%,14%,15%,14%,15%,14%,15%,14%,16%,15%,15%,15%,15%,20%,20%,20%,21%,20%,21%,20%,19%,20%,21%,20%,18%
+barred knifejaw,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4%,4%,4%,4%,3%,3%,3%,3%,4%,4%,4%,4%,4%,4%,4%,4%,3%,3%,3%,3%,3%,3%,3%,3%,4%,4%,4%,3%,4%,4%,4%,5%,4%,4%,4%,4%,N/A,N/A,N/A,N/A
+sea bass,16%,17%,16%,16%,17%,18%,17%,16%,15%,17%,15%,16%,14%,14%,14%,14%,16%,16%,16%,17%,16%,16%,16%,16%,12%,13%,12%,13%,11%,11%,11%,12%,12%,13%,12%,14%,17%,17%,17%,18%,16%,17%,16%,16%,16%,17%,16%,16%
+red snapper,6%,7%,6%,6%,6%,7%,6%,6%,6%,7%,6%,6%,6%,6%,6%,6%,6%,6%,6%,7%,6%,7%,6%,6%,5%,6%,5%,6%,5%,5%,5%,5%,7%,7%,7%,7%,7%,7%,7%,7%,6%,7%,6%,7%,6%,7%,6%,6%
+dab,13%,13%,13%,12%,13%,13%,13%,12%,12%,13%,12%,12%,11%,11%,11%,11%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13%,13%,13%,14%,13%,13%,13%,12%,13%,13%,13%,12%
+olive flounder,5%,5%,5%,5%,5%,5%,5%,5%,5%,5%,5%,5%,4%,4%,4%,5%,5%,5%,5%,5%,4%,5%,4%,5%,4%,4%,4%,4%,4%,4%,4%,4%,5%,6%,5%,6%,5%,5%,5%,6%,5%,5%,5%,5%,5%,5%,5%,5%
+squid,9%,10%,9%,9%,9%,10%,9%,9%,9%,9%,9%,9%,8%,8%,8%,8%,9%,9%,9%,9%,8%,9%,8%,9%,8%,8%,8%,8%,7%,8%,7%,8%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9%,10%,9%,9%
+moray eel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ribbon eel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+tuna,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,2%,2%,2%,2%,2%,2%,2%
+blue marlin,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,2%,2%,2%,1%,2%,1%,1%,1%,2%,1%,1%,N/A,N/A,N/A,N/A,2%,2%,2%,2%,2%,2%,2%,2%
+giant trevally,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+mahi-mahi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ocean sunfish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,1%,1%,N/A,1%,1%,1%,N/A,1%,1%,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ray,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,2%,2%,N/A,2%,2%,2%,N/A,2%,2%,2%,N/A,2%,2%,2%,N/A,N/A,N/A,N/A,N/A
+saw shark,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,N/A,1%,1%,1%,N/A,1%,1%,1%,N/A,1%,1%,1%,N/A,1%,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+hammerhead shark,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,N/A,1%,1%,1%,N/A,1%,1%,1%,N/A,1%,1%,1%,N/A,1%,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+great white shark,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,N/A,2%,2%,2%,N/A,2%,2%,2%,N/A,2%,2%,2%,N/A,2%,2%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+whale shark,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+suckerfish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+football fish,6%,N/A,6%,6%,6%,N/A,6%,6%,6%,N/A,6%,6%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6%,N/A,6%,6%,6%,N/A,6%,6%
+oarfish,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1%,1%,1%,1%
+barreleye,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%,N/A,N/A,N/A,1%
+coelacanth,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,1%,1%,1%,1%,2%,2%,2%,2%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,1%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%,2%

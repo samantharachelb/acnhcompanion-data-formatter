@@ -1,7 +1,7 @@
 import fs from 'fs';
-const createCsvWriter = require('csv-writer').createObjectCsvWriter;
+import getSpawnInfo from "./get-spawn-info";
 import writeJSON from './write-json';
-import cleanup from './cleanup';
+import * as cleanup from './cleanup';
 
 function formatCritterData(filename: string) {
     const inputDataFile = fs.readFileSync(`src/data/${filename}.json`)
@@ -20,6 +20,7 @@ function formatCritterData(filename: string) {
         var availTime: number[] = [];
         var allDay: boolean = false;
         var allYear: boolean = false;
+
 
         for (const availability of item['active_months']['northern']) {
             availMonthNorthern.push(availability['month']);
@@ -65,28 +66,6 @@ function formatCritterData(filename: string) {
             }
         }
 
-        // rarity processing
-        // note: the values in the 'spawn_rate' are min/max values.
-        // will be using 'max' values for calculating rarity
-        let rarity: any;
-        console.log('-------------');
-        console.log(item['name']);
-        // convert to string
-        let minMaxRange = JSON.stringify(item['spawn_rates']);
-        // strip all double-quote characters
-        minMaxRange = minMaxRange.replace(/"*"/gm, '');
-        //strip the min value and the dash character
-        var max: any;
-        if (minMaxRange.match(/(?!\d+)\D(?=\d+)/)) {
-            max = minMaxRange.replace(/\d+\D(?=\d+)/, '');
-        } else {
-            console.log(minMaxRange)
-            max = minMaxRange;
-        }
-        max = max * 1;
-        minMaxVals.push(max)
-        console.log(max);
-
         let prettyJsonData = {
             'id': item['num'],
             'name': item['name'],
@@ -98,14 +77,17 @@ function formatCritterData(filename: string) {
             'vision': item['vision'],
             'catch_difficulty': item['catch_difficulty'],
             'movement_speed': item['movement_speed'],
-            'spawn_rates': item['spawn_rates'],
             'total_catch_to_unlock': item['total_catch_to_unlock'],
             'availability': {
                 'all_day': allDay,
                 'all_year': allYear,
                 'times': availTime,
                 'months-northern': availMonthNorthern,
-                'months-southern': availMonthSouthern
+                'months-southern': availMonthSouthern,
+                'spawn_rate': {
+                    "northern": getSpawnInfo(`${item['source_sheet']}`, item['name'], 'nh'),
+                    "southern": getSpawnInfo(`${item['source_sheet']}`, item['name'], 'sh')
+                }
             },
             'image': {
                 'furniture': {
@@ -135,7 +117,6 @@ function formatCritterData(filename: string) {
             'vision': item['vision'],
             'catch_difficulty': item['catch_difficulty'],
             'movement_speed': item['movement_speed'],
-            'spawn_rates': item['spawn_rates'],
             'total_catch_to_unlock': item['total_catch_to_unlock'],
             'surface': item['surface'],
             'lighting_type': item['lighting_type'],
@@ -148,7 +129,11 @@ function formatCritterData(filename: string) {
                 'all_year': allYear,
                 'times': availTime,
                 'months-northern': availMonthNorthern,
-                'months-southern': availMonthSouthern
+                'months-southern': availMonthSouthern,
+                'spawn_rate': {
+                    "northern": getSpawnInfo(`${item['source_sheet']}`, item['name'], 'nh'),
+                    "southern": getSpawnInfo(`${item['source_sheet']}`, item['name'], 'sh')
+                }
             },
             'image': {
                 'furniture': {
@@ -167,34 +152,12 @@ function formatCritterData(filename: string) {
         }
         fullOutputData.push(fullJsonData)
 
-
-        let csvRecord = {name: item['name'], spawn_rate: item['spawn_rates'], max_spawn_rate: max}
-        csvOutputData.push(csvRecord);
-
     }
 
-    let largestVal = Math.max(...minMaxVals);
-    console.log('largest value: ', largestVal)
-
-    const rows = ["creature", "spawn_rate", "max_spawn_rate"]
-
-    const csvWriter = createCsvWriter({
-        path: `out/csv/${filename}.csv`,
-        header: [
-            {id: 'name', title: 'creature' },
-            {id: 'spawn_rate', title: 'spawn rate'},
-            {id: 'max_spawn_rate', title: 'max. spawn rate'}
-        ],
-        encoding: 'utf8'
-    });
-    csvWriter.writeRecords(csvOutputData)
-        .then(() => {
-            console.log('... done');
-        });
-
-    //cleanup(prettyOutputData);
-    //writeJSON(`out/pretty/${filename}.json`, prettyOutputData);
-    //writeJSON(`out/full/${filename}.json`, fullOutputData);
+    cleanup.delUndef(prettyOutputData);
+    cleanup.delUndef(fullOutputData);
+    writeJSON(`out/pretty/${filename}.json`, prettyOutputData);
+    writeJSON(`out/full/${filename}.json`, fullOutputData);
 
 }
 
