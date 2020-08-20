@@ -7,19 +7,16 @@ function formatCritterData(filename: string) {
     const inputDataFile = fs.readFileSync(`src/data/${filename}.json`)
     // @ts-ignore
     const inputData = JSON.parse(inputDataFile)
-    var prettyOutputData: any = [];
-    var fullOutputData: any = [];
-    var csvOutputData: any = [];
-
-    var minMaxVals: number[] = [];
+    let prettyOutputData: any = [];
+    let fullOutputData: any = [];
 
     for (const item of inputData) {
         // hemisphere availability
-        var availMonthNorthern: string[] = [];
-        var availMonthSouthern: string[] = [];
-        var availTime: number[] = [];
-        var allDay: boolean = false;
-        var allYear: boolean = false;
+        let availMonthNorthern: string[] = [];
+        let availMonthSouthern: string[] = [];
+        let availTime: number[] = [];
+        let allDay: boolean = false;
+        let allYear: boolean = false;
 
 
         for (const availability of item['active_months']['northern']) {
@@ -32,11 +29,8 @@ function formatCritterData(filename: string) {
 
         // doesn't matter which hemisphere is used, year-long availability is the same across
         // hemispheres
-        if (availMonthNorthern.length < 12) {
-            allYear = false
-        } else {
-            allYear = true;
-        }
+        allYear = availMonthNorthern.length >= 12;
+
         // it doesn't really matter which hemisphere is used here, the times are the same
         for (const availability of item['active_months']['northern']) {
             if (availability['isAllDay']) {

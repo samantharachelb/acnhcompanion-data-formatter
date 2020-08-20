@@ -15,8 +15,6 @@ function getSpawnInfo(critterType: string, critterName: string, region: string) 
     if (critterType.match(/\s/)) {
         critterType = critterType.replace(/\s/, '_');
     }
-    console.log(critterType);
-    console.log(critterName);
 
     let inputDatafile = fs.readFileSync(`src/data/spawn-rate/${critterType}_${region}.json`);
     // @ts-ignore
