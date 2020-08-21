@@ -10,7 +10,27 @@ function delUndef(obj: any) {
         } else if (obj[key] === undefined) {
             delete obj[key];
         }
-    })
+    });
+}
+
+function delNull(obj: any) {
+    Object.keys(obj).forEach(key => {
+        if(obj[key] && typeof obj[key] === 'object') {
+            delNull(obj[key]);
+        } else if (obj[key] === null) {
+            delete obj[key];
+        }
+    });
+}
+
+function delUndefNull(obj: any) {
+    Object.keys(obj).forEach(key => {
+        if(obj[key] && typeof obj[key] === 'object') {
+            delUndefNull(obj[key]);
+        } else if (obj[key] === undefined || obj[key] === null) {
+            delete obj[key];
+        }
+    });
 }
 
 function naMapToInt(obj: any) {
@@ -18,9 +38,9 @@ function naMapToInt(obj: any) {
         if(obj[key] && typeof obj[key] === 'object') {
             naMapToInt(obj[key]);
         } else if (obj[key].match(/([Nn])\/?([Aa])/)) {
-            obj[key] = "0"
+            obj[key] = "0";
         }
-    })
+    });
 }
 
 function stripChar(obj: any, char: string) {
@@ -31,6 +51,6 @@ function stripChar(obj: any, char: string) {
         } else if (obj[key].match(regex)) {
             obj[key] = obj[key].replace(regex, '');
         }
-    })
+    });
 }
-export { delUndef, naMapToInt, stripChar };
+export { delUndef, delNull, delUndefNull, naMapToInt, stripChar };

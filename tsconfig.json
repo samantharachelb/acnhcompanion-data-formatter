@@ -20,10 +20,7 @@
     "outDir": "build",
     "baseUrl": "./",
     "paths": {
-      "@src/*": ["src/*"],
-      "@utils/*": ["src/utils/*"],
-      "@format/*": ["src/format"],
-      "@data/*": ["src/data"]
+      "@src/*": ["src/*"]
     }
   },
   "exclude": ["out", "build"]
