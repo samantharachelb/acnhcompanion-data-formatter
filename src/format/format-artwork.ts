@@ -1,6 +1,6 @@
 import fs from 'fs';
-import writeJSON from "./write-json";
-import * as cleanup from './cleanup';
+import writeJSON from "@src/utils/write-json";
+import * as cleanup from '@src/utils/cleanup';
 
 function formatArtwork(filename: string) {
     const inputDataFile = fs.readFileSync(`src/data/${filename}.json`);
@@ -10,7 +10,17 @@ function formatArtwork(filename: string) {
     const fullOutputData: any = [];
 
     for (const item of inputData) {
-        let prettyJsonData = {};
+        let prettyJsonData = {
+            'name': item['name'],
+            'real_artwork_title': item['real_artwork_title'],
+            'artist': item['artist'],
+            'description': item['description'],
+            'catalog': item['catalog'],
+            'hha': {
+                'base_points': item['hha_base_points']
+            },
+            'variants': item['variants']
+        };
         prettyOutputData.push(prettyJsonData);
         fullOutputData.push(prettyJsonData);
     }

@@ -1,8 +1,7 @@
-import fs from 'fs';
-import formatCritterData from "./format-critters";
-import formatFurnitureData from "./format-furniture";
-import formatClothingData from "./format-clothing";
-
+import formatCritterData from "@src/format/format-critters";
+import formatFurnitureData from "@src/format/format-furniture";
+import formatClothingData from "@src/format/format-clothing";
+import formatArtwork from "@src/format/format-artwork";
 
 // json file names for specific sets
 const clothing = ['clothing', 'tops', 'bottoms', 'dress_up', 'headwear', 'accessories', 'socks', 'shoes', 'bags', 'clothing_other'];
@@ -28,9 +27,9 @@ for (let index = 0; index < clothing.length; index++) {
  * @todo Achievements Data
  */
 
-/**
- * @todo Art Data
- */
+
+console.info('Processing data for art');
+formatArtwork('art');
 
 /**
  * @todo Construction Item Data

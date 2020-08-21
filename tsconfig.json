@@ -6,11 +6,8 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strict": true,
-
     "strictPropertyInitialization": true,
-
     "incremental": true,
-
     "lib": ["es2018", "esnext.asynciterable"],
     "module": "commonjs",
     "esModuleInterop": true,
@@ -20,7 +17,14 @@
     "declaration": true,
     "importHelpers": true,
     "types": ["node"],
-    "outDir": "build"
+    "outDir": "build",
+    "baseUrl": "./",
+    "paths": {
+      "@src/*": ["src/*"],
+      "@utils/*": ["src/utils/*"],
+      "@format/*": ["src/format"],
+      "@data/*": ["src/data"]
+    }
   },
   "exclude": ["out", "build"]
 }

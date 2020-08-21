@@ -1,7 +1,7 @@
 import fs from 'fs';
-import getSpawnInfo from "./get-spawn-info";
-import writeJSON from './write-json';
-import * as cleanup from './cleanup';
+import getSpawnInfo from "@src/utils/get-spawn-info";
+import writeJSON from '@src/utils/write-json';
+import * as cleanup from '@src/utils/cleanup';
 
 function formatCritterData(filename: string) {
     const inputDataFile = fs.readFileSync(`src/data/${filename}.json`)

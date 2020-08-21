@@ -1,6 +1,6 @@
 import fs from 'fs';
-import writeJSON from "./write-json";
-import * as cleanup from './cleanup';
+import writeJSON from "@src/utils/write-json";
+import * as cleanup from '@src/utils/cleanup';
 
 function formatClothingData(filename: string) {
     const inputDataFile = fs.readFileSync(`src/data/${filename}.json`);

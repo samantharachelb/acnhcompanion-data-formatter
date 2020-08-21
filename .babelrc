@@ -1,0 +1,16 @@
+{
+  "presets": ["@babel/preset-env", "@babel/preset-typescript"],
+  "plugins": [
+    ["@babel/plugin-transform-runtime"],
+    ["module-resolver", {
+      "extensions": [".ts"],
+      "root": ["./src"],
+      "alias": {
+        "@src": "./src",
+        "@utils/*": "./src/utils/*",
+        "@format/*": "./src/format",
+        "@data/*": "./src/data"
+      }
+    }]
+  ]
+}
