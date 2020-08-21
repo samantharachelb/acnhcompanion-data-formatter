@@ -3,6 +3,7 @@ import formatFurnitureData from "@src/format/format-furniture";
 import formatClothingData from "@src/format/format-clothing";
 import formatArtwork from "@src/format/format-artwork";
 import formatAchievements from "@src/format/format-achievements";
+import formatConstruction from "@src/format/format-construction";
 
 // json file names for specific sets
 const clothing = ['clothing', 'tops', 'bottoms', 'dress_up', 'headwear', 'accessories', 'socks', 'shoes', 'bags', 'clothing_other'];
@@ -24,17 +25,14 @@ for (let index = 0; index < clothing.length; index++) {
     formatClothingData(clothing[index]);
 }
 
-console.log('Processing data for achievements');
+console.info('Processing data for achievements');
 formatAchievements('achievements');
-
 
 console.info('Processing data for art');
 formatArtwork('art');
 
-/**
- * @todo Construction Item Data
- */
-
+console.info('Processing data for construction');
+formatConstruction('construction');
 /**
  * @todo Fencing Data
  */
