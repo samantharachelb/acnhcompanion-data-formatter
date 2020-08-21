@@ -5,6 +5,7 @@ import formatArtwork from "@src/format/format-artwork";
 import formatAchievements from "@src/format/format-achievements";
 import formatConstruction from "@src/format/format-construction";
 import formatFencing from "@src/format/format-fencing";
+import formatFossils from "@src/format/format-fossils";
 
 // json file names for specific sets
 const clothing = ['clothing', 'tops', 'bottoms', 'dress_up', 'headwear', 'accessories', 'socks', 'shoes', 'bags', 'clothing_other'];
@@ -38,9 +39,8 @@ formatConstruction('construction');
 console.info('Processing data for fencing');
 formatFencing('fencing');
 
-/**
- * @todo Fossils Data
- */
+console.info('Processing data for fossils');
+formatFossils('fossils');
 
 /**
  * @todo Music Data
