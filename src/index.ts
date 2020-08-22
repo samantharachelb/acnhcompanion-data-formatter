@@ -68,6 +68,6 @@ for (const filename of workset_files) {
 
     cleanup.delUndef(minOutputData);
     cleanup.delUndef(fullOutputData);
-    writeJSON(`out/pretty/${filename}_full.json`, minOutputData);
-    writeJSON(`out/full/${filename}.json`, fullOutputData);
+    writeJSON(`out/pretty/${filename}.json`, minOutputData);
+    writeJSON(`out/full/${filename}_full.json`, fullOutputData);
 }
