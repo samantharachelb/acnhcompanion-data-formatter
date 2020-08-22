@@ -1,7 +1,6 @@
 # ACNH Companion Data Formatter
 
 Formats the JSON data from the google sheets into an aesthetically pleasing JSON output. 
-That same formatted output can also be used with mongodb later.
 
 A spreadsheet containing all of the relevant spawn rate data can be found 
 [here](https://docs.google.com/spreadsheets/d/1AdHpfKIAVst9pOIoXPNN4kN8sGlxReSEKogo7ypdVKM/edit?usp=sharing).
