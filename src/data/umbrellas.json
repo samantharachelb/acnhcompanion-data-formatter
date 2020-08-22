@@ -7,9 +7,11 @@
     "diy": true,
     "hha_base_points": 103,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "Not for sale",
+    "internal_id": 9948,
     "variants": [
       {
         "filename": "UmbrellaApple0",
@@ -35,9 +37,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6919,
     "variants": [
       {
         "filename": "UmbrellaBat0",
@@ -63,9 +67,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 9957,
     "variants": [
       {
         "filename": "UmbrellaBeach0",
@@ -91,10 +97,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7167,
     "variants": [
       {
         "filename": "UmbrellaBear0",
@@ -120,10 +128,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 12137,
     "variants": [
       {
         "filename": "UmbrellaPacodarace5",
@@ -149,9 +159,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6915,
     "variants": [
       {
         "filename": "UmbrellaRace0",
@@ -177,9 +189,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 9956,
     "variants": [
       {
         "filename": "UmbrellaPolkadot2",
@@ -205,10 +219,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 12134,
     "variants": [
       {
         "filename": "UmbrellaPacodarace2",
@@ -234,9 +250,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 9959,
     "variants": [
       {
         "filename": "UmbrellaStandard2",
@@ -262,10 +280,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7182,
     "variants": [
       {
         "filename": "UmbrellaBroken0",
@@ -291,9 +311,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6923,
     "variants": [
       {
         "filename": "UmbrellaOutdoor0",
@@ -319,9 +341,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6926,
     "variants": [
       {
         "filename": "UmbrellaGingham0",
@@ -347,9 +371,11 @@
     "diy": true,
     "hha_base_points": 103,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "Not for sale",
+    "internal_id": 9949,
     "variants": [
       {
         "filename": "UmbrellaCherry0",
@@ -375,9 +401,11 @@
     "diy": true,
     "hha_base_points": 201,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "Not for sale",
+    "internal_id": 9945,
     "variants": [
       {
         "filename": "UmbrellaCherryblossom0",
@@ -403,10 +431,12 @@
     "diy": false,
     "hha_base_points": 251,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Received in mail from DAL after 160 flights",
     "villager_equippable": true,
     "catalog": "Not for sale",
+    "internal_id": 9560,
     "variants": [
       {
         "filename": "UmbrellaDoc0",
@@ -432,9 +462,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 9955,
     "variants": [
       {
         "filename": "UmbrellaPolkadot1",
@@ -460,10 +492,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7171,
     "variants": [
       {
         "filename": "UmbrellaChina0",
@@ -489,9 +523,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7175,
     "variants": [
       {
         "filename": "UmbrellaFairytale0",
@@ -517,15 +553,17 @@
     "diy": false,
     "hha_base_points": 501,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "Not for sale",
+    "internal_id": 8768,
     "variants": [
       {
         "filename": "UmbrellaFish0",
         "colors": [
           "Blue",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Fishing Tourney"
@@ -545,10 +583,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6925,
     "variants": [
       {
         "filename": "UmbrellaFrog0",
@@ -574,9 +614,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7180,
     "variants": [
       {
         "filename": "UmbrellaTricolor0",
@@ -602,10 +644,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6924,
     "variants": [
       {
         "filename": "UmbrellaTeruteru0",
@@ -631,10 +675,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6911,
     "variants": [
       {
         "filename": "UmbrellaGrape0",
@@ -660,10 +706,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 12136,
     "variants": [
       {
         "filename": "UmbrellaPacodarace4",
@@ -689,9 +737,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 9960,
     "variants": [
       {
         "filename": "UmbrellaStandard3",
@@ -717,14 +767,16 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6906,
     "variants": [
       {
         "filename": "UmbrellaHydrangea0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -745,10 +797,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7177,
     "variants": [
       {
         "filename": "UmbrellaKabuki0",
@@ -774,10 +828,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6908,
     "variants": [
       {
         "filename": "UmbrellaKiwi0",
@@ -803,10 +859,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 9946,
     "variants": [
       {
         "filename": "UmbrellaLace0",
@@ -832,9 +890,11 @@
     "diy": false,
     "hha_base_points": 501,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "Not for sale",
+    "internal_id": 8767,
     "variants": [
       {
         "filename": "UmbrellaLadybug0",
@@ -860,9 +920,11 @@
     "diy": true,
     "hha_base_points": 103,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "Not for sale",
+    "internal_id": 6840,
     "variants": [
       {
         "filename": "UmbrellaLeaf0",
@@ -888,9 +950,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 9954,
     "variants": [
       {
         "filename": "UmbrellaGingham4",
@@ -916,9 +980,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7172,
     "variants": [
       {
         "filename": "UmbrellaLogo0",
@@ -944,9 +1010,11 @@
     "diy": true,
     "hha_base_points": 201,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "Not for sale",
+    "internal_id": 7169,
     "variants": [
       {
         "filename": "UmbrellaAutumn0",
@@ -972,9 +1040,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 9951,
     "variants": [
       {
         "filename": "UmbrellaGingham1",
@@ -1000,9 +1070,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6914,
     "variants": [
       {
         "filename": "UmbrellaFlorets0",
@@ -1028,9 +1100,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 9952,
     "variants": [
       {
         "filename": "UmbrellaGingham2",
@@ -1056,9 +1130,11 @@
     "diy": true,
     "hha_base_points": 103,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "Not for sale",
+    "internal_id": 7174,
     "variants": [
       {
         "filename": "UmbrellaMushroom0",
@@ -1084,9 +1160,11 @@
     "diy": false,
     "hha_base_points": 151,
     "size": "1x1",
-    "miles_price": 700,
+    "exchange_price": 700,
+    "exchange_currency": "Nook Miles",
     "villager_equippable": true,
     "catalog": "Not for sale",
+    "internal_id": 9561,
     "variants": [
       {
         "filename": "UmbrellaRco0",
@@ -1095,7 +1173,7 @@
           "White"
         ],
         "source": [
-          "Nook Miles Shop"
+          "Nook Miles Redemption"
         ],
         "buy": -1,
         "sell": 3500,
@@ -1112,9 +1190,11 @@
     "diy": true,
     "hha_base_points": 103,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "Not for sale",
+    "internal_id": 6912,
     "variants": [
       {
         "filename": "UmbrellaOrange0",
@@ -1140,10 +1220,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7170,
     "variants": [
       {
         "filename": "UmbrellaPanda0",
@@ -1169,9 +1251,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7178,
     "variants": [
       {
         "filename": "UmbrellaBangasa0",
@@ -1197,9 +1281,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6918,
     "variants": [
       {
         "filename": "UmbrellaBoundary0",
@@ -1225,9 +1311,11 @@
     "diy": true,
     "hha_base_points": 103,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "Not for sale",
+    "internal_id": 9947,
     "variants": [
       {
         "filename": "UmbrellaPeach0",
@@ -1253,9 +1341,11 @@
     "diy": true,
     "hha_base_points": 103,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "Not for sale",
+    "internal_id": 9950,
     "variants": [
       {
         "filename": "UmbrellaPear0",
@@ -1281,10 +1371,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7181,
     "variants": [
       {
         "filename": "UmbrellaMargaret0",
@@ -1310,9 +1402,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 9953,
     "variants": [
       {
         "filename": "UmbrellaGingham3",
@@ -1338,10 +1432,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6910,
     "variants": [
       {
         "filename": "UmbrellaPineapple0",
@@ -1367,10 +1463,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7176,
     "variants": [
       {
         "filename": "UmbrellaPacodarace0",
@@ -1396,9 +1494,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7164,
     "variants": [
       {
         "filename": "UmbrellaSchool0",
@@ -1424,10 +1524,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7183,
     "variants": [
       {
         "filename": "UmbrellaPacoda0",
@@ -1453,10 +1555,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 12133,
     "variants": [
       {
         "filename": "UmbrellaPacodarace1",
@@ -1482,9 +1586,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7179,
     "variants": [
       {
         "filename": "UmbrellaRainbow0",
@@ -1510,15 +1616,17 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6913,
     "variants": [
       {
         "filename": "UmbrellaRain0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Nook's Cranny"
@@ -1538,10 +1646,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 12138,
     "variants": [
       {
         "filename": "UmbrellaPacodarace6",
@@ -1567,9 +1677,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 9958,
     "variants": [
       {
         "filename": "UmbrellaStandard1",
@@ -1595,16 +1707,18 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6905,
     "variants": [
       {
         "filename": "UmbrellaCrystal0",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Nook's Cranny"
@@ -1624,9 +1738,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7173,
     "variants": [
       {
         "filename": "UmbrellaSpider0",
@@ -1652,10 +1768,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6907,
     "variants": [
       {
         "filename": "UmbrellaStrawberry0",
@@ -1681,9 +1799,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6916,
     "variants": [
       {
         "filename": "UmbrellaStripe0",
@@ -1709,9 +1829,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6904,
     "variants": [
       {
         "filename": "UmbrellaSunflower0",
@@ -1737,9 +1859,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6917,
     "variants": [
       {
         "filename": "UmbrellaPlaid0",
@@ -1765,9 +1889,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 5861,
     "variants": [
       {
         "filename": "UmbrellaPolkadotRed",
@@ -1793,9 +1919,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7166,
     "variants": [
       {
         "filename": "UmbrellaTwocolor0",
@@ -1821,9 +1949,11 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 7165,
     "variants": [
       {
         "filename": "UmbrellaVinyl0",
@@ -1849,10 +1979,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 6909,
     "variants": [
       {
         "filename": "UmbrellaWater0",
@@ -1878,10 +2010,12 @@
     "diy": false,
     "hha_base_points": 3,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "villager_equippable": true,
     "catalog": "For sale",
+    "internal_id": 12135,
     "variants": [
       {
         "filename": "UmbrellaPacodarace3",

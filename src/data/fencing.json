@@ -4,6 +4,7 @@
     "name": "bamboo lattice fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 3403,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceBamboo.png",
@@ -24,6 +25,7 @@
     "name": "barbed-wire fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 5213,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceBarbedWire.png",
@@ -44,6 +46,7 @@
     "name": "brick fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 3080,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceWallRenga.png",
@@ -64,6 +67,7 @@
     "name": "Bunny Day fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 12630,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceEgg.png",
@@ -84,6 +88,7 @@
     "name": "corral fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 4349,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceHorizontalWood.png",
@@ -104,6 +109,7 @@
     "name": "country fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 4350,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLog.png",
@@ -124,6 +130,7 @@
     "name": "hedge",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 12758,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIkegaki.png",
@@ -144,6 +151,7 @@
     "name": "imperial fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 4354,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceChinese.png",
@@ -164,6 +172,7 @@
     "name": "iron fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 4357,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel.png",
@@ -184,6 +193,7 @@
     "name": "iron-and-stone fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 5206,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIronAndStone.png",
@@ -204,6 +214,7 @@
     "name": "lattice fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 11712,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural.png",
@@ -224,6 +235,7 @@
     "name": "rope fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 4352,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePegRope.png",
@@ -245,6 +257,7 @@
     "diy": true,
     "stack_size": 50,
     "source_notes": "50 fences are given by Tom Nook after completing the three house plots during the main storyline",
+    "internal_id": 11711,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural.png",
@@ -266,6 +279,7 @@
     "name": "spiky fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 4358,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSharply.png",
@@ -286,6 +300,7 @@
     "name": "stone fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 5212,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceStone.png",
@@ -306,6 +321,7 @@
     "name": "straw fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 4356,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceDriedStraw.png",
@@ -326,6 +342,7 @@
     "name": "vertical-board fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 3402,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood.png",
@@ -346,6 +363,7 @@
     "name": "wedding fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 12894,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride.png",
@@ -366,6 +384,7 @@
     "name": "zen fence",
     "diy": true,
     "stack_size": 50,
+    "internal_id": 5207,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese.png",

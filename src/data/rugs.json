@@ -5,10 +5,12 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
+    "internal_id": 7356,
     "series": null,
     "variants": [
       {
@@ -37,10 +39,12 @@
     "diy": true,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 103,
     "tag": "Fruit Rugs",
     "catalog": "Not for sale",
+    "internal_id": 7327,
     "series": "fruits",
     "variants": [
       {
@@ -69,19 +73,24 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": 1200,
+    "exchange_price": 1200,
+    "exchange_currency": "Nook Miles",
     "hha_base_points": 151,
     "tag": "Park Rugs",
     "catalog": "Not for sale",
+    "internal_id": 12214,
     "series": null,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherBellM00.png",
         "filename": "RugOtherBellM00",
-        "colors": [],
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
         "source": [
           "Nintendo",
-          "Nook Miles Shop"
+          "Nook Miles Redemption"
         ],
         "buy": -1,
         "sell": 6000,
@@ -98,10 +107,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 11104,
     "series": null,
     "variants": [
       {
@@ -129,10 +140,12 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Wood Rugs",
     "catalog": "For sale",
+    "internal_id": 7382,
     "series": null,
     "variants": [
       {
@@ -160,10 +173,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
+    "internal_id": 7594,
     "series": null,
     "variants": [
       {
@@ -191,10 +206,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 8467,
     "series": null,
     "variants": [
       {
@@ -223,10 +240,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 11102,
     "series": null,
     "variants": [
       {
@@ -254,10 +273,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7467,
     "series": null,
     "variants": [
       {
@@ -286,10 +307,12 @@
     "diy": false,
     "size": "5x5",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 9316,
     "series": null,
     "variants": [
       {
@@ -317,10 +340,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
+    "internal_id": 8394,
     "series": null,
     "variants": [
       {
@@ -348,10 +373,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
+    "internal_id": 9546,
     "series": null,
     "variants": [
       {
@@ -380,10 +407,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Message Mats",
     "catalog": "For sale",
+    "internal_id": 9310,
     "series": null,
     "variants": [
       {
@@ -411,10 +440,12 @@
     "diy": false,
     "size": "5x5",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 8035,
     "series": null,
     "variants": [
       {
@@ -443,10 +474,12 @@
     "diy": false,
     "size": "5x5",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 9564,
     "series": null,
     "variants": [
       {
@@ -474,10 +507,12 @@
     "diy": false,
     "size": "2x2",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
+    "internal_id": 9549,
     "series": null,
     "variants": [
       {
@@ -506,10 +541,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7533,
     "series": null,
     "variants": [
       {
@@ -538,10 +575,12 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7404,
     "series": null,
     "variants": [
       {
@@ -569,10 +608,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7458,
     "series": null,
     "variants": [
       {
@@ -580,7 +621,7 @@
         "filename": "RugRectWaveL02",
         "colors": [
           "Blue",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Saharah"
@@ -601,17 +642,22 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": 4,
+    "exchange_currency": "Heart Crystals",
     "source_notes": "Only available during Wedding Season",
     "hha_base_points": 437,
     "tag": "Slender Pattern Rugs",
     "catalog": "Not for sale",
+    "internal_id": 12462,
     "series": "wedding",
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM00.png",
         "filename": "RugRectJuneBrideM00",
-        "colors": [],
+        "colors": [
+          "Aqua",
+          "Aqua"
+        ],
         "source": [
           "Cyrus"
         ],
@@ -631,10 +677,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
+    "internal_id": 7595,
     "series": null,
     "variants": [
       {
@@ -662,10 +710,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7353,
     "series": null,
     "variants": [
       {
@@ -693,10 +743,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 8468,
     "series": null,
     "variants": [
       {
@@ -725,10 +777,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
+    "internal_id": 7341,
     "series": null,
     "variants": [
       {
@@ -756,10 +810,12 @@
     "diy": false,
     "size": "5x5",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 9563,
     "series": null,
     "variants": [
       {
@@ -787,10 +843,12 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Wood Rugs",
     "catalog": "For sale",
+    "internal_id": 7323,
     "series": null,
     "variants": [
       {
@@ -818,16 +876,21 @@
     "diy": true,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 351,
     "tag": "Icon Rugs",
     "catalog": "Not for sale",
+    "internal_id": 7546,
     "series": "Bunny Day",
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherEasterM00.png",
         "filename": "RugOtherEasterM00",
-        "colors": [],
+        "colors": [
+          "Colorful",
+          "Colorful"
+        ],
         "source": [
           "Crafting"
         ],
@@ -847,10 +910,12 @@
     "diy": true,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 103,
     "tag": "Fruit Rugs",
     "catalog": "Not for sale",
+    "internal_id": 7328,
     "series": "fruits",
     "variants": [
       {
@@ -879,10 +944,12 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7359,
     "series": null,
     "variants": [
       {
@@ -910,10 +977,12 @@
     "diy": true,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 103,
     "tag": "Wood Rugs",
     "catalog": "Not for sale",
+    "internal_id": 11114,
     "series": null,
     "variants": [
       {
@@ -941,10 +1010,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Icon Rugs",
     "catalog": "For sale",
+    "internal_id": 7357,
     "series": null,
     "variants": [
       {
@@ -973,18 +1044,20 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 501,
     "tag": "Icon Rugs",
     "catalog": "Not for sale",
+    "internal_id": 7361,
     "series": null,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherFishM00.png",
         "filename": "RugOtherFishM00",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Fishing Tourney"
@@ -1005,10 +1078,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Icon Rugs",
     "catalog": "For sale",
+    "internal_id": 7329,
     "series": null,
     "variants": [
       {
@@ -1037,10 +1112,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Park Rugs",
     "catalog": "For sale",
+    "internal_id": 7366,
     "series": null,
     "variants": [
       {
@@ -1069,10 +1146,12 @@
     "diy": false,
     "size": "4x4",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7464,
     "series": null,
     "variants": [
       {
@@ -1101,10 +1180,12 @@
     "diy": false,
     "size": "5x5",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 9314,
     "series": null,
     "variants": [
       {
@@ -1132,10 +1213,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
+    "internal_id": 8393,
     "series": null,
     "variants": [
       {
@@ -1163,10 +1246,12 @@
     "diy": false,
     "size": "5x5",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7354,
     "series": null,
     "variants": [
       {
@@ -1194,10 +1279,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7534,
     "series": null,
     "variants": [
       {
@@ -1226,10 +1313,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
+    "internal_id": 7337,
     "series": "iron",
     "variants": [
       {
@@ -1258,10 +1347,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
+    "internal_id": 7325,
     "series": null,
     "variants": [
       {
@@ -1290,10 +1381,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
+    "internal_id": 7333,
     "series": null,
     "variants": [
       {
@@ -1321,10 +1414,12 @@
     "diy": false,
     "size": "2x2",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
+    "internal_id": 7334,
     "series": null,
     "variants": [
       {
@@ -1353,10 +1448,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
+    "internal_id": 7368,
     "series": null,
     "variants": [
       {
@@ -1385,10 +1482,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 501,
     "tag": "Icon Rugs",
     "catalog": "Not for sale",
+    "internal_id": 7360,
     "series": null,
     "variants": [
       {
@@ -1417,10 +1516,12 @@
     "diy": true,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 201,
     "tag": "Wood Rugs",
     "catalog": "Not for sale",
+    "internal_id": 11113,
     "series": null,
     "variants": [
       {
@@ -1448,10 +1549,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
+    "internal_id": 7367,
     "series": null,
     "variants": [
       {
@@ -1480,17 +1583,19 @@
     "diy": true,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 451,
     "tag": "Icon Rugs",
     "catalog": "Not for sale",
+    "internal_id": 12563,
     "series": "mermaid",
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherMermaidM00.png",
         "filename": "RugOtherMermaidM00",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "source": [
@@ -1512,10 +1617,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7350,
     "series": null,
     "variants": [
       {
@@ -1544,19 +1651,21 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Received in November in the Northern Hemisphere and received in May in the Southern Hemisphere",
     "hha_base_points": 365,
     "tag": "Kitchen Rugs",
     "catalog": "Not for sale",
+    "internal_id": 7402,
     "series": "motherly",
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/RugRectMomS00.png",
         "filename": "RugRectMomS00",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Mom"
@@ -1577,11 +1686,13 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Received in November in the Northern Hemisphere and received in May in the Southern Hemisphere",
     "hha_base_points": 365,
     "tag": "Kitchen Rugs",
     "catalog": "Not for sale",
+    "internal_id": 9543,
     "series": "motherly",
     "variants": [
       {
@@ -1610,11 +1721,13 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Received in November in the Northern Hemisphere and received in May in the Southern Hemisphere",
     "hha_base_points": 365,
     "tag": "Kitchen Rugs",
     "catalog": "Not for sale",
+    "internal_id": 9542,
     "series": "motherly",
     "variants": [
       {
@@ -1643,11 +1756,13 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Received in November in the Northern Hemisphere and received in May in the Southern Hemisphere",
     "hha_base_points": 365,
     "tag": "Kitchen Rugs",
     "catalog": "Not for sale",
+    "internal_id": 9541,
     "series": "motherly",
     "variants": [
       {
@@ -1676,10 +1791,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7349,
     "series": null,
     "variants": [
       {
@@ -1708,10 +1825,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7456,
     "series": null,
     "variants": [
       {
@@ -1740,11 +1859,13 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Only available during the month Moon-Viewing Day occurs",
     "hha_base_points": 201,
     "tag": "Shaggy Round Rugs",
     "catalog": "Not in catalog",
+    "internal_id": 13287,
     "series": null,
     "variants": [
       {
@@ -1773,10 +1894,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Icon Rugs",
     "catalog": "For sale",
+    "internal_id": 7363,
     "series": "mush",
     "variants": [
       {
@@ -1805,10 +1928,12 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Wood Rugs",
     "catalog": "For sale",
+    "internal_id": 7380,
     "series": null,
     "variants": [
       {
@@ -1836,18 +1961,23 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": 1000,
+    "exchange_price": 1000,
+    "exchange_currency": "Nook Miles",
     "hha_base_points": 151,
     "tag": "Park Rugs",
     "catalog": "Not for sale",
+    "internal_id": 12325,
     "series": null,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherTanukiM00.png",
         "filename": "RugOtherTanukiM00",
-        "colors": [],
+        "colors": [
+          "Yellow",
+          "Green"
+        ],
         "source": [
-          "Nook Miles Shop"
+          "Nook Miles Redemption"
         ],
         "buy": -1,
         "sell": 5000,
@@ -1865,10 +1995,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": 1000,
+    "exchange_price": 1000,
+    "exchange_currency": "Nook Miles",
     "hha_base_points": 151,
     "tag": "Park Rugs",
     "catalog": "Not for sale",
+    "internal_id": 7364,
     "series": null,
     "variants": [
       {
@@ -1879,7 +2011,7 @@
           "Green"
         ],
         "source": [
-          "Nook Miles Shop"
+          "Nook Miles Redemption"
         ],
         "buy": -1,
         "sell": 5000,
@@ -1897,18 +2029,23 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": 600,
+    "exchange_price": 600,
+    "exchange_currency": "Nook Miles",
     "hha_base_points": 0,
     "tag": "Park Rugs",
     "catalog": "Not for sale",
+    "internal_id": 12396,
     "series": null,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/RugRectTanukiL00.png",
         "filename": "RugRectTanukiL00",
-        "colors": [],
+        "colors": [
+          "Green",
+          "Green"
+        ],
         "source": [
-          "Nook Miles Shop"
+          "Nook Miles Redemption"
         ],
         "buy": -1,
         "sell": 3000,
@@ -1926,10 +2063,12 @@
     "diy": true,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 103,
     "tag": "Fruit Rugs",
     "catalog": "Not for sale",
+    "internal_id": 7330,
     "series": "fruits",
     "variants": [
       {
@@ -1958,10 +2097,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
+    "internal_id": 7370,
     "series": null,
     "variants": [
       {
@@ -1989,10 +2130,12 @@
     "diy": false,
     "size": "4x4",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7463,
     "series": null,
     "variants": [
       {
@@ -2000,7 +2143,7 @@
         "filename": "RugSquareCheckQuiltL02",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Saharah"
@@ -2021,10 +2164,12 @@
     "diy": true,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 103,
     "tag": "Fruit Rugs",
     "catalog": "Not for sale",
+    "internal_id": 7331,
     "series": "fruits",
     "variants": [
       {
@@ -2053,10 +2198,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7532,
     "series": null,
     "variants": [
       {
@@ -2085,10 +2232,12 @@
     "diy": true,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 103,
     "tag": "Fruit Rugs",
     "catalog": "Not for sale",
+    "internal_id": 7332,
     "series": "fruits",
     "variants": [
       {
@@ -2117,10 +2266,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Heart Rugs",
     "catalog": "For sale",
+    "internal_id": 7322,
     "series": null,
     "variants": [
       {
@@ -2149,10 +2300,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Rose Rug",
     "catalog": "For sale",
+    "internal_id": 7365,
     "series": null,
     "variants": [
       {
@@ -2181,18 +2334,20 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 451,
     "tag": "Slender Pattern Rugs",
     "catalog": "Not for sale",
+    "internal_id": 12564,
     "series": "pirate",
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/RugRectPiratesM00.png",
         "filename": "RugRectPiratesM00",
         "colors": [
-          "Blue",
-          "Brown"
+          "Beige",
+          "Beige"
         ],
         "source": [
           "Gullivarrr"
@@ -2213,10 +2368,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Heart Rugs",
     "catalog": "For sale",
+    "internal_id": 7580,
     "series": null,
     "variants": [
       {
@@ -2245,10 +2402,12 @@
     "diy": false,
     "size": "5x5",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 8037,
     "series": null,
     "variants": [
       {
@@ -2277,10 +2436,12 @@
     "diy": false,
     "size": "5x5",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 9562,
     "series": null,
     "variants": [
       {
@@ -2308,10 +2469,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 8466,
     "series": null,
     "variants": [
       {
@@ -2340,10 +2503,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 11101,
     "series": null,
     "variants": [
       {
@@ -2371,10 +2536,12 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
+    "internal_id": 7348,
     "series": null,
     "variants": [
       {
@@ -2402,10 +2569,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7465,
     "series": null,
     "variants": [
       {
@@ -2434,10 +2603,12 @@
     "diy": false,
     "size": "5x5",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 9313,
     "series": null,
     "variants": [
       {
@@ -2465,10 +2636,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
+    "internal_id": 9545,
     "series": null,
     "variants": [
       {
@@ -2497,10 +2670,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Message Mats",
     "catalog": "For sale",
+    "internal_id": 9312,
     "series": null,
     "variants": [
       {
@@ -2528,10 +2703,12 @@
     "diy": false,
     "size": "5x5",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7347,
     "series": null,
     "variants": [
       {
@@ -2560,10 +2737,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Rose Rug",
     "catalog": "For sale",
+    "internal_id": 8758,
     "series": "flowers",
     "variants": [
       {
@@ -2592,10 +2771,12 @@
     "diy": false,
     "size": "2x2",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
+    "internal_id": 9548,
     "series": null,
     "variants": [
       {
@@ -2624,10 +2805,12 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7405,
     "series": null,
     "variants": [
       {
@@ -2655,10 +2838,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7457,
     "series": null,
     "variants": [
       {
@@ -2687,17 +2872,22 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": 4,
+    "exchange_currency": "Heart Crystals",
     "source_notes": "Only available during Wedding Season",
     "hha_base_points": 437,
     "tag": "Slender Pattern Rugs",
     "catalog": "Not for sale",
+    "internal_id": 12465,
     "series": "wedding",
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM02.png",
         "filename": "RugRectJuneBrideM02",
-        "colors": [],
+        "colors": [
+          "Red",
+          "Red"
+        ],
         "source": [
           "Cyrus"
         ],
@@ -2717,10 +2907,12 @@
     "diy": false,
     "size": "4x4",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7343,
     "series": null,
     "variants": [
       {
@@ -2749,10 +2941,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
+    "internal_id": 7340,
     "series": null,
     "variants": [
       {
@@ -2780,10 +2974,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7466,
     "series": null,
     "variants": [
       {
@@ -2812,10 +3008,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
+    "internal_id": 7324,
     "series": null,
     "variants": [
       {
@@ -2844,10 +3042,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
+    "internal_id": 7339,
     "series": null,
     "variants": [
       {
@@ -2875,10 +3075,12 @@
     "diy": false,
     "size": "4x4",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7345,
     "series": null,
     "variants": [
       {
@@ -2906,10 +3108,12 @@
     "diy": true,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 103,
     "tag": "Park Rugs",
     "catalog": "Not for sale",
+    "internal_id": 7362,
     "series": "shell",
     "variants": [
       {
@@ -2938,10 +3142,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
+    "internal_id": 7516,
     "series": null,
     "variants": [
       {
@@ -2969,10 +3175,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7524,
     "series": null,
     "variants": [
       {
@@ -3001,10 +3209,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7539,
     "series": null,
     "variants": [
       {
@@ -3033,10 +3243,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7523,
     "series": null,
     "variants": [
       {
@@ -3065,10 +3277,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7519,
     "series": null,
     "variants": [
       {
@@ -3097,10 +3311,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7536,
     "series": null,
     "variants": [
       {
@@ -3129,10 +3345,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7538,
     "series": null,
     "variants": [
       {
@@ -3161,10 +3379,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7540,
     "series": null,
     "variants": [
       {
@@ -3193,10 +3413,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
+    "internal_id": 7518,
     "series": null,
     "variants": [
       {
@@ -3224,10 +3446,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Rugs",
     "catalog": "For sale",
+    "internal_id": 7517,
     "series": null,
     "variants": [
       {
@@ -3255,10 +3479,12 @@
     "diy": false,
     "size": "2x2",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7520,
     "series": null,
     "variants": [
       {
@@ -3287,10 +3513,12 @@
     "diy": false,
     "size": "2x2",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7543,
     "series": null,
     "variants": [
       {
@@ -3319,10 +3547,12 @@
     "diy": false,
     "size": "2x2",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7521,
     "series": null,
     "variants": [
       {
@@ -3351,10 +3581,12 @@
     "diy": false,
     "size": "2x2",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7522,
     "series": null,
     "variants": [
       {
@@ -3383,10 +3615,12 @@
     "diy": false,
     "size": "2x2",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7541,
     "series": null,
     "variants": [
       {
@@ -3415,10 +3649,12 @@
     "diy": false,
     "size": "2x2",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7542,
     "series": null,
     "variants": [
       {
@@ -3447,10 +3683,12 @@
     "diy": false,
     "size": "2x2",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7537,
     "series": null,
     "variants": [
       {
@@ -3479,18 +3717,20 @@
     "diy": false,
     "size": "4x4",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7371,
     "series": null,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherSloppyL00.png",
         "filename": "RugOtherSloppyL00",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Saharah"
@@ -3511,17 +3751,19 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
+    "internal_id": 7346,
     "series": null,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundSnowM00.png",
         "filename": "RugRoundSnowM00",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -3543,10 +3785,12 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Wood Rugs",
     "catalog": "For sale",
+    "internal_id": 7369,
     "series": null,
     "variants": [
       {
@@ -3574,10 +3818,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Park Rugs",
     "catalog": "For sale",
+    "internal_id": 7358,
     "series": null,
     "variants": [
       {
@@ -3605,18 +3851,20 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Heart Rugs",
     "catalog": "For sale",
+    "internal_id": 7579,
     "series": null,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM01.png",
         "filename": "RugOtherHeartM01",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Saharah"
@@ -3637,10 +3885,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Heart Rugs",
     "catalog": "For sale",
+    "internal_id": 7578,
     "series": null,
     "variants": [
       {
@@ -3669,10 +3919,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Message Mats",
     "catalog": "For sale",
+    "internal_id": 7338,
     "series": null,
     "variants": [
       {
@@ -3700,10 +3952,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Rose Rug",
     "catalog": "For sale",
+    "internal_id": 8757,
     "series": "flowers",
     "variants": [
       {
@@ -3732,10 +3986,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7335,
     "series": null,
     "variants": [
       {
@@ -3764,10 +4020,12 @@
     "diy": false,
     "size": "2x2",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Simple Rugs",
     "catalog": "For sale",
+    "internal_id": 7336,
     "series": null,
     "variants": [
       {
@@ -3796,17 +4054,22 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": 4,
+    "exchange_currency": "Heart Crystals",
     "source_notes": "Only available during Wedding Season",
     "hha_base_points": 437,
     "tag": "Slender Pattern Rugs",
     "catalog": "Not for sale",
+    "internal_id": 12464,
     "series": "wedding",
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM03.png",
         "filename": "RugRectJuneBrideM03",
-        "colors": [],
+        "colors": [
+          "White",
+          "White"
+        ],
         "source": [
           "Cyrus"
         ],
@@ -3826,10 +4089,12 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Wood Rugs",
     "catalog": "For sale",
+    "internal_id": 7381,
     "series": null,
     "variants": [
       {
@@ -3857,10 +4122,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7352,
     "series": null,
     "variants": [
       {
@@ -3889,10 +4156,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 11103,
     "series": null,
     "variants": [
       {
@@ -3920,10 +4189,12 @@
     "diy": false,
     "size": "4x4",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7462,
     "series": null,
     "variants": [
       {
@@ -3952,10 +4223,12 @@
     "diy": false,
     "size": "5x5",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 9315,
     "series": null,
     "variants": [
       {
@@ -3983,10 +4256,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
+    "internal_id": 8395,
     "series": null,
     "variants": [
       {
@@ -4014,10 +4289,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
+    "internal_id": 9544,
     "series": null,
     "variants": [
       {
@@ -4046,10 +4323,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Message Mats",
     "catalog": "For sale",
+    "internal_id": 9311,
     "series": null,
     "variants": [
       {
@@ -4077,10 +4356,12 @@
     "diy": false,
     "size": "5x5",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 8036,
     "series": null,
     "variants": [
       {
@@ -4109,10 +4390,12 @@
     "diy": false,
     "size": "3x3",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Rose Rug",
     "catalog": "For sale",
+    "internal_id": 8759,
     "series": "flowers",
     "variants": [
       {
@@ -4141,10 +4424,12 @@
     "diy": false,
     "size": "2x2",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Shaggy Round Rugs",
     "catalog": "For sale",
+    "internal_id": 9547,
     "series": null,
     "variants": [
       {
@@ -4173,10 +4458,12 @@
     "diy": false,
     "size": "4x3",
     "size_category": "Large",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7351,
     "series": null,
     "variants": [
       {
@@ -4205,10 +4492,12 @@
     "diy": false,
     "size": "3x2",
     "size_category": "Medium",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Slender Pattern Rugs",
     "catalog": "For sale",
+    "internal_id": 7403,
     "series": null,
     "variants": [
       {
@@ -4236,10 +4525,12 @@
     "diy": false,
     "size": "2x1",
     "size_category": "Small",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "hha_base_points": 253,
     "tag": "Kitchen Rugs",
     "catalog": "For sale",
+    "internal_id": 7596,
     "series": null,
     "variants": [
       {

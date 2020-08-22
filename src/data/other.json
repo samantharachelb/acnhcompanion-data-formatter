@@ -6,11 +6,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYAcorn.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Shaking; Only available during Fall",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5727,
     "variants": [
       {
         "filename": "DIYAcorn",
@@ -32,10 +33,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/Apple.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2213,
     "variants": [
       {
         "filename": "Apple",
@@ -57,10 +59,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3360,
     "variants": [
       {
         "filename": "PltApple4",
@@ -82,11 +85,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/StarpieceAquarius.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during the Aquarius Zodiac, January 20 - February 18",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5986,
     "variants": [
       {
         "filename": "StarpieceAquarius",
@@ -108,11 +112,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 2000,
+    "exchange_price": 2000,
     "exchange_currency": "Nook Miles",
     "source_notes": "Found under the Special tab of the Nook Miles Redemption service.",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 8776,
     "variants": [
       {
         "filename": "FtrGroundMakerStonePattern",
@@ -134,11 +139,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/StarpieceAries.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during the Aries Zodiac, March 21 - April 19",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5988,
     "variants": [
       {
         "filename": "StarpieceAries",
@@ -160,10 +166,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYBamboo.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2501,
     "variants": [
       {
         "filename": "DIYBamboo",
@@ -185,11 +192,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/BambooShoot.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Near a bamboo tree",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2295,
     "variants": [
       {
         "filename": "BambooShoot",
@@ -212,10 +220,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2815,
     "variants": [
       {
         "filename": "PltBamboo4",
@@ -237,10 +246,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/PhotoStudioBellBag.png",
     "diy": false,
     "stack_size": 99,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7731,
     "variants": [
       {
         "filename": "PhotoStudioBellBag",
@@ -262,11 +272,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 500,
+    "exchange_price": 500,
     "exchange_currency": "Nook Miles",
     "source_notes": "Found under the Special tab of the Nook Miles Redemption service.",
     "hha_base_points": 103,
     "tag": null,
+    "internal_id": 9964,
     "variants": [
       {
         "filename": "BellExchangeTicket",
@@ -289,10 +300,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/BirthdayCupcake.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Seasonal Decor",
+    "internal_id": 2779,
     "variants": [
       {
         "filename": "BirthdayCupcake",
@@ -314,10 +326,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwCosmosBlack.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2875,
     "variants": [
       {
         "filename": "FlwCosmosBlack",
@@ -342,10 +355,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwYuriBlack.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2999,
     "variants": [
       {
         "filename": "FlwYuriBlack",
@@ -370,10 +384,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwRoseBlack.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2955,
     "variants": [
       {
         "filename": "FlwRoseBlack",
@@ -398,10 +413,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwTulipBlack.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2903,
     "variants": [
       {
         "filename": "FlwTulipBlack",
@@ -426,10 +442,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperBlack.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7698,
     "variants": [
       {
         "filename": "WPaperBlack",
@@ -451,11 +468,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3834,
     "variants": [
       {
         "filename": "PltCosmosBlack3",
@@ -477,11 +495,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3896,
     "variants": [
       {
         "filename": "PltYuriBlack3",
@@ -503,11 +522,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3874,
     "variants": [
       {
         "filename": "PltRoseBlack3",
@@ -529,11 +549,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3848,
     "variants": [
       {
         "filename": "PltTulipBlack3",
@@ -555,10 +576,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2755,
     "variants": [
       {
         "filename": "MuseumTent",
@@ -580,10 +602,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwHyacinthBlue.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3748,
     "variants": [
       {
         "filename": "FlwHyacinthBlue",
@@ -608,11 +631,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYOrnamentBlue.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Shaking decorated trees; Only available during the Festive Season",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5731,
     "variants": [
       {
         "filename": "DIYOrnamentBlue",
@@ -634,10 +658,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwPansyBlue.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2927,
     "variants": [
       {
         "filename": "FlwPansyBlue",
@@ -662,10 +687,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwRoseBlue.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2959,
     "variants": [
       {
         "filename": "FlwRoseBlue",
@@ -690,10 +716,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwAnemonesBlue.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3717,
     "variants": [
       {
         "filename": "FlwAnemonesBlue",
@@ -718,10 +745,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperBlue.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7692,
     "variants": [
       {
         "filename": "WPaperBlue",
@@ -743,11 +771,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3920,
     "variants": [
       {
         "filename": "PltHyacinthBlue3",
@@ -769,10 +798,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3800,
     "variants": [
       {
         "filename": "PltHydrangeaBlue2",
@@ -794,10 +824,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12749,
     "variants": [
       {
         "filename": "PltHydrangeaBlue0",
@@ -819,10 +850,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedHydrangeaBlue.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3798,
     "variants": [
       {
         "filename": "SeedHydrangeaBlue",
@@ -844,11 +876,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3860,
     "variants": [
       {
         "filename": "PltPansyBlue3",
@@ -870,11 +903,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3876,
     "variants": [
       {
         "filename": "PltRoseBlue3",
@@ -896,11 +930,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3902,
     "variants": [
       {
         "filename": "PltAnemonesBlue3",
@@ -922,11 +957,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/TrashBoot.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Medium shadow",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3469,
     "variants": [
       {
         "filename": "TrashBoot",
@@ -948,11 +984,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 2000,
+    "exchange_price": 2000,
     "exchange_currency": "Nook Miles",
     "source_notes": "Found under the Special tab of the Nook Miles Redemption service.",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 8774,
     "variants": [
       {
         "filename": "FtrGroundMakerBrick",
@@ -974,10 +1011,11 @@
     "storage_image": null,
     "diy": true,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Outdoors Decor",
+    "internal_id": 7211,
     "variants": [
       {
         "filename": "BridgeLogReserveKit",
@@ -999,10 +1037,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 4310,
     "variants": [
       {
         "filename": "BridgeReserveKit",
@@ -1024,10 +1063,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperBrown.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7696,
     "variants": [
       {
         "filename": "WPaperBrown",
@@ -1049,10 +1089,11 @@
     "storage_image": null,
     "diy": true,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5166,
     "variants": [
       {
         "filename": "CampsiteReserveKit",
@@ -1074,10 +1115,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 6841,
     "variants": [
       {
         "filename": "MovingKitCampsite",
@@ -1099,11 +1141,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/StarpieceCancer.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
-    "source_notes": "Only available during the Cancer Zodiac, June 21 - July 22",
+    "source_notes": "Only available during the Cancer Zodiac, June 22 - July 22",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5991,
     "variants": [
       {
         "filename": "StarpieceCancer",
@@ -1125,11 +1168,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/StarpieceCapricornus.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
-    "source_notes": "Only available during the Capricorn Zodiac, December 23 - January 19",
+    "source_notes": "Only available during the Capricorn Zodiac, December 22 - January 19",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5985,
     "variants": [
       {
         "filename": "StarpieceCapricornus",
@@ -1151,10 +1195,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedCedar.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2800,
     "variants": [
       {
         "filename": "SeedCedar",
@@ -1176,10 +1221,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2805,
     "variants": [
       {
         "filename": "PltCedar4",
@@ -1201,10 +1247,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperLightGreen.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7686,
     "variants": [
       {
         "filename": "WPaperLightGreen",
@@ -1226,10 +1273,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/Cherry.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2287,
     "variants": [
       {
         "filename": "Cherry",
@@ -1251,10 +1299,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3381,
     "variants": [
       {
         "filename": "PltCherry4",
@@ -1276,11 +1325,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/Sakurapetal.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during the Cherry-Blossom Season",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5859,
     "variants": [
       {
         "filename": "Sakurapetal",
@@ -1302,10 +1352,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYClay.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3090,
     "variants": [
       {
         "filename": "DIYClay",
@@ -1327,11 +1378,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 6000,
+    "exchange_price": 6000,
     "exchange_currency": "Nook Miles",
     "source_notes": "Found under the Special tab of the Nook Miles Redemption service.",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 8781,
     "variants": [
       {
         "filename": "FtrCliffMaker",
@@ -1353,10 +1405,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/PltWeed.png",
     "diy": false,
     "stack_size": 99,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2624,
     "variants": [
       {
         "filename": "PltWeed",
@@ -1378,10 +1431,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/Coconut.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2288,
     "variants": [
       {
         "filename": "Coconut",
@@ -1403,10 +1457,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2810,
     "variants": [
       {
         "filename": "PltPalm4",
@@ -1428,10 +1483,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/PhotoStudioBell.png",
     "diy": false,
     "stack_size": 9,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7730,
     "variants": [
       {
         "filename": "PhotoStudioBell",
@@ -1453,11 +1509,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available while on a quest for Gullivarrr",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 13105,
     "variants": [
       {
         "filename": "PirateQuest",
@@ -1479,11 +1536,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available while on a quest for Gulliver",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2381,
     "variants": [
       {
         "filename": "JohnnyQuest1",
@@ -1505,10 +1563,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShellDriftHora.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 1376,
     "variants": [
       {
         "filename": "ShellDriftHora",
@@ -1530,10 +1589,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShellDriftSango.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 1380,
     "variants": [
       {
         "filename": "ShellDriftSango",
@@ -1555,10 +1615,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShellDriftTakara.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 1382,
     "variants": [
       {
         "filename": "ShellDriftTakara",
@@ -1580,11 +1641,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 2300,
+    "exchange_price": 2300,
     "exchange_currency": "Nook Miles",
     "source_notes": "Found under the Special tab of the Nook Miles Redemption service.",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 9771,
     "variants": [
       {
         "filename": "FtrGroundMakerMydesign",
@@ -1606,10 +1668,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 800,
+    "exchange_price": 800,
     "exchange_currency": "Nook Miles",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12185,
     "variants": [
       {
         "filename": "HowtoBookMydesingPro",
@@ -1631,11 +1694,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 1800,
+    "exchange_price": 1800,
     "exchange_currency": "Nook Miles",
     "source_notes": "Found under the Special tab of the Nook Miles Redemption service.",
     "hha_base_points": 0,
     "tag": "Home Appliances",
+    "internal_id": 8760,
     "variants": [
       {
         "filename": "SmartphoneCase",
@@ -1657,10 +1721,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/RemakeKit.png",
     "diy": false,
     "stack_size": 50,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Supplies",
+    "internal_id": 2513,
     "variants": [
       {
         "filename": "RemakeKit",
@@ -1682,11 +1747,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 2000,
+    "exchange_price": 2000,
     "exchange_currency": "Nook Miles",
     "source_notes": "Found under the Special tab of the Nook Miles Redemption service.",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 8775,
     "variants": [
       {
         "filename": "FtrGroundMakerDarkSoil",
@@ -1708,10 +1774,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 4645,
     "variants": [
       {
         "filename": "DummyCardboard",
@@ -1733,10 +1800,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 4245,
     "variants": [
       {
         "filename": "QuestWrappingBox",
@@ -1758,10 +1826,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYbook1.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5603,
     "variants": [
       {
         "filename": "DIYbook1",
@@ -1783,11 +1852,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DreamBellExchangeTicket.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Received in the mail the day after uploading your island to Luna's Dream Library",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 13228,
     "variants": [
       {
         "filename": "DreamBellExchangeTicket",
@@ -1809,11 +1879,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/EggGround.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during Bunny Day",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12509,
     "variants": [
       {
         "filename": "EggGround",
@@ -1835,11 +1906,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during Bunny Day",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12544,
     "variants": [
       {
         "filename": "MessageBottleEgg",
@@ -1861,11 +1933,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/MushSplendid.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during Mushroom Season",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3276,
     "variants": [
       {
         "filename": "MushSplendid",
@@ -1887,11 +1960,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/TrashCan.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Small shadow",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3466,
     "variants": [
       {
         "filename": "TrashCan",
@@ -1913,10 +1987,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FishBait.png",
     "diy": true,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 103,
     "tag": null,
+    "internal_id": 4549,
     "variants": [
       {
         "filename": "FishBait",
@@ -1938,11 +2013,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/MushFlat.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during Mushroom Season",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3279,
     "variants": [
       {
         "filename": "MushFlat",
@@ -1964,10 +2040,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/Fossil.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2579,
     "variants": [
       {
         "filename": "Fossil",
@@ -1989,11 +2066,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/Fireworks.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during a fireworks display",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 13106,
     "variants": [
       {
         "filename": "Fireworks",
@@ -2015,11 +2093,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/StarpieceGemini.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during the Gemini Zodiac, May 21 - June 21",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5990,
     "variants": [
       {
         "filename": "StarpieceGemini",
@@ -2041,10 +2120,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShellDriftSyako.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 1381,
     "variants": [
       {
         "filename": "ShellDriftSyako",
@@ -2066,10 +2146,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYGold.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2505,
     "variants": [
       {
         "filename": "DIYGold",
@@ -2091,11 +2172,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYOrnamentGold.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Shaking decorated trees; Only available during the Festive Season",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5732,
     "variants": [
       {
         "filename": "DIYOrnamentGold",
@@ -2117,10 +2199,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwRoseGold.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2963,
     "variants": [
       {
         "filename": "FlwRoseGold",
@@ -2145,10 +2228,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperGold.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7695,
     "variants": [
       {
         "filename": "WPaperGold",
@@ -2170,10 +2254,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3878,
     "variants": [
       {
         "filename": "PltRoseGold3",
@@ -2196,10 +2281,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperGray.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7697,
     "variants": [
       {
         "filename": "WPaperGray",
@@ -2221,10 +2307,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwMumGreen.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 5175,
     "variants": [
       {
         "filename": "FlwMumGreen",
@@ -2249,10 +2336,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperGreen.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7687,
     "variants": [
       {
         "filename": "WPaperGreen",
@@ -2274,11 +2362,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3934,
     "variants": [
       {
         "filename": "PltMumGreen3",
@@ -2300,10 +2389,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYWoodHard.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2769,
     "variants": [
       {
         "filename": "DIYWoodHard",
@@ -2325,10 +2415,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2799,
     "variants": [
       {
         "filename": "PltOak4",
@@ -2350,11 +2441,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/Love.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Reward for helping Cyrus & Reese during Wedding Season",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12546,
     "variants": [
       {
         "filename": "Love",
@@ -2376,10 +2468,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3027,
     "variants": [
       {
         "filename": "PltHolly2",
@@ -2401,10 +2494,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12757,
     "variants": [
       {
         "filename": "PltHolly0",
@@ -2426,10 +2520,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedHolly.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3024,
     "variants": [
       {
         "filename": "SeedHolly",
@@ -2451,10 +2546,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3349,
     "variants": [
       {
         "filename": "NnpcNewHousingkit",
@@ -2476,10 +2572,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 4311,
     "variants": [
       {
         "filename": "SlopeReserveKit",
@@ -2501,10 +2598,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYIron.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2511,
     "variants": [
       {
         "filename": "DIYIron",
@@ -2526,11 +2624,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SnowCrystalLarge.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Reward for making a perfect Snowboy; Only available during Winter",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3540,
     "variants": [
       {
         "filename": "SnowCrystalLarge",
@@ -2552,10 +2651,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/StarpieceRare.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5984,
     "variants": [
       {
         "filename": "StarpieceRare",
@@ -2577,11 +2677,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/EggLeaf.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Shaking decorated trees; Only available during Bunny Day",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12511,
     "variants": [
       {
         "filename": "EggLeaf",
@@ -2603,11 +2704,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/StarpieceLeo.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during the Leo Zodiac, July 23 - August 22",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5992,
     "variants": [
       {
         "filename": "StarpieceLeo",
@@ -2629,11 +2731,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/StarpieceLibra.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during the Libra Zodiac, September 23 - October 23",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5994,
     "variants": [
       {
         "filename": "StarpieceLibra",
@@ -2655,10 +2758,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperLightBlue.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7689,
     "variants": [
       {
         "filename": "WPaperLightBlue",
@@ -2680,10 +2784,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 7651,
     "variants": [
       {
         "filename": "PltSuzuran2",
@@ -2705,10 +2810,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/LostQuestBagDust.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2374,
     "variants": [
       {
         "filename": "LostQuestBag",
@@ -2750,10 +2856,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FtrShellFishAsari.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2567,
     "variants": [
       {
         "filename": "FtrShellFishAsari",
@@ -2775,11 +2882,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/AutumnLeaf.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during Maple Leaf Season",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7374,
     "variants": [
       {
         "filename": "AutumnLeaf",
@@ -2801,10 +2909,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/ItemMedicine.png",
     "diy": true,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Hospital",
+    "internal_id": 2777,
     "variants": [
       {
         "filename": "ItemMedicine",
@@ -2826,10 +2935,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5793,
     "variants": [
       {
         "filename": "MessageBottle",
@@ -2851,10 +2961,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperMint.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7688,
     "variants": [
       {
         "filename": "WPaperMint",
@@ -2876,10 +2987,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 4426,
     "variants": [
       {
         "filename": "PltMoney4",
@@ -2901,10 +3013,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5358,
     "variants": [
       {
         "filename": "MovingKitPlayer",
@@ -2926,10 +3039,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5361,
     "variants": [
       {
         "filename": "MovingKitMuseum",
@@ -2951,10 +3065,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperNavy.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7691,
     "variants": [
       {
         "filename": "WPaperNavy",
@@ -2976,11 +3091,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 10,
-    "exchange": 2000,
+    "exchange_price": 2000,
     "exchange_currency": "Nook Miles",
     "source_notes": "Found under the Special tab of the Nook Miles Redemption service.",
     "hha_base_points": 171,
     "tag": null,
+    "internal_id": 5851,
     "variants": [
       {
         "filename": "MilePlaneTicket",
@@ -3002,11 +3118,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/TrashTire.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Large shadow",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3470,
     "variants": [
       {
         "filename": "TrashTire",
@@ -3028,10 +3145,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/Orange.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2214,
     "variants": [
       {
         "filename": "Orange",
@@ -3053,10 +3171,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwCosmosOrange.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2871,
     "variants": [
       {
         "filename": "FlwCosmosOrange",
@@ -3081,10 +3200,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwHyacinthOrange.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3741,
     "variants": [
       {
         "filename": "FlwHyacinthOrange",
@@ -3109,10 +3229,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwYuriOrange.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2995,
     "variants": [
       {
         "filename": "FlwYuriOrange",
@@ -3137,10 +3258,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwPansyRedYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2919,
     "variants": [
       {
         "filename": "FlwPansyRedYellow",
@@ -3165,10 +3287,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwRoseOrange.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2947,
     "variants": [
       {
         "filename": "FlwRoseOrange",
@@ -3193,10 +3316,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3365,
     "variants": [
       {
         "filename": "PltOrange4",
@@ -3218,10 +3342,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwTulipOrange.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2895,
     "variants": [
       {
         "filename": "FlwTulipOrange",
@@ -3246,10 +3371,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwAnemonesOrange.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3713,
     "variants": [
       {
         "filename": "FlwAnemonesOrange",
@@ -3274,10 +3400,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperOrange.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7685,
     "variants": [
       {
         "filename": "WPaperOrange",
@@ -3299,11 +3426,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3832,
     "variants": [
       {
         "filename": "PltCosmosOrange3",
@@ -3325,11 +3453,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3916,
     "variants": [
       {
         "filename": "PltHyacinthOrange3",
@@ -3351,11 +3480,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3894,
     "variants": [
       {
         "filename": "PltYuriOrange3",
@@ -3377,11 +3507,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3856,
     "variants": [
       {
         "filename": "PltPansyRedYellow3",
@@ -3403,11 +3534,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3870,
     "variants": [
       {
         "filename": "PltRoseOrange3",
@@ -3429,10 +3561,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12482,
     "variants": [
       {
         "filename": "PltBushOsmathusOrange2",
@@ -3454,10 +3587,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12754,
     "variants": [
       {
         "filename": "PltBushOsmathusOrange0",
@@ -3479,10 +3613,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedBushOsmathusOrange.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12480,
     "variants": [
       {
         "filename": "SeedBushOsmathusOrange",
@@ -3504,11 +3639,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3844,
     "variants": [
       {
         "filename": "PltTulipOrange3",
@@ -3530,10 +3666,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedAnemonesOrange.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3714,
     "variants": [
       {
         "filename": "SeedAnemonesOrange",
@@ -3555,10 +3692,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3900,
     "variants": [
       {
         "filename": "PltAnemonesOrange3",
@@ -3580,10 +3718,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/Peach.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2286,
     "variants": [
       {
         "filename": "Peach",
@@ -3605,10 +3744,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3375,
     "variants": [
       {
         "filename": "PltPeach4",
@@ -3630,10 +3770,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/Pear.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2285,
     "variants": [
       {
         "filename": "Pear",
@@ -3655,10 +3796,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3370,
     "variants": [
       {
         "filename": "PltPear4",
@@ -3677,13 +3819,14 @@
     "source_sheet": "Other",
     "name": "pearl",
     "inventory_image": "https://acnhcdn.com/latest/MenuIcon/Pearl.png",
-    "storage_image": null,
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/Pearl.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 251,
     "tag": null,
+    "internal_id": 12968,
     "variants": [
       {
         "filename": "Pearl",
@@ -3705,11 +3848,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYPinecone.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Shaking; Only available during Fall",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5728,
     "variants": [
       {
         "filename": "DIYPinecone",
@@ -3731,10 +3875,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwCosmosPink.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2867,
     "variants": [
       {
         "filename": "FlwCosmosPink",
@@ -3759,10 +3904,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwHyacinthPink.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3738,
     "variants": [
       {
         "filename": "FlwHyacinthPink",
@@ -3787,10 +3933,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwYuriPink.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2991,
     "variants": [
       {
         "filename": "FlwYuriPink",
@@ -3815,10 +3962,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwMumPink.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3765,
     "variants": [
       {
         "filename": "FlwMumPink",
@@ -3843,10 +3991,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwRosePink.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2943,
     "variants": [
       {
         "filename": "FlwRosePink",
@@ -3871,10 +4020,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwTulipPink.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2891,
     "variants": [
       {
         "filename": "FlwTulipPink",
@@ -3899,10 +4049,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwAnemonesPink.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3720,
     "variants": [
       {
         "filename": "FlwAnemonesPink",
@@ -3927,10 +4078,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperPink.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7684,
     "variants": [
       {
         "filename": "WPaperPink",
@@ -3952,10 +4104,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3788,
     "variants": [
       {
         "filename": "PltAzaleaPink2",
@@ -3977,10 +4130,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12748,
     "variants": [
       {
         "filename": "PltAzaleaPink0",
@@ -4002,10 +4156,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedAzaleaPink.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3786,
     "variants": [
       {
         "filename": "SeedAzaleaPink",
@@ -4027,10 +4182,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12492,
     "variants": [
       {
         "filename": "PltBushCamelliaPink2",
@@ -4052,10 +4208,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12756,
     "variants": [
       {
         "filename": "PltBushCamelliaPink0",
@@ -4077,10 +4234,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedBushCamelliaPink.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12490,
     "variants": [
       {
         "filename": "SeedBushCamelliaPink",
@@ -4102,11 +4260,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3830,
     "variants": [
       {
         "filename": "PltCosmosPink3",
@@ -4128,11 +4287,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3914,
     "variants": [
       {
         "filename": "PltHyacinthPink3",
@@ -4154,10 +4314,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3796,
     "variants": [
       {
         "filename": "PltHydrangeaPink2",
@@ -4179,10 +4340,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12750,
     "variants": [
       {
         "filename": "PltHydrangeaPink0",
@@ -4204,10 +4366,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedHydrangeaPink.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3794,
     "variants": [
       {
         "filename": "SeedHydrangeaPink",
@@ -4229,11 +4392,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3892,
     "variants": [
       {
         "filename": "PltYuriPink3",
@@ -4255,11 +4419,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3930,
     "variants": [
       {
         "filename": "PltMumPink3",
@@ -4281,11 +4446,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3868,
     "variants": [
       {
         "filename": "PltRosePink3",
@@ -4307,11 +4473,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3842,
     "variants": [
       {
         "filename": "PltTulipPink3",
@@ -4333,11 +4500,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3904,
     "variants": [
       {
         "filename": "PltAnemonesPink3",
@@ -4359,11 +4527,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/StarpiecePisces.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during the Pisces Zodiac, February 19 - March 20",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5987,
     "variants": [
       {
         "filename": "StarpiecePisces",
@@ -4385,10 +4554,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/PitfallSeed.png",
     "diy": true,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2578,
     "variants": [
       {
         "filename": "PitfallSeed",
@@ -4410,10 +4580,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5827,
     "variants": [
       {
         "filename": "HousingKitRcoQuestA",
@@ -4435,10 +4606,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5828,
     "variants": [
       {
         "filename": "HousingKitRcoQuestB",
@@ -4460,10 +4632,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5829,
     "variants": [
       {
         "filename": "HousingKitRcoQuestC",
@@ -4485,10 +4658,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 5000,
+    "exchange_price": 5000,
     "exchange_currency": "Nook Miles",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 9052,
     "variants": [
       {
         "filename": "HowtoBookPocketExpansion",
@@ -4510,10 +4684,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Seasonal Decor",
+    "internal_id": 4480,
     "variants": [
       {
         "filename": "DummyPresentbox",
@@ -4535,10 +4710,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingBlack.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7714,
     "variants": [
       {
         "filename": "DummyWrappingBlack",
@@ -4560,10 +4736,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingBlue.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7708,
     "variants": [
       {
         "filename": "DummyWrappingBlue",
@@ -4585,10 +4762,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingBrown.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7712,
     "variants": [
       {
         "filename": "DummyWrappingBrown",
@@ -4610,10 +4788,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingLightGreen.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7702,
     "variants": [
       {
         "filename": "DummyWrappingLightGreen",
@@ -4635,10 +4814,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingGold.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7711,
     "variants": [
       {
         "filename": "DummyWrappingGold",
@@ -4660,10 +4840,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingGary.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7713,
     "variants": [
       {
         "filename": "DummyWrappingGary",
@@ -4685,10 +4866,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingGreen.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7703,
     "variants": [
       {
         "filename": "DummyWrappingGreen",
@@ -4710,10 +4892,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingLightBlue.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7705,
     "variants": [
       {
         "filename": "DummyWrappingLightBlue",
@@ -4735,10 +4918,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingMint.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7704,
     "variants": [
       {
         "filename": "DummyWrappingMint",
@@ -4760,10 +4944,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingNavy.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7707,
     "variants": [
       {
         "filename": "DummyWrappingNavy",
@@ -4785,10 +4970,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingOrange.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7701,
     "variants": [
       {
         "filename": "DummyWrappingOrange",
@@ -4810,10 +4996,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingPink.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7700,
     "variants": [
       {
         "filename": "DummyWrappingPink",
@@ -4835,10 +5022,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingPurple.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7706,
     "variants": [
       {
         "filename": "DummyWrappingPurple",
@@ -4860,10 +5048,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingRed.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7710,
     "variants": [
       {
         "filename": "DummyWrappingRed",
@@ -4885,10 +5074,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingWhite.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7709,
     "variants": [
       {
         "filename": "DummyWrappingWhite",
@@ -4910,10 +5100,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DummyWrappingYellow.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7699,
     "variants": [
       {
         "filename": "DummyWrappingYellow",
@@ -4935,10 +5126,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 3000,
+    "exchange_price": 3000,
     "exchange_currency": "Nook Miles",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 9221,
     "variants": [
       {
         "filename": "DIYbookNormalTools",
@@ -4960,10 +5152,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwHyacinthPurple.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3751,
     "variants": [
       {
         "filename": "FlwHyacinthPurple",
@@ -4988,10 +5181,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwMumPurple.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3762,
     "variants": [
       {
         "filename": "FlwMumPurple",
@@ -5016,10 +5210,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwPansyPurple.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2923,
     "variants": [
       {
         "filename": "FlwPansyPurple",
@@ -5044,10 +5239,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwRosePurple.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2951,
     "variants": [
       {
         "filename": "FlwRosePurple",
@@ -5072,10 +5268,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwTulipPurple.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2899,
     "variants": [
       {
         "filename": "FlwTulipPurple",
@@ -5100,10 +5297,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwAnemonesPurple.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3727,
     "variants": [
       {
         "filename": "FlwAnemonesPurple",
@@ -5128,10 +5326,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperPurple.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7690,
     "variants": [
       {
         "filename": "WPaperPurple",
@@ -5153,11 +5352,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3922,
     "variants": [
       {
         "filename": "PltHyacinthPurple3",
@@ -5179,11 +5379,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3928,
     "variants": [
       {
         "filename": "PltMumPurple3",
@@ -5205,11 +5406,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3858,
     "variants": [
       {
         "filename": "PltPansyPurple3",
@@ -5231,11 +5433,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3872,
     "variants": [
       {
         "filename": "PltRosePurple3",
@@ -5257,11 +5460,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3846,
     "variants": [
       {
         "filename": "PltTulipPurple3",
@@ -5283,11 +5487,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
-    "exchange_currency": "beep boop",
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "https://cestislife.github.io/img/breeding.png",
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3908,
     "variants": [
       {
         "filename": "PltAnemonesPurple3",
@@ -5309,11 +5514,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/MushRare.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Near cedar and hardwood trees; Only available during Mushroom Season",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3280,
     "variants": [
       {
         "filename": "MushRare",
@@ -5335,10 +5541,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwCosmosRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2304,
     "variants": [
       {
         "filename": "FlwCosmosRed",
@@ -5363,10 +5570,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwHyacinthRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3744,
     "variants": [
       {
         "filename": "FlwHyacinthRed",
@@ -5391,10 +5599,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwYuriRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2983,
     "variants": [
       {
         "filename": "FlwYuriRed",
@@ -5419,10 +5628,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwMumRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3768,
     "variants": [
       {
         "filename": "FlwMumRed",
@@ -5447,11 +5657,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYOrnamentRed.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Shaking decorated trees; Only available during Festive Season",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5730,
     "variants": [
       {
         "filename": "DIYOrnamentRed",
@@ -5473,10 +5684,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwPansyRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2911,
     "variants": [
       {
         "filename": "FlwPansyRed",
@@ -5501,10 +5713,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwRoseRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2935,
     "variants": [
       {
         "filename": "FlwRoseRed",
@@ -5529,10 +5742,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwTulipRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2883,
     "variants": [
       {
         "filename": "FlwTulipRed",
@@ -5557,10 +5771,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwAnemonesRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3723,
     "variants": [
       {
         "filename": "FlwAnemonesRed",
@@ -5585,10 +5800,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7694,
     "variants": [
       {
         "filename": "WPaperRed",
@@ -5610,10 +5826,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12489,
     "variants": [
       {
         "filename": "PltBushCamelliaRed2",
@@ -5635,10 +5852,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12755,
     "variants": [
       {
         "filename": "PltBushCamelliaRed0",
@@ -5660,10 +5878,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedBushCamelliaRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12487,
     "variants": [
       {
         "filename": "SeedBushCamelliaRed",
@@ -5685,10 +5904,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedCosmosRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2626,
     "variants": [
       {
         "filename": "SeedCosmosRed",
@@ -5710,10 +5930,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3824,
     "variants": [
       {
         "filename": "PltCosmosRed3",
@@ -5735,10 +5956,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3022,
     "variants": [
       {
         "filename": "PltHibiscusRed2",
@@ -5760,10 +5982,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12752,
     "variants": [
       {
         "filename": "PltHibiscusRed0",
@@ -5785,10 +6008,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedHibiscusRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3019,
     "variants": [
       {
         "filename": "SeedHibiscusRed",
@@ -5810,10 +6034,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedHyacinthRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3745,
     "variants": [
       {
         "filename": "SeedHyacinthRed",
@@ -5835,10 +6060,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3918,
     "variants": [
       {
         "filename": "PltHyacinthRed3",
@@ -5860,10 +6086,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedYuriRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2984,
     "variants": [
       {
         "filename": "SeedYuriRed",
@@ -5885,10 +6112,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3888,
     "variants": [
       {
         "filename": "PltYuriRed3",
@@ -5910,10 +6138,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedMumRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3769,
     "variants": [
       {
         "filename": "SeedMumRed",
@@ -5935,10 +6164,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3932,
     "variants": [
       {
         "filename": "PltMumRed3",
@@ -5960,10 +6190,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedPansyRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2912,
     "variants": [
       {
         "filename": "SeedPansyRed",
@@ -5985,10 +6216,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3852,
     "variants": [
       {
         "filename": "PltPansyRed3",
@@ -6010,10 +6242,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedRoseRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2936,
     "variants": [
       {
         "filename": "SeedRoseRed",
@@ -6035,10 +6268,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3864,
     "variants": [
       {
         "filename": "PltRoseRed3",
@@ -6060,10 +6294,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedTulipRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2884,
     "variants": [
       {
         "filename": "SeedTulipRed",
@@ -6085,10 +6320,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3838,
     "variants": [
       {
         "filename": "PltTulipRed3",
@@ -6110,10 +6346,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedAnemonesRed.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3724,
     "variants": [
       {
         "filename": "SeedAnemonesRed",
@@ -6135,10 +6372,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3906,
     "variants": [
       {
         "filename": "PltAnemonesRed3",
@@ -6160,11 +6398,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/MushRound.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during Mushroom Season",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3277,
     "variants": [
       {
         "filename": "MushRound",
@@ -6186,16 +6425,17 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/JohnnyQuestDust1.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2389,
     "variants": [
       {
         "filename": "JohnnyQuestDust1",
         "colors": [],
         "source": [
-          "Recycle Box"
+          "Recycle box"
         ],
         "buy": -1,
         "sell": 10,
@@ -6211,11 +6451,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/StarpieceSagittarius.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
-    "source_notes": "Only available during the Sagittarius Zodiac, November 23 - December 22",
+    "source_notes": "Only available during the Sagittarius Zodiac, November 23 - December 21",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5996,
     "variants": [
       {
         "filename": "StarpieceSagittarius",
@@ -6237,10 +6478,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/RollanTicket.png",
     "diy": false,
     "stack_size": 5,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 9261,
     "variants": [
       {
         "filename": "RollanTicket",
@@ -6262,10 +6504,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShellDriftSanddollar.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 1379,
     "variants": [
       {
         "filename": "ShellDriftSanddollar",
@@ -6287,11 +6530,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 2000,
+    "exchange_price": 2000,
     "exchange_currency": "Nook Miles",
     "source_notes": "Found under the Special tab of the Nook Miles Redemption service.",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 8777,
     "variants": [
       {
         "filename": "FtrGroundMakerSand",
@@ -6313,10 +6557,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedOak.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2794,
     "variants": [
       {
         "filename": "SeedOak",
@@ -6338,11 +6583,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/StarpieceScorpio.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during the Scorpius Zodiac, October 24 - November 22",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5995,
     "variants": [
       {
         "filename": "StarpieceScorpio",
@@ -6364,10 +6610,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShellDriftEbisu.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 1374,
     "variants": [
       {
         "filename": "ShellDriftEbisu",
@@ -6389,10 +6636,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2756,
     "variants": [
       {
         "filename": "ShopTent",
@@ -6414,10 +6662,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5360,
     "variants": [
       {
         "filename": "MovingKitShop",
@@ -6439,11 +6688,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/MushSlender.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during Mushroom Season",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3278,
     "variants": [
       {
         "filename": "MushSlender",
@@ -6465,11 +6715,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/EggSky.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during Bunny Day",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12513,
     "variants": [
       {
         "filename": "EggSky",
@@ -6491,11 +6742,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SnowCrystal.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during Winter",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3539,
     "variants": [
       {
         "filename": "SnowCrystal",
@@ -6517,10 +6769,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYWoodSoft.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2767,
     "variants": [
       {
         "filename": "DIYWoodSoft",
@@ -6542,10 +6795,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/Kabu_Spoil.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2642,
     "variants": [
       {
         "filename": "Kabu_Spoil",
@@ -6567,10 +6821,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/Starpiece.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5983,
     "variants": [
       {
         "filename": "Starpiece",
@@ -6592,11 +6847,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYStone.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "X-Small shadow when fishing",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2502,
     "variants": [
       {
         "filename": "DIYStone",
@@ -6619,11 +6875,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/EggRock.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during Bunny Day",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12510,
     "variants": [
       {
         "filename": "EggRock",
@@ -6645,11 +6902,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 2000,
+    "exchange_price": 2000,
     "exchange_currency": "Nook Miles",
     "source_notes": "Found under the Special tab of the Nook Miles Redemption service.",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 8773,
     "variants": [
       {
         "filename": "FtrGroundMakerStone",
@@ -6671,11 +6929,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShellDriftSummer.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during Summer",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5982,
     "variants": [
       {
         "filename": "ShellDriftSummer",
@@ -6697,10 +6956,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 4411,
     "variants": [
       {
         "filename": "HousingKitTailor",
@@ -6722,10 +6982,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5359,
     "variants": [
       {
         "filename": "MovingKitTailor",
@@ -6747,10 +7008,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/TailorTicket.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5932,
     "variants": [
       {
         "filename": "TailorTicket",
@@ -6772,11 +7034,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/StarpieceTaurus.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during the Taurus Zodiac, April 20 - May 20",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5989,
     "variants": [
       {
         "filename": "StarpieceTaurus",
@@ -6798,10 +7061,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2750,
     "variants": [
       {
         "filename": "TutorialTent",
@@ -6823,11 +7087,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 2000,
+    "exchange_price": 2000,
     "exchange_currency": "Nook Miles",
     "source_notes": "Found under the Special tab of the Nook Miles Redemption service.",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 8778,
     "variants": [
       {
         "filename": "FtrGroundMakerTile",
@@ -6849,10 +7114,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYbook2.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5604,
     "variants": [
       {
         "filename": "DIYbook2",
@@ -6874,10 +7140,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 800,
+    "exchange_price": 800,
     "exchange_currency": "Nook Miles",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 9616,
     "variants": [
       {
         "filename": "HowtoBookRingMenuUI",
@@ -6899,10 +7166,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 2400,
+    "exchange_price": 2400,
     "exchange_currency": "Nook Miles",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 9050,
     "variants": [
       {
         "filename": "HowtoBookHairCool",
@@ -6924,10 +7192,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 2400,
+    "exchange_price": 2400,
     "exchange_currency": "Nook Miles",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 9049,
     "variants": [
       {
         "filename": "HowtoBookHairPop",
@@ -6949,10 +7218,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 3000,
+    "exchange_price": 3000,
     "exchange_currency": "Nook Miles",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 9051,
     "variants": [
       {
         "filename": "HowtoBookHairColor",
@@ -6974,11 +7244,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/TreasureCapsule.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Placed randomly on island for a villager's treasure hunt quest",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2545,
     "variants": [
       {
         "filename": "TreasureCapsule",
@@ -7000,10 +7271,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYBranch.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2500,
     "variants": [
       {
         "filename": "DIYBranch",
@@ -7025,11 +7297,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/PhotoStudioKabu.png",
     "diy": false,
     "stack_size": 1000,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available on Sundays",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7734,
     "variants": [
       {
         "filename": "PhotoStudioKabu",
@@ -7051,10 +7324,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 8000,
+    "exchange_price": 8000,
     "exchange_currency": "Nook Miles",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 11140,
     "variants": [
       {
         "filename": "HowtoBookPocketExpansion2",
@@ -7076,10 +7350,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/Cinder.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 13107,
     "variants": [
       {
         "filename": "Cinder",
@@ -7101,10 +7376,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShellDriftHone.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 1375,
     "variants": [
       {
         "filename": "ShellDriftHone",
@@ -7126,11 +7402,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/StarpieceVirgo.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during the Virgo Zodiac, August 23 - September 22",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5993,
     "variants": [
       {
         "filename": "StarpieceVirgo",
@@ -7152,10 +7429,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/Honeycomb.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Ranch",
+    "internal_id": 3263,
     "variants": [
       {
         "filename": "Honeycomb",
@@ -7177,11 +7455,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/EggFish.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during Bunny Day",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12514,
     "variants": [
       {
         "filename": "EggFish",
@@ -7203,11 +7482,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 6000,
+    "exchange_price": 6000,
     "exchange_currency": "Nook Miles",
     "source_notes": "Found under the Special tab of the Nook Miles Redemption service.",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 8780,
     "variants": [
       {
         "filename": "FtrRiverMaker",
@@ -7229,10 +7509,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/LostQuestBagDust.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 4642,
     "variants": [
       {
         "filename": "LostQuestBagDust",
@@ -7284,10 +7565,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwCosmosWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2305,
     "variants": [
       {
         "filename": "FlwCosmosWhite",
@@ -7312,10 +7594,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwHyacinthWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3730,
     "variants": [
       {
         "filename": "FlwHyacinthWhite",
@@ -7340,10 +7623,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwYuriWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2979,
     "variants": [
       {
         "filename": "FlwYuriWhite",
@@ -7368,10 +7652,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwMumWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3754,
     "variants": [
       {
         "filename": "FlwMumWhite",
@@ -7396,10 +7681,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwPansyWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2907,
     "variants": [
       {
         "filename": "FlwPansyWhite",
@@ -7424,10 +7710,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwRoseWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2931,
     "variants": [
       {
         "filename": "FlwRoseWhite",
@@ -7452,10 +7739,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwTulipWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2879,
     "variants": [
       {
         "filename": "FlwTulipWhite",
@@ -7480,10 +7768,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwAnemonesWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3709,
     "variants": [
       {
         "filename": "FlwAnemonesWhite",
@@ -7508,10 +7797,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7693,
     "variants": [
       {
         "filename": "WPaperWhite",
@@ -7533,10 +7823,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2861,
     "variants": [
       {
         "filename": "PltAzaleaWhite2",
@@ -7558,10 +7849,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12747,
     "variants": [
       {
         "filename": "PltAzaleaWhite0",
@@ -7583,10 +7875,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedAzaleaWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2820,
     "variants": [
       {
         "filename": "SeedAzaleaWhite",
@@ -7608,10 +7901,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedCosmosWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2629,
     "variants": [
       {
         "filename": "SeedCosmosWhite",
@@ -7633,10 +7927,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3826,
     "variants": [
       {
         "filename": "PltCosmosWhite3",
@@ -7658,10 +7953,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedHyacinthWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3731,
     "variants": [
       {
         "filename": "SeedHyacinthWhite",
@@ -7683,10 +7979,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3910,
     "variants": [
       {
         "filename": "PltHyacinthWhite3",
@@ -7708,10 +8005,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedYuriWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2980,
     "variants": [
       {
         "filename": "SeedYuriWhite",
@@ -7733,10 +8031,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3886,
     "variants": [
       {
         "filename": "PltYuriWhite3",
@@ -7758,10 +8057,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedMumWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3755,
     "variants": [
       {
         "filename": "SeedMumWhite",
@@ -7783,10 +8083,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3924,
     "variants": [
       {
         "filename": "PltMumWhite3",
@@ -7808,10 +8109,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedPansyWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2908,
     "variants": [
       {
         "filename": "SeedPansyWhite",
@@ -7833,10 +8135,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3850,
     "variants": [
       {
         "filename": "PltPansyWhite3",
@@ -7858,10 +8161,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedRoseWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2932,
     "variants": [
       {
         "filename": "SeedRoseWhite",
@@ -7883,10 +8187,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3862,
     "variants": [
       {
         "filename": "PltRoseWhite3",
@@ -7908,10 +8213,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedTulipWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2880,
     "variants": [
       {
         "filename": "SeedTulipWhite",
@@ -7933,10 +8239,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3836,
     "variants": [
       {
         "filename": "PltTulipWhite3",
@@ -7958,10 +8265,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedAnemonesWhite.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3710,
     "variants": [
       {
         "filename": "SeedAnemonesWhite",
@@ -7983,10 +8291,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3898,
     "variants": [
       {
         "filename": "PltAnemonesWhite3",
@@ -8008,10 +8317,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYbook3.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5605,
     "variants": [
       {
         "filename": "DIYbook3",
@@ -8033,11 +8343,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 5,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available while on a quest for Wisp",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 4702,
     "variants": [
       {
         "filename": "YutaroWisp",
@@ -8059,10 +8370,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYWoodNormal.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2768,
     "variants": [
       {
         "filename": "DIYWoodNormal",
@@ -8084,11 +8396,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/EggForest.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during Bunny Day",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12512,
     "variants": [
       {
         "filename": "EggForest",
@@ -8110,11 +8423,12 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": 2000,
+    "exchange_price": 2000,
     "exchange_currency": "Nook Miles",
     "source_notes": "Found under the Special tab of the Nook Miles Redemption service.",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 8779,
     "variants": [
       {
         "filename": "FtrGroundMakerWood",
@@ -8136,10 +8450,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwCosmosYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2863,
     "variants": [
       {
         "filename": "FlwCosmosYellow",
@@ -8164,10 +8479,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwHyacinthYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3734,
     "variants": [
       {
         "filename": "FlwHyacinthYellow",
@@ -8192,10 +8508,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwYuriYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2987,
     "variants": [
       {
         "filename": "FlwYuriYellow",
@@ -8220,10 +8537,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwMumYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 3758,
     "variants": [
       {
         "filename": "FlwMumYellow",
@@ -8248,10 +8566,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwPansyYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2915,
     "variants": [
       {
         "filename": "FlwPansyYellow",
@@ -8276,10 +8595,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwRoseYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2939,
     "variants": [
       {
         "filename": "FlwRoseYellow",
@@ -8304,10 +8624,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/FlwTulipYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 87,
     "tag": "Plants",
+    "internal_id": 2887,
     "variants": [
       {
         "filename": "FlwTulipYellow",
@@ -8332,10 +8653,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/WPaperYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 7683,
     "variants": [
       {
         "filename": "WPaperYellow",
@@ -8357,10 +8679,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedCosmosYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2864,
     "variants": [
       {
         "filename": "SeedCosmosYellow",
@@ -8382,10 +8705,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3828,
     "variants": [
       {
         "filename": "PltCosmosYellow3",
@@ -8407,10 +8731,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3792,
     "variants": [
       {
         "filename": "PltHibiscusYellow2",
@@ -8432,10 +8757,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12751,
     "variants": [
       {
         "filename": "PltHibiscusYellow0",
@@ -8457,10 +8783,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedHibiscusYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3790,
     "variants": [
       {
         "filename": "SeedHibiscusYellow",
@@ -8482,10 +8809,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedHyacinthYellow.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3735,
     "variants": [
       {
         "filename": "SeedHyacinthYellow",
@@ -8507,10 +8835,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3912,
     "variants": [
       {
         "filename": "PltHyacinthYellow3",
@@ -8532,10 +8861,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedYuriYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2988,
     "variants": [
       {
         "filename": "SeedYuriYellow",
@@ -8557,10 +8887,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3890,
     "variants": [
       {
         "filename": "PltYuriYellow3",
@@ -8582,10 +8913,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedMumYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3759,
     "variants": [
       {
         "filename": "SeedMumYellow",
@@ -8607,10 +8939,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3926,
     "variants": [
       {
         "filename": "PltMumYellow3",
@@ -8632,10 +8965,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedPansyYellow.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2916,
     "variants": [
       {
         "filename": "SeedPansyYellow",
@@ -8657,10 +8991,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3854,
     "variants": [
       {
         "filename": "PltPansyYellow3",
@@ -8682,10 +9017,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedRoseYellow.png",
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2940,
     "variants": [
       {
         "filename": "SeedRoseYellow",
@@ -8707,10 +9043,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3866,
     "variants": [
       {
         "filename": "PltRoseYellow3",
@@ -8732,10 +9069,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12478,
     "variants": [
       {
         "filename": "PltBushOsmathusYellow2",
@@ -8757,10 +9095,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12753,
     "variants": [
       {
         "filename": "PltBushOsmathusYellow0",
@@ -8782,10 +9121,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedBushOsmathusYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12476,
     "variants": [
       {
         "filename": "SeedBushOsmathusYellow",
@@ -8807,10 +9147,11 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/SeedTulipYellow.png",
     "diy": false,
     "stack_size": 10,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 2888,
     "variants": [
       {
         "filename": "SeedTulipYellow",
@@ -8832,10 +9173,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": "Plants",
+    "internal_id": 3840,
     "variants": [
       {
         "filename": "PltTulipYellow3",
@@ -8857,10 +9199,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3799,
     "variants": [
       {
         "filename": "PltHydrangeaBlue1",
@@ -8882,10 +9225,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3026,
     "variants": [
       {
         "filename": "PltHolly1",
@@ -8907,10 +9251,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12481,
     "variants": [
       {
         "filename": "PltBushOsmathusOrange1",
@@ -8932,10 +9277,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3787,
     "variants": [
       {
         "filename": "PltAzaleaPink1",
@@ -8957,10 +9303,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12491,
     "variants": [
       {
         "filename": "PltBushCamelliaPink1",
@@ -8982,10 +9329,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3795,
     "variants": [
       {
         "filename": "PltHydrangeaPink1",
@@ -9007,10 +9355,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12488,
     "variants": [
       {
         "filename": "PltBushCamelliaRed1",
@@ -9032,10 +9381,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3021,
     "variants": [
       {
         "filename": "PltHibiscusRed1",
@@ -9057,11 +9407,12 @@
     "storage_image": "https://acnhcdn.com/latest/FtrIcon/DIYBambooSpring.png",
     "diy": false,
     "stack_size": 30,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "source_notes": "Only available during Spring",
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 5729,
     "variants": [
       {
         "filename": "DIYBambooSpring",
@@ -9083,10 +9434,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 2860,
     "variants": [
       {
         "filename": "PltAzaleaWhite1",
@@ -9108,10 +9460,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 3791,
     "variants": [
       {
         "filename": "PltHibiscusYellow1",
@@ -9133,10 +9486,11 @@
     "storage_image": null,
     "diy": false,
     "stack_size": 1,
-    "exchange": null,
+    "exchange_price": null,
     "exchange_currency": null,
     "hha_base_points": 0,
     "tag": null,
+    "internal_id": 12477,
     "variants": [
       {
         "filename": "PltBushOsmathusYellow1",

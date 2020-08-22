@@ -10,6 +10,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6626,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -154,6 +155,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6709,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -298,6 +300,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6661,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -442,6 +445,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6518,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -450,7 +454,7 @@
         "filename": "BromideNpcNmlGor08_Remake_0_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -466,7 +470,7 @@
         "filename": "BromideNpcNmlGor08_Remake_1_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -482,7 +486,7 @@
         "filename": "BromideNpcNmlGor08_Remake_2_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -498,7 +502,7 @@
         "filename": "BromideNpcNmlGor08_Remake_3_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -514,7 +518,7 @@
         "filename": "BromideNpcNmlGor08_Remake_4_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -530,7 +534,7 @@
         "filename": "BromideNpcNmlGor08_Remake_5_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -546,7 +550,7 @@
         "filename": "BromideNpcNmlGor08_Remake_6_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -562,7 +566,7 @@
         "filename": "BromideNpcNmlGor08_Remake_7_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -586,6 +590,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6800,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -730,6 +735,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6555,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -874,6 +880,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6801,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -881,7 +888,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlCrd01_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -897,7 +904,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlCrd01_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -913,7 +920,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlCrd01_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -929,7 +936,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlCrd01_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -945,7 +952,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlCrd01_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -961,7 +968,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlCrd01_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -977,7 +984,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlCrd01_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -993,7 +1000,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlCrd01_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -1018,6 +1025,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6621,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -1162,6 +1170,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6743,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -1306,6 +1315,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6582,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -1314,7 +1324,7 @@
         "filename": "BromideNpcNmlBrd02_Remake_0_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -1330,7 +1340,7 @@
         "filename": "BromideNpcNmlBrd02_Remake_1_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -1346,7 +1356,7 @@
         "filename": "BromideNpcNmlBrd02_Remake_2_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -1362,7 +1372,7 @@
         "filename": "BromideNpcNmlBrd02_Remake_3_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -1378,7 +1388,7 @@
         "filename": "BromideNpcNmlBrd02_Remake_4_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -1394,7 +1404,7 @@
         "filename": "BromideNpcNmlBrd02_Remake_5_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -1410,7 +1420,7 @@
         "filename": "BromideNpcNmlBrd02_Remake_6_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -1426,7 +1436,7 @@
         "filename": "BromideNpcNmlBrd02_Remake_7_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -1450,6 +1460,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6704,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -1594,6 +1605,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6598,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -1738,6 +1750,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6766,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -1882,6 +1895,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6765,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -2026,6 +2040,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6548,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -2170,6 +2185,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6537,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -2314,6 +2330,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6620,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -2458,6 +2475,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6522,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -2602,6 +2620,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6567,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -2746,6 +2765,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6994,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -2890,6 +2910,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6630,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -3034,6 +3055,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6789,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -3178,6 +3200,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6624,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -3322,6 +3345,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6479,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -3466,6 +3490,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6691,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -3474,7 +3499,7 @@
         "filename": "BromideNpcNmlShp01_Remake_0_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -3490,7 +3515,7 @@
         "filename": "BromideNpcNmlShp01_Remake_1_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -3506,7 +3531,7 @@
         "filename": "BromideNpcNmlShp01_Remake_2_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -3522,7 +3547,7 @@
         "filename": "BromideNpcNmlShp01_Remake_3_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -3538,7 +3563,7 @@
         "filename": "BromideNpcNmlShp01_Remake_4_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -3554,7 +3579,7 @@
         "filename": "BromideNpcNmlShp01_Remake_5_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -3570,7 +3595,7 @@
         "filename": "BromideNpcNmlShp01_Remake_6_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -3586,7 +3611,7 @@
         "filename": "BromideNpcNmlShp01_Remake_7_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -3610,6 +3635,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6808,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -3754,6 +3780,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6727,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -3898,6 +3925,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6783,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -4042,6 +4070,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6447,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -4049,7 +4078,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlDog10_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4065,7 +4094,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlDog10_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4081,7 +4110,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlDog10_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4097,7 +4126,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlDog10_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4113,7 +4142,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlDog10_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4129,7 +4158,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlDog10_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4145,7 +4174,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlDog10_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4161,7 +4190,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlDog10_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4186,6 +4215,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6538,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -4193,7 +4223,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlBea13_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4209,7 +4239,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlBea13_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4225,7 +4255,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlBea13_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4241,7 +4271,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlBea13_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4257,7 +4287,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlBea13_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4273,7 +4303,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlBea13_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4289,7 +4319,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlBea13_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4305,7 +4335,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlBea13_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4330,6 +4360,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6433,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -4337,7 +4368,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlDer07_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4353,7 +4384,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlDer07_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4369,7 +4400,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlDer07_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4385,7 +4416,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlDer07_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4401,7 +4432,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlDer07_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4417,7 +4448,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlDer07_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4433,7 +4464,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlDer07_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4449,7 +4480,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlDer07_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -4474,6 +4505,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6790,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -4618,6 +4650,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6591,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -4762,6 +4795,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6786,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -4906,6 +4940,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6451,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -5050,6 +5085,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6532,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -5194,6 +5230,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6601,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -5338,6 +5375,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6730,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -5345,7 +5383,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlTig06_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -5361,7 +5399,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlTig06_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -5377,7 +5415,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlTig06_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -5393,7 +5431,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlTig06_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -5409,7 +5447,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlTig06_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -5425,7 +5463,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlTig06_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -5441,7 +5479,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlTig06_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -5457,7 +5495,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlTig06_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -5482,6 +5520,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6533,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -5626,6 +5665,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6475,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -5770,6 +5810,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6454,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -5914,6 +5955,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6506,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -6058,6 +6100,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6440,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -6202,6 +6245,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6534,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -6346,6 +6390,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6705,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -6490,6 +6535,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6617,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -6634,6 +6680,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6769,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -6641,7 +6688,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlCbr00_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -6657,7 +6704,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlCbr00_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -6673,7 +6720,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlCbr00_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -6689,7 +6736,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlCbr00_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -6705,7 +6752,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlCbr00_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -6721,7 +6768,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlCbr00_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -6737,7 +6784,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlCbr00_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -6753,7 +6800,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlCbr00_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -6778,6 +6825,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6745,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -6786,7 +6834,7 @@
         "filename": "BromideNpcNmlCat00_Remake_0_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -6802,7 +6850,7 @@
         "filename": "BromideNpcNmlCat00_Remake_1_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -6818,7 +6866,7 @@
         "filename": "BromideNpcNmlCat00_Remake_2_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -6834,7 +6882,7 @@
         "filename": "BromideNpcNmlCat00_Remake_3_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -6850,7 +6898,7 @@
         "filename": "BromideNpcNmlCat00_Remake_4_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -6866,7 +6914,7 @@
         "filename": "BromideNpcNmlCat00_Remake_5_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -6882,7 +6930,7 @@
         "filename": "BromideNpcNmlCat00_Remake_6_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -6898,7 +6946,7 @@
         "filename": "BromideNpcNmlCat00_Remake_7_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -6922,6 +6970,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6680,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -7066,6 +7115,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6441,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -7210,6 +7260,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6639,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -7354,6 +7405,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6513,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -7498,6 +7550,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6802,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -7642,6 +7695,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6653,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -7786,6 +7840,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6516,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -7930,6 +7985,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6592,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -8074,6 +8130,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6599,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -8081,7 +8138,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlMus12_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Colorful"
         ],
         "pattern": null,
@@ -8097,7 +8154,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlMus12_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Colorful"
         ],
         "pattern": null,
@@ -8113,7 +8170,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlMus12_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Colorful"
         ],
         "pattern": null,
@@ -8129,7 +8186,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlMus12_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Colorful"
         ],
         "pattern": null,
@@ -8145,7 +8202,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlMus12_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Colorful"
         ],
         "pattern": null,
@@ -8161,7 +8218,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlMus12_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Colorful"
         ],
         "pattern": null,
@@ -8177,7 +8234,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlMus12_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Colorful"
         ],
         "pattern": null,
@@ -8193,7 +8250,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlMus12_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Colorful"
         ],
         "pattern": null,
@@ -8218,6 +8275,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6793,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -8362,6 +8420,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6429,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -8506,6 +8565,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6531,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -8650,6 +8710,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6539,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -8794,6 +8855,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6573,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -8802,7 +8864,7 @@
         "filename": "BromideNpcNmlLon00_Remake_0_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -8818,7 +8880,7 @@
         "filename": "BromideNpcNmlLon00_Remake_1_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -8834,7 +8896,7 @@
         "filename": "BromideNpcNmlLon00_Remake_2_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -8850,7 +8912,7 @@
         "filename": "BromideNpcNmlLon00_Remake_3_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -8866,7 +8928,7 @@
         "filename": "BromideNpcNmlLon00_Remake_4_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -8882,7 +8944,7 @@
         "filename": "BromideNpcNmlLon00_Remake_5_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -8898,7 +8960,7 @@
         "filename": "BromideNpcNmlLon00_Remake_6_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -8914,7 +8976,7 @@
         "filename": "BromideNpcNmlLon00_Remake_7_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -8938,6 +9000,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6662,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -9082,6 +9145,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6437,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -9226,6 +9290,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6623,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -9234,7 +9299,7 @@
         "filename": "BromideNpcNmlPbr03_Remake_0_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9250,7 +9315,7 @@
         "filename": "BromideNpcNmlPbr03_Remake_1_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9266,7 +9331,7 @@
         "filename": "BromideNpcNmlPbr03_Remake_2_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9282,7 +9347,7 @@
         "filename": "BromideNpcNmlPbr03_Remake_3_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9298,7 +9363,7 @@
         "filename": "BromideNpcNmlPbr03_Remake_4_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9314,7 +9379,7 @@
         "filename": "BromideNpcNmlPbr03_Remake_5_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9330,7 +9395,7 @@
         "filename": "BromideNpcNmlPbr03_Remake_6_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9346,7 +9411,7 @@
         "filename": "BromideNpcNmlPbr03_Remake_7_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9370,6 +9435,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6716,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -9514,6 +9580,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6487,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -9658,6 +9725,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6561,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -9666,7 +9734,7 @@
         "filename": "BromideNpcNmlKal08_Remake_0_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9682,7 +9750,7 @@
         "filename": "BromideNpcNmlKal08_Remake_1_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9698,7 +9766,7 @@
         "filename": "BromideNpcNmlKal08_Remake_2_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9714,7 +9782,7 @@
         "filename": "BromideNpcNmlKal08_Remake_3_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9730,7 +9798,7 @@
         "filename": "BromideNpcNmlKal08_Remake_4_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9746,7 +9814,7 @@
         "filename": "BromideNpcNmlKal08_Remake_5_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9762,7 +9830,7 @@
         "filename": "BromideNpcNmlKal08_Remake_6_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9778,7 +9846,7 @@
         "filename": "BromideNpcNmlKal08_Remake_7_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -9802,6 +9870,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6596,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -9946,6 +10015,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6679,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -10090,6 +10160,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6710,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -10234,6 +10305,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6566,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -10378,6 +10450,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6695,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -10522,6 +10595,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6629,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -10666,6 +10740,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6511,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -10810,6 +10885,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6605,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -10954,6 +11030,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6526,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -11098,6 +11175,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6779,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -11242,6 +11320,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6452,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -11386,6 +11465,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6782,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -11530,6 +11610,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6503,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -11674,6 +11755,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6731,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -11818,6 +11900,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6657,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -11962,6 +12045,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6438,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -12106,6 +12190,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6676,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -12250,6 +12335,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6674,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -12394,6 +12480,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6729,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -12538,6 +12625,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6527,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -12682,6 +12770,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6546,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -12690,7 +12779,7 @@
         "filename": "BromideNpcNmlHrs07_Remake_0_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -12706,7 +12795,7 @@
         "filename": "BromideNpcNmlHrs07_Remake_1_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -12722,7 +12811,7 @@
         "filename": "BromideNpcNmlHrs07_Remake_2_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -12738,7 +12827,7 @@
         "filename": "BromideNpcNmlHrs07_Remake_3_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -12754,7 +12843,7 @@
         "filename": "BromideNpcNmlHrs07_Remake_4_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -12770,7 +12859,7 @@
         "filename": "BromideNpcNmlHrs07_Remake_5_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -12786,7 +12875,7 @@
         "filename": "BromideNpcNmlHrs07_Remake_6_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -12802,7 +12891,7 @@
         "filename": "BromideNpcNmlHrs07_Remake_7_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -12826,6 +12915,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6550,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -12970,6 +13060,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6742,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -13114,6 +13205,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6652,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -13258,6 +13350,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6664,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -13402,6 +13495,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6681,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -13546,6 +13640,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6551,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -13690,6 +13785,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6445,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -13834,6 +13930,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6494,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -13978,6 +14075,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6614,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -14122,6 +14220,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6500,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -14266,6 +14365,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6632,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -14410,6 +14510,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6697,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -14554,6 +14655,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6644,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -14698,6 +14800,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6427,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -14842,6 +14945,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6997,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -14986,6 +15090,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6426,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -15130,6 +15235,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6444,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -15274,6 +15380,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6458,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -15418,6 +15525,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6430,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -15562,6 +15670,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6803,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -15706,6 +15815,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6588,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -15850,6 +15960,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6463,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -15994,6 +16105,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6434,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -16138,6 +16250,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6501,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -16282,6 +16395,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6474,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -16290,7 +16404,7 @@
         "filename": "BromideNpcNmlElp01_Remake_0_0",
         "colors": [
           "Gray",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -16306,7 +16420,7 @@
         "filename": "BromideNpcNmlElp01_Remake_1_0",
         "colors": [
           "Gray",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -16322,7 +16436,7 @@
         "filename": "BromideNpcNmlElp01_Remake_2_0",
         "colors": [
           "Gray",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -16338,7 +16452,7 @@
         "filename": "BromideNpcNmlElp01_Remake_3_0",
         "colors": [
           "Gray",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -16354,7 +16468,7 @@
         "filename": "BromideNpcNmlElp01_Remake_4_0",
         "colors": [
           "Gray",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -16370,7 +16484,7 @@
         "filename": "BromideNpcNmlElp01_Remake_5_0",
         "colors": [
           "Gray",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -16386,7 +16500,7 @@
         "filename": "BromideNpcNmlElp01_Remake_6_0",
         "colors": [
           "Gray",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -16402,7 +16516,7 @@
         "filename": "BromideNpcNmlElp01_Remake_7_0",
         "colors": [
           "Gray",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -16426,6 +16540,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6735,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -16570,6 +16685,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6673,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -16714,6 +16830,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 7213,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -16858,6 +16975,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6589,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -17002,6 +17120,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6663,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -17146,6 +17265,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6806,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -17290,6 +17410,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6464,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -17434,6 +17555,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6488,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -17578,6 +17700,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6545,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -17585,7 +17708,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlHrs06_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -17601,7 +17724,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlHrs06_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -17617,7 +17740,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlHrs06_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -17633,7 +17756,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlHrs06_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -17649,7 +17772,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlHrs06_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -17665,7 +17788,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlHrs06_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -17681,7 +17804,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlHrs06_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -17697,7 +17820,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlHrs06_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -17722,6 +17845,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6788,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -17866,6 +17990,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6585,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -18010,6 +18135,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6480,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -18154,6 +18280,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6542,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -18298,6 +18425,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6476,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -18442,6 +18570,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6574,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -18586,6 +18715,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6435,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -18730,6 +18860,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6563,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -18874,6 +19005,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6692,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -19018,6 +19150,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6738,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -19026,7 +19159,7 @@
         "filename": "BromideNpcNmlWol06_Remake_0_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19042,7 +19175,7 @@
         "filename": "BromideNpcNmlWol06_Remake_1_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19058,7 +19191,7 @@
         "filename": "BromideNpcNmlWol06_Remake_2_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19074,7 +19207,7 @@
         "filename": "BromideNpcNmlWol06_Remake_3_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19090,7 +19223,7 @@
         "filename": "BromideNpcNmlWol06_Remake_4_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19106,7 +19239,7 @@
         "filename": "BromideNpcNmlWol06_Remake_5_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19122,7 +19255,7 @@
         "filename": "BromideNpcNmlWol06_Remake_6_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19138,7 +19271,7 @@
         "filename": "BromideNpcNmlWol06_Remake_7_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19162,6 +19295,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6807,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -19170,7 +19304,7 @@
         "filename": "BromideNpcNmlDer00_Remake_0_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19186,7 +19320,7 @@
         "filename": "BromideNpcNmlDer00_Remake_1_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19202,7 +19336,7 @@
         "filename": "BromideNpcNmlDer00_Remake_2_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19218,7 +19352,7 @@
         "filename": "BromideNpcNmlDer00_Remake_3_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19234,7 +19368,7 @@
         "filename": "BromideNpcNmlDer00_Remake_4_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19250,7 +19384,7 @@
         "filename": "BromideNpcNmlDer00_Remake_5_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19266,7 +19400,7 @@
         "filename": "BromideNpcNmlDer00_Remake_6_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19282,7 +19416,7 @@
         "filename": "BromideNpcNmlDer00_Remake_7_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -19306,6 +19440,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6763,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -19450,6 +19585,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6706,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -19457,7 +19593,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlSqu02_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -19473,7 +19609,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlSqu02_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -19489,7 +19625,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlSqu02_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -19505,7 +19641,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlSqu02_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -19521,7 +19657,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlSqu02_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -19537,7 +19673,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlSqu02_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -19553,7 +19689,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlSqu02_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -19569,7 +19705,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlSqu02_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -19594,6 +19730,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6586,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -19738,6 +19875,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6642,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -19882,6 +20020,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6618,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -20026,6 +20165,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6528,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -20170,6 +20310,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6675,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -20177,7 +20318,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlRbt12_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -20193,7 +20334,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlRbt12_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -20209,7 +20350,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlRbt12_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -20225,7 +20366,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlRbt12_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -20241,7 +20382,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlRbt12_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -20257,7 +20398,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlRbt12_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -20273,7 +20414,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlRbt12_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -20289,7 +20430,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlRbt12_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "pattern": null,
@@ -20314,6 +20455,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6625,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -20458,6 +20600,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6462,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -20602,6 +20745,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6736,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -20746,6 +20890,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6634,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -20890,6 +21035,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6700,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -21034,6 +21180,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6486,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -21178,6 +21325,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6432,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -21322,6 +21470,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6667,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -21466,6 +21615,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6656,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -21474,7 +21624,7 @@
         "filename": "BromideNpcNmlPig13_Remake_0_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -21490,7 +21640,7 @@
         "filename": "BromideNpcNmlPig13_Remake_1_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -21506,7 +21656,7 @@
         "filename": "BromideNpcNmlPig13_Remake_2_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -21522,7 +21672,7 @@
         "filename": "BromideNpcNmlPig13_Remake_3_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -21538,7 +21688,7 @@
         "filename": "BromideNpcNmlPig13_Remake_4_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -21554,7 +21704,7 @@
         "filename": "BromideNpcNmlPig13_Remake_5_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -21570,7 +21720,7 @@
         "filename": "BromideNpcNmlPig13_Remake_6_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -21586,7 +21736,7 @@
         "filename": "BromideNpcNmlPig13_Remake_7_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -21610,6 +21760,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6666,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -21754,6 +21905,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6805,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -21898,6 +22050,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6670,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -22042,6 +22195,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6499,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -22186,6 +22340,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6610,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -22330,6 +22485,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6469,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -22474,6 +22630,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6436,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -22618,6 +22775,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6558,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -22762,6 +22920,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6785,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -22906,6 +23065,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6523,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -23050,6 +23210,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6602,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -23194,6 +23355,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6493,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -23338,6 +23500,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6460,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -23482,6 +23645,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6507,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -23626,6 +23790,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6635,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -23770,6 +23935,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6521,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -23778,7 +23944,7 @@
         "filename": "BromideNpcNmlHam00_Remake_0_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -23794,7 +23960,7 @@
         "filename": "BromideNpcNmlHam00_Remake_1_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -23810,7 +23976,7 @@
         "filename": "BromideNpcNmlHam00_Remake_2_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -23826,7 +23992,7 @@
         "filename": "BromideNpcNmlHam00_Remake_3_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -23842,7 +24008,7 @@
         "filename": "BromideNpcNmlHam00_Remake_4_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -23858,7 +24024,7 @@
         "filename": "BromideNpcNmlHam00_Remake_5_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -23874,7 +24040,7 @@
         "filename": "BromideNpcNmlHam00_Remake_6_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -23890,7 +24056,7 @@
         "filename": "BromideNpcNmlHam00_Remake_7_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -23914,6 +24080,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6529,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -24058,6 +24225,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6520,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -24065,7 +24233,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlGor10_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -24081,7 +24249,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlGor10_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -24097,7 +24265,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlGor10_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -24113,7 +24281,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlGor10_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -24129,7 +24297,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlGor10_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -24145,7 +24313,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlGor10_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -24161,7 +24329,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlGor10_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -24177,7 +24345,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlGor10_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -24202,6 +24370,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6535,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -24346,6 +24515,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6722,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -24490,6 +24660,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6502,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -24634,6 +24805,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6536,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -24778,6 +24950,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6677,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -24785,7 +24958,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlRbt14_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -24801,7 +24974,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlRbt14_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -24817,7 +24990,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlRbt14_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -24833,7 +25006,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlRbt14_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -24849,7 +25022,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlRbt14_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -24865,7 +25038,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlRbt14_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -24881,7 +25054,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlRbt14_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -24897,7 +25070,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlRbt14_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -24922,6 +25095,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6633,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -25066,6 +25240,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6687,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -25210,6 +25385,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6495,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -25354,6 +25530,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6647,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -25498,6 +25675,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6640,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -25642,6 +25820,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6515,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -25786,6 +25965,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6649,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -25794,7 +25974,7 @@
         "filename": "BromideNpcNmlBrd11_Remake_0_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -25810,7 +25990,7 @@
         "filename": "BromideNpcNmlBrd11_Remake_1_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -25826,7 +26006,7 @@
         "filename": "BromideNpcNmlBrd11_Remake_2_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -25842,7 +26022,7 @@
         "filename": "BromideNpcNmlBrd11_Remake_3_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -25858,7 +26038,7 @@
         "filename": "BromideNpcNmlBrd11_Remake_4_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -25874,7 +26054,7 @@
         "filename": "BromideNpcNmlBrd11_Remake_5_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -25890,7 +26070,7 @@
         "filename": "BromideNpcNmlBrd11_Remake_6_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -25906,7 +26086,7 @@
         "filename": "BromideNpcNmlBrd11_Remake_7_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -25930,6 +26110,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6671,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -26074,6 +26255,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6497,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -26218,6 +26400,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6560,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -26362,6 +26545,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6491,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -26506,6 +26690,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6604,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -26514,7 +26699,7 @@
         "filename": "BromideNpcNmlBrd04_Remake_0_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26530,7 +26715,7 @@
         "filename": "BromideNpcNmlBrd04_Remake_1_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26546,7 +26731,7 @@
         "filename": "BromideNpcNmlBrd04_Remake_2_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26562,7 +26747,7 @@
         "filename": "BromideNpcNmlBrd04_Remake_3_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26578,7 +26763,7 @@
         "filename": "BromideNpcNmlBrd04_Remake_4_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26594,7 +26779,7 @@
         "filename": "BromideNpcNmlBrd04_Remake_5_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26610,7 +26795,7 @@
         "filename": "BromideNpcNmlBrd04_Remake_6_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26626,7 +26811,7 @@
         "filename": "BromideNpcNmlBrd04_Remake_7_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26650,6 +26835,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6455,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -26658,7 +26844,7 @@
         "filename": "BromideNpcNmlDuk01_Remake_0_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26674,7 +26860,7 @@
         "filename": "BromideNpcNmlDuk01_Remake_1_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26690,7 +26876,7 @@
         "filename": "BromideNpcNmlDuk01_Remake_2_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26706,7 +26892,7 @@
         "filename": "BromideNpcNmlDuk01_Remake_3_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26722,7 +26908,7 @@
         "filename": "BromideNpcNmlDuk01_Remake_4_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26738,7 +26924,7 @@
         "filename": "BromideNpcNmlDuk01_Remake_5_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26754,7 +26940,7 @@
         "filename": "BromideNpcNmlDuk01_Remake_6_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26770,7 +26956,7 @@
         "filename": "BromideNpcNmlDuk01_Remake_7_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -26794,6 +26980,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6993,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -26938,6 +27125,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6613,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -27082,6 +27270,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6553,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -27089,7 +27278,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlHrs13_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -27105,7 +27294,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlHrs13_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -27121,7 +27310,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlHrs13_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -27137,7 +27326,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlHrs13_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -27153,7 +27342,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlHrs13_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -27169,7 +27358,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlHrs13_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -27185,7 +27374,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlHrs13_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -27201,7 +27390,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlHrs13_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -27226,6 +27415,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6780,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -27370,6 +27560,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6755,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -27514,6 +27705,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6768,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -27658,6 +27850,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6628,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -27665,7 +27858,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlPbr08_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -27681,7 +27874,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlPbr08_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -27697,7 +27890,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlPbr08_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -27713,7 +27906,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlPbr08_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -27729,7 +27922,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlPbr08_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -27745,7 +27938,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlPbr08_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -27761,7 +27954,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlPbr08_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -27777,7 +27970,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlPbr08_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "pattern": null,
@@ -27802,6 +27995,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6794,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -27946,6 +28140,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6468,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -28090,6 +28285,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6658,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -28234,6 +28430,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6756,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -28378,6 +28575,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6509,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -28522,6 +28720,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6749,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -28666,6 +28865,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6564,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -28810,6 +29010,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6760,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -28954,6 +29155,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6549,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -29098,6 +29300,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6792,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -29242,6 +29445,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6773,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -29249,7 +29453,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlCbr04_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -29265,7 +29469,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlCbr04_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -29281,7 +29485,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlCbr04_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -29297,7 +29501,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlCbr04_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -29313,7 +29517,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlCbr04_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -29329,7 +29533,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlCbr04_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -29345,7 +29549,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlCbr04_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -29361,7 +29565,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlCbr04_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "pattern": null,
@@ -29386,6 +29590,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6741,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -29530,6 +29735,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6728,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -29674,6 +29880,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6576,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -29818,6 +30025,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6484,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -29825,7 +30033,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlFlg00_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "pattern": null,
@@ -29841,7 +30049,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlFlg00_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "pattern": null,
@@ -29857,7 +30065,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlFlg00_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "pattern": null,
@@ -29873,7 +30081,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlFlg00_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "pattern": null,
@@ -29889,7 +30097,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlFlg00_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "pattern": null,
@@ -29905,7 +30113,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlFlg00_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "pattern": null,
@@ -29921,7 +30129,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlFlg00_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "pattern": null,
@@ -29937,7 +30145,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlFlg00_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "pattern": null,
@@ -29962,6 +30170,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6590,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -30106,6 +30315,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6579,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -30250,6 +30460,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6732,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -30394,6 +30605,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6764,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -30401,7 +30613,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlCat18_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -30417,7 +30629,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlCat18_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -30433,7 +30645,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlCat18_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -30449,7 +30661,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlCat18_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -30465,7 +30677,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlCat18_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -30481,7 +30693,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlCat18_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -30497,7 +30709,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlCat18_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -30513,7 +30725,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlCat18_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -30538,6 +30750,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6431,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -30682,6 +30895,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6514,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -30826,6 +31040,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6660,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -30970,6 +31185,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6439,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -31114,6 +31330,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6650,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -31258,6 +31475,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6562,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -31266,7 +31484,7 @@
         "filename": "BromideNpcNmlKal09_Remake_0_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -31282,7 +31500,7 @@
         "filename": "BromideNpcNmlKal09_Remake_1_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -31298,7 +31516,7 @@
         "filename": "BromideNpcNmlKal09_Remake_2_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -31314,7 +31532,7 @@
         "filename": "BromideNpcNmlKal09_Remake_3_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -31330,7 +31548,7 @@
         "filename": "BromideNpcNmlKal09_Remake_4_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -31346,7 +31564,7 @@
         "filename": "BromideNpcNmlKal09_Remake_5_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -31362,7 +31580,7 @@
         "filename": "BromideNpcNmlKal09_Remake_6_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -31378,7 +31596,7 @@
         "filename": "BromideNpcNmlKal09_Remake_7_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -31402,6 +31620,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6448,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -31546,6 +31765,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6446,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -31690,6 +31910,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6457,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -31834,6 +32055,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6654,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -31978,6 +32200,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6461,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -32122,6 +32345,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6770,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -32266,6 +32490,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6450,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -32410,6 +32635,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6572,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -32554,6 +32780,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6477,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -32698,6 +32925,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6607,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -32706,7 +32934,7 @@
         "filename": "BromideNpcNmlOcp01_Remake_0_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -32722,7 +32950,7 @@
         "filename": "BromideNpcNmlOcp01_Remake_1_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -32738,7 +32966,7 @@
         "filename": "BromideNpcNmlOcp01_Remake_2_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -32754,7 +32982,7 @@
         "filename": "BromideNpcNmlOcp01_Remake_3_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -32770,7 +32998,7 @@
         "filename": "BromideNpcNmlOcp01_Remake_4_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -32786,7 +33014,7 @@
         "filename": "BromideNpcNmlOcp01_Remake_5_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -32802,7 +33030,7 @@
         "filename": "BromideNpcNmlOcp01_Remake_6_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -32818,7 +33046,7 @@
         "filename": "BromideNpcNmlOcp01_Remake_7_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -32842,6 +33070,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6721,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -32986,6 +33215,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6565,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -33130,6 +33360,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6995,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -33274,6 +33505,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6556,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -33418,6 +33650,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6688,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -33562,6 +33795,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6762,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -33706,6 +33940,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6637,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -33850,6 +34085,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6713,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -33994,6 +34230,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6683,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -34138,6 +34375,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6467,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -34146,7 +34384,7 @@
         "filename": "BromideNpcNmlDuk12_Remake_0_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34162,7 +34400,7 @@
         "filename": "BromideNpcNmlDuk12_Remake_1_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34178,7 +34416,7 @@
         "filename": "BromideNpcNmlDuk12_Remake_2_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34194,7 +34432,7 @@
         "filename": "BromideNpcNmlDuk12_Remake_3_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34210,7 +34448,7 @@
         "filename": "BromideNpcNmlDuk12_Remake_4_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34226,7 +34464,7 @@
         "filename": "BromideNpcNmlDuk12_Remake_5_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34242,7 +34480,7 @@
         "filename": "BromideNpcNmlDuk12_Remake_6_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34258,7 +34496,7 @@
         "filename": "BromideNpcNmlDuk12_Remake_7_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34282,6 +34520,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6746,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -34426,6 +34665,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6753,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -34570,6 +34810,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6470,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -34578,7 +34819,7 @@
         "filename": "BromideNpcNmlDuk16_Remake_0_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34594,7 +34835,7 @@
         "filename": "BromideNpcNmlDuk16_Remake_1_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34610,7 +34851,7 @@
         "filename": "BromideNpcNmlDuk16_Remake_2_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34626,7 +34867,7 @@
         "filename": "BromideNpcNmlDuk16_Remake_3_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34642,7 +34883,7 @@
         "filename": "BromideNpcNmlDuk16_Remake_4_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34658,7 +34899,7 @@
         "filename": "BromideNpcNmlDuk16_Remake_5_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34674,7 +34915,7 @@
         "filename": "BromideNpcNmlDuk16_Remake_6_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34690,7 +34931,7 @@
         "filename": "BromideNpcNmlDuk16_Remake_7_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -34714,6 +34955,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6757,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -34858,6 +35100,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6584,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -35002,6 +35245,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6600,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -35146,6 +35390,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6577,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -35290,6 +35535,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6701,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -35434,6 +35680,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6777,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -35578,6 +35825,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6505,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -35722,6 +35970,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6580,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -35866,6 +36115,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6799,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -36010,6 +36260,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6449,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -36018,7 +36269,7 @@
         "filename": "BromideNpcNmlBea05_Remake_0_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -36034,7 +36285,7 @@
         "filename": "BromideNpcNmlBea05_Remake_1_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -36050,7 +36301,7 @@
         "filename": "BromideNpcNmlBea05_Remake_2_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -36066,7 +36317,7 @@
         "filename": "BromideNpcNmlBea05_Remake_3_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -36082,7 +36333,7 @@
         "filename": "BromideNpcNmlBea05_Remake_4_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -36098,7 +36349,7 @@
         "filename": "BromideNpcNmlBea05_Remake_5_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -36114,7 +36365,7 @@
         "filename": "BromideNpcNmlBea05_Remake_6_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -36130,7 +36381,7 @@
         "filename": "BromideNpcNmlBea05_Remake_7_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -36154,6 +36405,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6708,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -36298,6 +36550,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6797,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -36305,7 +36558,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlCow06_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -36321,7 +36574,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlCow06_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -36337,7 +36590,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlCow06_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -36353,7 +36606,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlCow06_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -36369,7 +36622,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlCow06_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -36385,7 +36638,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlCow06_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -36401,7 +36654,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlCow06_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -36417,7 +36670,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlCow06_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -36442,6 +36695,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6678,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -36586,6 +36840,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6606,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -36730,6 +36985,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6776,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -36874,6 +37130,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6778,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -37018,6 +37275,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6748,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -37162,6 +37420,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6473,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -37306,6 +37565,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6559,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -37450,6 +37710,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6659,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -37594,6 +37855,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6648,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -37738,6 +38000,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6478,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -37882,6 +38145,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6552,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -37890,7 +38154,7 @@
         "filename": "BromideNpcNmlHrs12_Remake_0_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -37906,7 +38170,7 @@
         "filename": "BromideNpcNmlHrs12_Remake_1_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -37922,7 +38186,7 @@
         "filename": "BromideNpcNmlHrs12_Remake_2_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -37938,7 +38202,7 @@
         "filename": "BromideNpcNmlHrs12_Remake_3_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -37954,7 +38218,7 @@
         "filename": "BromideNpcNmlHrs12_Remake_4_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -37970,7 +38234,7 @@
         "filename": "BromideNpcNmlHrs12_Remake_5_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -37986,7 +38250,7 @@
         "filename": "BromideNpcNmlHrs12_Remake_6_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38002,7 +38266,7 @@
         "filename": "BromideNpcNmlHrs12_Remake_7_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38026,6 +38290,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6510,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -38170,6 +38435,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6456,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -38177,7 +38443,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlDuk02_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -38193,7 +38459,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlDuk02_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -38209,7 +38475,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlDuk02_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -38225,7 +38491,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlDuk02_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -38241,7 +38507,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlDuk02_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -38257,7 +38523,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlDuk02_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -38273,7 +38539,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlDuk02_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -38289,7 +38555,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlDuk02_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -38314,6 +38580,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6795,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -38322,7 +38589,7 @@
         "filename": "BromideNpcNmlCow00_Remake_0_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38338,7 +38605,7 @@
         "filename": "BromideNpcNmlCow00_Remake_1_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38354,7 +38621,7 @@
         "filename": "BromideNpcNmlCow00_Remake_2_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38370,7 +38637,7 @@
         "filename": "BromideNpcNmlCow00_Remake_3_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38386,7 +38653,7 @@
         "filename": "BromideNpcNmlCow00_Remake_4_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38402,7 +38669,7 @@
         "filename": "BromideNpcNmlCow00_Remake_5_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38418,7 +38685,7 @@
         "filename": "BromideNpcNmlCow00_Remake_6_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38434,7 +38701,7 @@
         "filename": "BromideNpcNmlCow00_Remake_7_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38458,6 +38725,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6504,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -38602,6 +38870,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6547,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -38610,7 +38879,7 @@
         "filename": "BromideNpcNmlHrs08_Remake_0_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38626,7 +38895,7 @@
         "filename": "BromideNpcNmlHrs08_Remake_1_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38642,7 +38911,7 @@
         "filename": "BromideNpcNmlHrs08_Remake_2_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38658,7 +38927,7 @@
         "filename": "BromideNpcNmlHrs08_Remake_3_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38674,7 +38943,7 @@
         "filename": "BromideNpcNmlHrs08_Remake_4_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38690,7 +38959,7 @@
         "filename": "BromideNpcNmlHrs08_Remake_5_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38706,7 +38975,7 @@
         "filename": "BromideNpcNmlHrs08_Remake_6_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38722,7 +38991,7 @@
         "filename": "BromideNpcNmlHrs08_Remake_7_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -38746,6 +39015,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6703,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -38890,6 +39160,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6707,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -39034,6 +39305,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6682,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -39178,6 +39450,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6512,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -39322,6 +39595,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6655,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -39466,6 +39740,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6781,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -39610,6 +39885,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6603,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -39754,6 +40030,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6616,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -39898,6 +40175,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6619,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -40042,6 +40320,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6622,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -40049,7 +40328,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlPbr02_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -40065,7 +40344,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlPbr02_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -40081,7 +40360,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlPbr02_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -40097,7 +40376,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlPbr02_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -40113,7 +40392,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlPbr02_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -40129,7 +40408,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlPbr02_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -40145,7 +40424,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlPbr02_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -40161,7 +40440,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlPbr02_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -40186,6 +40465,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6702,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -40330,6 +40610,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6798,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -40474,6 +40755,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6615,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -40618,6 +40900,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6668,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -40762,6 +41045,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6791,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -40770,7 +41054,7 @@
         "filename": "BromideNpcNmlChn10_Remake_0_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -40786,7 +41070,7 @@
         "filename": "BromideNpcNmlChn10_Remake_1_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -40802,7 +41086,7 @@
         "filename": "BromideNpcNmlChn10_Remake_2_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -40818,7 +41102,7 @@
         "filename": "BromideNpcNmlChn10_Remake_3_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -40834,7 +41118,7 @@
         "filename": "BromideNpcNmlChn10_Remake_4_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -40850,7 +41134,7 @@
         "filename": "BromideNpcNmlChn10_Remake_5_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -40866,7 +41150,7 @@
         "filename": "BromideNpcNmlChn10_Remake_6_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -40882,7 +41166,7 @@
         "filename": "BromideNpcNmlChn10_Remake_7_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -40906,6 +41190,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6459,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -41050,6 +41335,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6771,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -41194,6 +41480,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6719,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -41202,7 +41489,7 @@
         "filename": "BromideNpcNmlSqu15_Remake_0_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41218,7 +41505,7 @@
         "filename": "BromideNpcNmlSqu15_Remake_1_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41234,7 +41521,7 @@
         "filename": "BromideNpcNmlSqu15_Remake_2_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41250,7 +41537,7 @@
         "filename": "BromideNpcNmlSqu15_Remake_3_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41266,7 +41553,7 @@
         "filename": "BromideNpcNmlSqu15_Remake_4_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41282,7 +41569,7 @@
         "filename": "BromideNpcNmlSqu15_Remake_5_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41298,7 +41585,7 @@
         "filename": "BromideNpcNmlSqu15_Remake_6_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41314,7 +41601,7 @@
         "filename": "BromideNpcNmlSqu15_Remake_7_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41338,6 +41625,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6442,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -41482,6 +41770,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6496,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -41490,7 +41779,7 @@
         "filename": "BromideNpcNmlFlg12_Remake_0_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41506,7 +41795,7 @@
         "filename": "BromideNpcNmlFlg12_Remake_1_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41522,7 +41811,7 @@
         "filename": "BromideNpcNmlFlg12_Remake_2_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41538,7 +41827,7 @@
         "filename": "BromideNpcNmlFlg12_Remake_3_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41554,7 +41843,7 @@
         "filename": "BromideNpcNmlFlg12_Remake_4_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41570,7 +41859,7 @@
         "filename": "BromideNpcNmlFlg12_Remake_5_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41586,7 +41875,7 @@
         "filename": "BromideNpcNmlFlg12_Remake_6_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41602,7 +41891,7 @@
         "filename": "BromideNpcNmlFlg12_Remake_7_0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -41626,6 +41915,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6636,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -41770,6 +42060,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6490,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -41914,6 +42205,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6772,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -42058,6 +42350,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6751,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -42202,6 +42495,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6752,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -42346,6 +42640,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6609,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -42490,6 +42785,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6472,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -42634,6 +42930,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6498,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -42778,6 +43075,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6646,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -42922,6 +43220,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6996,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -43066,6 +43365,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6689,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -43210,6 +43510,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6992,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -43354,6 +43655,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6575,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -43362,7 +43664,7 @@
         "filename": "BromideNpcNmlLon02_Remake_0_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -43378,7 +43680,7 @@
         "filename": "BromideNpcNmlLon02_Remake_1_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -43394,7 +43696,7 @@
         "filename": "BromideNpcNmlLon02_Remake_2_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -43410,7 +43712,7 @@
         "filename": "BromideNpcNmlLon02_Remake_3_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -43426,7 +43728,7 @@
         "filename": "BromideNpcNmlLon02_Remake_4_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -43442,7 +43744,7 @@
         "filename": "BromideNpcNmlLon02_Remake_5_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -43458,7 +43760,7 @@
         "filename": "BromideNpcNmlLon02_Remake_6_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -43474,7 +43776,7 @@
         "filename": "BromideNpcNmlLon02_Remake_7_0",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -43498,6 +43800,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6685,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -43642,6 +43945,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6485,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -43786,6 +44090,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6714,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -43930,6 +44235,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6597,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -44074,6 +44380,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6631,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -44081,7 +44388,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlPgn01_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -44097,7 +44404,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlPgn01_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -44113,7 +44420,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlPgn01_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -44129,7 +44436,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlPgn01_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -44145,7 +44452,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlPgn01_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -44161,7 +44468,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlPgn01_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -44177,7 +44484,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlPgn01_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -44193,7 +44500,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlPgn01_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -44218,6 +44525,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6571,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -44362,6 +44670,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6530,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -44506,6 +44815,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6519,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -44514,7 +44824,7 @@
         "filename": "BromideNpcNmlGor09_Remake_0_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44530,7 +44840,7 @@
         "filename": "BromideNpcNmlGor09_Remake_1_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44546,7 +44856,7 @@
         "filename": "BromideNpcNmlGor09_Remake_2_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44562,7 +44872,7 @@
         "filename": "BromideNpcNmlGor09_Remake_3_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44578,7 +44888,7 @@
         "filename": "BromideNpcNmlGor09_Remake_4_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44594,7 +44904,7 @@
         "filename": "BromideNpcNmlGor09_Remake_5_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44610,7 +44920,7 @@
         "filename": "BromideNpcNmlGor09_Remake_6_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44626,7 +44936,7 @@
         "filename": "BromideNpcNmlGor09_Remake_7_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44650,6 +44960,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6595,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -44658,7 +44969,7 @@
         "filename": "BromideNpcNmlMus05_Remake_0_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44674,7 +44985,7 @@
         "filename": "BromideNpcNmlMus05_Remake_1_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44690,7 +45001,7 @@
         "filename": "BromideNpcNmlMus05_Remake_2_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44706,7 +45017,7 @@
         "filename": "BromideNpcNmlMus05_Remake_3_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44722,7 +45033,7 @@
         "filename": "BromideNpcNmlMus05_Remake_4_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44738,7 +45049,7 @@
         "filename": "BromideNpcNmlMus05_Remake_5_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44754,7 +45065,7 @@
         "filename": "BromideNpcNmlMus05_Remake_6_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44770,7 +45081,7 @@
         "filename": "BromideNpcNmlMus05_Remake_7_0",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -44794,6 +45105,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6715,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -44938,6 +45250,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6524,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -44945,7 +45258,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlHam03_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -44961,7 +45274,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlHam03_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -44977,7 +45290,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlHam03_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -44993,7 +45306,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlHam03_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -45009,7 +45322,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlHam03_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -45025,7 +45338,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlHam03_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -45041,7 +45354,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlHam03_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -45057,7 +45370,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlHam03_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "pattern": null,
@@ -45082,6 +45395,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6723,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -45226,6 +45540,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6570,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -45233,7 +45548,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlKgr09_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -45249,7 +45564,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlKgr09_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -45265,7 +45580,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlKgr09_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -45281,7 +45596,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlKgr09_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -45297,7 +45612,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlKgr09_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -45313,7 +45628,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlKgr09_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -45329,7 +45644,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlKgr09_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -45345,7 +45660,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlKgr09_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "pattern": null,
@@ -45370,6 +45685,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6578,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -45378,7 +45694,7 @@
         "filename": "BromideNpcNmlLon07_Remake_0_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45394,7 +45710,7 @@
         "filename": "BromideNpcNmlLon07_Remake_1_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45410,7 +45726,7 @@
         "filename": "BromideNpcNmlLon07_Remake_2_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45426,7 +45742,7 @@
         "filename": "BromideNpcNmlLon07_Remake_3_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45442,7 +45758,7 @@
         "filename": "BromideNpcNmlLon07_Remake_4_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45458,7 +45774,7 @@
         "filename": "BromideNpcNmlLon07_Remake_5_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45474,7 +45790,7 @@
         "filename": "BromideNpcNmlLon07_Remake_6_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45490,7 +45806,7 @@
         "filename": "BromideNpcNmlLon07_Remake_7_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45514,6 +45830,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6543,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -45658,6 +45975,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6747,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -45802,6 +46120,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6724,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -45810,7 +46129,7 @@
         "filename": "BromideNpcNmlTig01_Remake_0_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45826,7 +46145,7 @@
         "filename": "BromideNpcNmlTig01_Remake_1_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45842,7 +46161,7 @@
         "filename": "BromideNpcNmlTig01_Remake_2_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45858,7 +46177,7 @@
         "filename": "BromideNpcNmlTig01_Remake_3_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45874,7 +46193,7 @@
         "filename": "BromideNpcNmlTig01_Remake_4_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45890,7 +46209,7 @@
         "filename": "BromideNpcNmlTig01_Remake_5_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45906,7 +46225,7 @@
         "filename": "BromideNpcNmlTig01_Remake_6_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45922,7 +46241,7 @@
         "filename": "BromideNpcNmlTig01_Remake_7_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -45946,6 +46265,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6672,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -46090,6 +46410,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6767,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -46234,6 +46555,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6711,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -46378,6 +46700,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6594,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -46522,6 +46845,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6611,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -46666,6 +46990,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6541,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -46810,6 +47135,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6465,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -46954,6 +47280,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6587,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -47098,6 +47425,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6720,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -47242,6 +47570,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6453,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -47386,6 +47715,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 7212,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -47393,7 +47723,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlGoa09_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -47409,7 +47739,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlGoa09_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -47425,7 +47755,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlGoa09_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -47441,7 +47771,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlGoa09_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -47457,7 +47787,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlGoa09_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -47473,7 +47803,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlGoa09_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -47489,7 +47819,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlGoa09_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -47505,7 +47835,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlGoa09_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "pattern": null,
@@ -47530,6 +47860,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6581,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -47674,6 +48005,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6740,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -47681,7 +48013,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlWol09_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -47697,7 +48029,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlWol09_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -47713,7 +48045,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlWol09_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -47729,7 +48061,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlWol09_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -47745,7 +48077,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlWol09_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -47761,7 +48093,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlWol09_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -47777,7 +48109,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlWol09_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -47793,7 +48125,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlWol09_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "pattern": null,
@@ -47818,6 +48150,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6804,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -47962,6 +48295,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6665,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -48106,6 +48440,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6754,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -48250,6 +48585,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6525,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -48258,7 +48594,7 @@
         "filename": "BromideNpcNmlHam04_Remake_0_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -48274,7 +48610,7 @@
         "filename": "BromideNpcNmlHam04_Remake_1_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -48290,7 +48626,7 @@
         "filename": "BromideNpcNmlHam04_Remake_2_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -48306,7 +48642,7 @@
         "filename": "BromideNpcNmlHam04_Remake_3_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -48322,7 +48658,7 @@
         "filename": "BromideNpcNmlHam04_Remake_4_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -48338,7 +48674,7 @@
         "filename": "BromideNpcNmlHam04_Remake_5_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -48354,7 +48690,7 @@
         "filename": "BromideNpcNmlHam04_Remake_6_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -48370,7 +48706,7 @@
         "filename": "BromideNpcNmlHam04_Remake_7_0",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -48394,6 +48730,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6693,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -48538,6 +48875,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6686,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -48682,6 +49020,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6651,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -48826,6 +49165,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6643,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -48970,6 +49310,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6612,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -49114,6 +49455,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6712,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -49258,6 +49600,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6694,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -49266,7 +49609,7 @@
         "filename": "BromideNpcNmlShp03_Remake_0_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49282,7 +49625,7 @@
         "filename": "BromideNpcNmlShp03_Remake_1_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49298,7 +49641,7 @@
         "filename": "BromideNpcNmlShp03_Remake_2_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49314,7 +49657,7 @@
         "filename": "BromideNpcNmlShp03_Remake_3_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49330,7 +49673,7 @@
         "filename": "BromideNpcNmlShp03_Remake_4_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49346,7 +49689,7 @@
         "filename": "BromideNpcNmlShp03_Remake_5_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49362,7 +49705,7 @@
         "filename": "BromideNpcNmlShp03_Remake_6_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49378,7 +49721,7 @@
         "filename": "BromideNpcNmlShp03_Remake_7_0",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49402,6 +49745,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6627,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -49546,6 +49890,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6759,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -49690,6 +50035,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6774,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -49698,7 +50044,7 @@
         "filename": "BromideNpcNmlCbr05_Remake_0_0",
         "colors": [
           "Colorful",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49714,7 +50060,7 @@
         "filename": "BromideNpcNmlCbr05_Remake_1_0",
         "colors": [
           "Colorful",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49730,7 +50076,7 @@
         "filename": "BromideNpcNmlCbr05_Remake_2_0",
         "colors": [
           "Colorful",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49746,7 +50092,7 @@
         "filename": "BromideNpcNmlCbr05_Remake_3_0",
         "colors": [
           "Colorful",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49762,7 +50108,7 @@
         "filename": "BromideNpcNmlCbr05_Remake_4_0",
         "colors": [
           "Colorful",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49778,7 +50124,7 @@
         "filename": "BromideNpcNmlCbr05_Remake_5_0",
         "colors": [
           "Colorful",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49794,7 +50140,7 @@
         "filename": "BromideNpcNmlCbr05_Remake_6_0",
         "colors": [
           "Colorful",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49810,7 +50156,7 @@
         "filename": "BromideNpcNmlCbr05_Remake_7_0",
         "colors": [
           "Colorful",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -49834,6 +50180,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6726,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -49978,6 +50325,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6557,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -50122,6 +50470,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6718,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -50266,6 +50615,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6568,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -50410,6 +50760,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6737,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -50554,6 +50905,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6758,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -50698,6 +51050,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6492,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -50842,6 +51195,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6583,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -50986,6 +51340,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6784,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -50994,7 +51349,7 @@
         "filename": "BromideNpcNmlCbr17_Remake_0_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51010,7 +51365,7 @@
         "filename": "BromideNpcNmlCbr17_Remake_1_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51026,7 +51381,7 @@
         "filename": "BromideNpcNmlCbr17_Remake_2_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51042,7 +51397,7 @@
         "filename": "BromideNpcNmlCbr17_Remake_3_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51058,7 +51413,7 @@
         "filename": "BromideNpcNmlCbr17_Remake_4_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51074,7 +51429,7 @@
         "filename": "BromideNpcNmlCbr17_Remake_5_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51090,7 +51445,7 @@
         "filename": "BromideNpcNmlCbr17_Remake_6_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51106,7 +51461,7 @@
         "filename": "BromideNpcNmlCbr17_Remake_7_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51130,6 +51485,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6750,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -51274,6 +51630,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6684,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -51418,6 +51775,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6717,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -51562,6 +51920,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6787,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -51706,6 +52065,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6641,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -51850,6 +52210,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6483,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -51858,7 +52219,7 @@
         "filename": "BromideNpcNmlElp10_Remake_0_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51874,7 +52235,7 @@
         "filename": "BromideNpcNmlElp10_Remake_1_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51890,7 +52251,7 @@
         "filename": "BromideNpcNmlElp10_Remake_2_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51906,7 +52267,7 @@
         "filename": "BromideNpcNmlElp10_Remake_3_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51922,7 +52283,7 @@
         "filename": "BromideNpcNmlElp10_Remake_4_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51938,7 +52299,7 @@
         "filename": "BromideNpcNmlElp10_Remake_5_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51954,7 +52315,7 @@
         "filename": "BromideNpcNmlElp10_Remake_6_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51970,7 +52331,7 @@
         "filename": "BromideNpcNmlElp10_Remake_7_0",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -51994,6 +52355,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6669,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -52138,6 +52500,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6699,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -52282,6 +52645,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6796,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -52426,6 +52790,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6761,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -52570,6 +52935,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6645,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -52714,6 +53080,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6481,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -52858,6 +53225,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6471,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -53002,6 +53370,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6593,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -53010,7 +53379,7 @@
         "filename": "BromideNpcNmlBrd03_Remake_0_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -53026,7 +53395,7 @@
         "filename": "BromideNpcNmlBrd03_Remake_1_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -53042,7 +53411,7 @@
         "filename": "BromideNpcNmlBrd03_Remake_2_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -53058,7 +53427,7 @@
         "filename": "BromideNpcNmlBrd03_Remake_3_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -53074,7 +53443,7 @@
         "filename": "BromideNpcNmlBrd03_Remake_4_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -53090,7 +53459,7 @@
         "filename": "BromideNpcNmlBrd03_Remake_5_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -53106,7 +53475,7 @@
         "filename": "BromideNpcNmlBrd03_Remake_6_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -53122,7 +53491,7 @@
         "filename": "BromideNpcNmlBrd03_Remake_7_0",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -53146,6 +53515,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6725,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -53290,6 +53660,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6482,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -53434,6 +53805,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6508,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -53578,6 +53950,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6690,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -53722,6 +54095,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6744,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -53866,6 +54240,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6540,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -54010,6 +54385,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6517,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -54154,6 +54530,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6739,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -54298,6 +54675,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6775,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -54442,6 +54820,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6638,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -54586,6 +54965,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6443,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -54730,6 +55110,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6569,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -54874,6 +55255,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6489,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -55018,6 +55400,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6466,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -55162,6 +55545,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6698,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -55170,7 +55554,7 @@
         "filename": "BromideNpcNmlShp09_Remake_0_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55186,7 +55570,7 @@
         "filename": "BromideNpcNmlShp09_Remake_1_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55202,7 +55586,7 @@
         "filename": "BromideNpcNmlShp09_Remake_2_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55218,7 +55602,7 @@
         "filename": "BromideNpcNmlShp09_Remake_3_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55234,7 +55618,7 @@
         "filename": "BromideNpcNmlShp09_Remake_4_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55250,7 +55634,7 @@
         "filename": "BromideNpcNmlShp09_Remake_5_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55266,7 +55650,7 @@
         "filename": "BromideNpcNmlShp09_Remake_6_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55282,7 +55666,7 @@
         "filename": "BromideNpcNmlShp09_Remake_7_0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55306,6 +55690,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6734,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -55313,7 +55698,7 @@
         "variation": "Natural wood",
         "filename": "BromideNpcNmlWol03_Remake_0_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -55329,7 +55714,7 @@
         "variation": "Dark wood",
         "filename": "BromideNpcNmlWol03_Remake_1_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -55345,7 +55730,7 @@
         "variation": "Pastel",
         "filename": "BromideNpcNmlWol03_Remake_2_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -55361,7 +55746,7 @@
         "variation": "White",
         "filename": "BromideNpcNmlWol03_Remake_3_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -55377,7 +55762,7 @@
         "variation": "Pop",
         "filename": "BromideNpcNmlWol03_Remake_4_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -55393,7 +55778,7 @@
         "variation": "Colorful",
         "filename": "BromideNpcNmlWol03_Remake_5_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -55409,7 +55794,7 @@
         "variation": "Silver",
         "filename": "BromideNpcNmlWol03_Remake_6_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -55425,7 +55810,7 @@
         "variation": "Gold",
         "filename": "BromideNpcNmlWol03_Remake_7_0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "pattern": null,
@@ -55450,6 +55835,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6696,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -55594,6 +55980,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6544,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -55602,7 +55989,7 @@
         "filename": "BromideNpcNmlHrs05_Remake_0_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55618,7 +56005,7 @@
         "filename": "BromideNpcNmlHrs05_Remake_1_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55634,7 +56021,7 @@
         "filename": "BromideNpcNmlHrs05_Remake_2_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55650,7 +56037,7 @@
         "filename": "BromideNpcNmlHrs05_Remake_3_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55666,7 +56053,7 @@
         "filename": "BromideNpcNmlHrs05_Remake_4_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55682,7 +56069,7 @@
         "filename": "BromideNpcNmlHrs05_Remake_5_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55698,7 +56085,7 @@
         "filename": "BromideNpcNmlHrs05_Remake_6_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55714,7 +56101,7 @@
         "filename": "BromideNpcNmlHrs05_Remake_7_0",
         "colors": [
           "Beige",
-          "Light blue"
+          "Aqua"
         ],
         "pattern": null,
         "source": [
@@ -55738,6 +56125,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6733,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -55882,6 +56270,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6554,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -56026,6 +56415,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6428,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -56170,6 +56560,7 @@
     "size": "1x1",
     "catalog": "Not in catalog",
     "variant_id": "0_0",
+    "internal_id": 6608,
     "customization_kit_cost": 1,
     "variants": [
       {

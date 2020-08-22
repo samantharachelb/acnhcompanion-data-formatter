@@ -22,6 +22,7 @@
     "icon_filename": "Awabi",
     "critterpedia_filename": "DiveFishAwabi",
     "furniture_filename": "FtrDiveFishAwabi",
+    "internal_id": 2835,
     "colors": [],
     "special_sell": 3000,
     "active_months": {
@@ -220,6 +221,7 @@
     "icon_filename": "Fujitsubo",
     "critterpedia_filename": "DiveFishFujitsubo",
     "furniture_filename": "FtrDiveFishFujitsubo",
+    "internal_id": 2832,
     "colors": [],
     "special_sell": 900,
     "active_months": {
@@ -517,6 +519,7 @@
     "icon_filename": "Oumugai",
     "critterpedia_filename": "DiveFishOumugai",
     "furniture_filename": "FtrDiveFishOumugai",
+    "internal_id": 2856,
     "colors": [],
     "special_sell": 2700,
     "active_months": {
@@ -704,6 +707,7 @@
     "icon_filename": "DungenessCrab",
     "critterpedia_filename": "DiveFishDungenessCrab",
     "furniture_filename": "FtrDiveFishDungenessCrab",
+    "internal_id": 7308,
     "colors": [],
     "special_sell": 2850,
     "active_months": {
@@ -902,6 +906,7 @@
     "icon_filename": "Hotaruika",
     "critterpedia_filename": "DiveFishHotaruika",
     "furniture_filename": "FtrDiveFishHotaruika",
+    "internal_id": 6920,
     "colors": [],
     "special_sell": 2100,
     "active_months": {
@@ -1034,6 +1039,7 @@
     "icon_filename": "Hiramushi",
     "critterpedia_filename": "DiveFishHiramushi",
     "furniture_filename": "FtrDiveFishHiramushi",
+    "internal_id": 2844,
     "colors": [],
     "special_sell": 1050,
     "active_months": {
@@ -1100,6 +1106,7 @@
     "icon_filename": "Gazami",
     "critterpedia_filename": "DiveFishGazami",
     "furniture_filename": "FtrDiveFishGazami",
+    "internal_id": 7191,
     "colors": [],
     "special_sell": 3300,
     "active_months": {
@@ -1254,6 +1261,7 @@
     "icon_filename": "Daiougusokumushi",
     "critterpedia_filename": "DiveFishDaiougusokumushi",
     "furniture_filename": "FtrDiveFishDaiougusokumushi",
+    "internal_id": 2858,
     "colors": [],
     "special_sell": 18000,
     "active_months": {
@@ -1392,6 +1400,7 @@
     "icon_filename": "Shakogai",
     "critterpedia_filename": "DiveFishShakogai",
     "furniture_filename": "FtrDiveFishShakogai",
+    "internal_id": 7214,
     "colors": [],
     "special_sell": 22500,
     "active_months": {
@@ -1524,6 +1533,7 @@
     "icon_filename": "Kabutogani",
     "critterpedia_filename": "DiveFishKabutogani",
     "furniture_filename": "FtrDiveFishKabutogani",
+    "internal_id": 2857,
     "colors": [],
     "special_sell": 3750,
     "active_months": {
@@ -1612,6 +1622,7 @@
     "icon_filename": "Fish54",
     "critterpedia_filename": "DiveFishLobster",
     "furniture_filename": "FtrDiveFishLobster",
+    "internal_id": 2849,
     "colors": [],
     "special_sell": 6750,
     "active_months": {
@@ -1755,6 +1766,7 @@
     "icon_filename": "Shako",
     "critterpedia_filename": "DiveFishSyako",
     "furniture_filename": "FtrDiveFishShako",
+    "internal_id": 2845,
     "colors": [],
     "special_sell": 3750,
     "active_months": {
@@ -2052,6 +2064,7 @@
     "icon_filename": "Mizukurage",
     "critterpedia_filename": "DiveFishMizukurage",
     "furniture_filename": "FtrDiveFishMizukurage",
+    "internal_id": 7245,
     "colors": [],
     "special_sell": 900,
     "active_months": {
@@ -2140,6 +2153,7 @@
     "icon_filename": "Muhrugai",
     "critterpedia_filename": "DiveFishMuhrugai",
     "furniture_filename": "FtrDiveFishMuhrugai",
+    "internal_id": 7411,
     "colors": [],
     "special_sell": 2250,
     "active_months": {
@@ -2316,6 +2330,7 @@
     "icon_filename": "Tako",
     "critterpedia_filename": "DiveFishTako",
     "furniture_filename": "FtrDiveFishTako",
+    "internal_id": 2854,
     "colors": [],
     "special_sell": 1800,
     "active_months": {
@@ -2613,6 +2628,7 @@
     "icon_filename": "Kaki",
     "critterpedia_filename": "DiveFishOyster",
     "furniture_filename": "FtrDiveFishKaki",
+    "internal_id": 2833,
     "colors": [],
     "special_sell": 1650,
     "active_months": {
@@ -2767,6 +2783,7 @@
     "icon_filename": "Akoyagai",
     "critterpedia_filename": "DiveFishAkoyagai",
     "furniture_filename": "FtrDiveFishAkoyagai",
+    "internal_id": 2838,
     "colors": [],
     "special_sell": 4200,
     "active_months": {
@@ -3064,6 +3081,7 @@
     "icon_filename": "Tarabagani",
     "critterpedia_filename": "DiveFishTarabagani",
     "furniture_filename": "FtrDiveFishTarabagani",
+    "internal_id": 2852,
     "colors": [],
     "special_sell": 12000,
     "active_months": {
@@ -3218,6 +3236,7 @@
     "icon_filename": "Hotate",
     "critterpedia_filename": "DiveFishHotate",
     "furniture_filename": "FtrDiveFishHotate",
+    "internal_id": 2839,
     "colors": [],
     "special_sell": 1800,
     "active_months": {
@@ -3515,6 +3534,7 @@
     "icon_filename": "Isogintyaku",
     "critterpedia_filename": "DiveFishIsogintyaku",
     "furniture_filename": "FtrDiveFishIsogintyaku",
+    "internal_id": 2840,
     "colors": [],
     "special_sell": 750,
     "active_months": {
@@ -3812,6 +3832,7 @@
     "icon_filename": "Namako",
     "critterpedia_filename": "DiveFishNamako",
     "furniture_filename": "FtrDiveFishNamako",
+    "internal_id": 2842,
     "colors": [],
     "special_sell": 750,
     "active_months": {
@@ -3988,6 +4009,7 @@
     "icon_filename": "Umibudou",
     "critterpedia_filename": "DiveFishUmibudou",
     "furniture_filename": "FtrDiveFishUmibudou",
+    "internal_id": 2830,
     "colors": [],
     "special_sell": 1350,
     "active_months": {
@@ -4098,6 +4120,7 @@
     "icon_filename": "Senjunamako",
     "critterpedia_filename": "DiveFishSenjunamako",
     "furniture_filename": "FtrDiveFishSenjunamako",
+    "internal_id": 7303,
     "colors": [],
     "special_sell": 15000,
     "active_months": {
@@ -4219,6 +4242,7 @@
     "icon_filename": "Hoya",
     "critterpedia_filename": "DiveFishHoya",
     "furniture_filename": "FtrDiveFishHoya",
+    "internal_id": 7228,
     "colors": [],
     "special_sell": 2250,
     "active_months": {
@@ -4362,6 +4386,7 @@
     "icon_filename": "Umiushi",
     "critterpedia_filename": "DiveFishUmiushi",
     "furniture_filename": "FtrDiveFishUmiushi",
+    "internal_id": 2843,
     "colors": [],
     "special_sell": 900,
     "active_months": {
@@ -4659,6 +4684,7 @@
     "icon_filename": "Hitode",
     "critterpedia_filename": "DiveFishHitode",
     "furniture_filename": "FtrDiveFishHitode",
+    "internal_id": 2841,
     "colors": [],
     "special_sell": 750,
     "active_months": {
@@ -4956,6 +4982,7 @@
     "icon_filename": "Uni",
     "critterpedia_filename": "DiveFishUni",
     "furniture_filename": "FtrDiveFishUni",
+    "internal_id": 2831,
     "colors": [],
     "special_sell": 2550,
     "active_months": {
@@ -5088,6 +5115,7 @@
     "icon_filename": "Wakame",
     "critterpedia_filename": "DiveFishWakame",
     "furniture_filename": "FtrDiveFishWakame",
+    "internal_id": 2620,
     "colors": [],
     "special_sell": 900,
     "active_months": {
@@ -5352,6 +5380,7 @@
     "icon_filename": "Paipuuni",
     "critterpedia_filename": "DiveFishPaipuuni",
     "furniture_filename": "FtrDiveFishPaipuuni",
+    "internal_id": 7267,
     "colors": [],
     "special_sell": 3000,
     "active_months": {
@@ -5484,6 +5513,7 @@
     "icon_filename": "Zuwaigani",
     "critterpedia_filename": "DiveFishZuwaigani",
     "furniture_filename": "FtrDiveFishZuwaigani",
+    "internal_id": 2850,
     "colors": [],
     "special_sell": 9000,
     "active_months": {
@@ -5660,6 +5690,7 @@
     "icon_filename": "Takaashigani",
     "critterpedia_filename": "DiveFishTakaashigani",
     "furniture_filename": "FtrDiveFishTakaashigani",
+    "internal_id": 2853,
     "colors": [],
     "special_sell": 18000,
     "active_months": {
@@ -5748,6 +5779,7 @@
     "icon_filename": "Iseebi",
     "critterpedia_filename": "DiveFishIseebi",
     "furniture_filename": "FtrDiveFishIseebi",
+    "internal_id": 2848,
     "colors": [],
     "special_sell": 7500,
     "active_months": {
@@ -5847,6 +5879,7 @@
     "icon_filename": "Chinanago",
     "critterpedia_filename": "DiveFishChinanago",
     "furniture_filename": "FtrDiveFishChinanago",
+    "internal_id": 2855,
     "colors": [],
     "special_sell": 1650,
     "active_months": {
@@ -6001,6 +6034,7 @@
     "icon_filename": "Amaebi",
     "critterpedia_filename": "DiveFishAmaebi",
     "furniture_filename": "FtrDiveFishAmaebi",
+    "internal_id": 2846,
     "colors": [],
     "special_sell": 2100,
     "active_months": {
@@ -6155,6 +6189,7 @@
     "icon_filename": "Kurumaebi",
     "critterpedia_filename": "DiveFishKurumaebi",
     "furniture_filename": "FtrDiveFishKurumaebi",
+    "internal_id": 2847,
     "colors": [],
     "special_sell": 4500,
     "active_months": {
@@ -6265,6 +6300,7 @@
     "icon_filename": "Sazae",
     "critterpedia_filename": "DiveFishSazae",
     "furniture_filename": "FtrDiveFishSazae",
+    "internal_id": 2834,
     "colors": [],
     "special_sell": 1500,
     "active_months": {
@@ -6452,6 +6488,7 @@
     "icon_filename": "Mendako",
     "critterpedia_filename": "DiveFishMendako",
     "furniture_filename": "FtrDiveFishMendako",
+    "internal_id": 7252,
     "colors": [],
     "special_sell": 9000,
     "active_months": {
@@ -6617,6 +6654,7 @@
     "icon_filename": "Koumoridako",
     "critterpedia_filename": "DiveFishKoumoridako",
     "furniture_filename": "FtrDiveFishKoumoridako",
+    "internal_id": 7203,
     "colors": [],
     "special_sell": 15000,
     "active_months": {
@@ -6738,6 +6776,7 @@
     "icon_filename": "Kairoudouketsu",
     "critterpedia_filename": "DiveFishKairoudouketsu",
     "furniture_filename": "FtrDiveFishKairoudouketsu",
+    "internal_id": 7318,
     "colors": [],
     "special_sell": 7500,
     "active_months": {
@@ -6881,6 +6920,7 @@
     "icon_filename": "Baigai",
     "critterpedia_filename": "DiveFishBaigai",
     "furniture_filename": "FtrDiveFishBaigai",
+    "internal_id": 7278,
     "colors": [],
     "special_sell": 1500,
     "active_months": {

@@ -24,6 +24,7 @@
     "icon_filename": "Fish81",
     "critterpedia_filename": "FishAntyobi",
     "furniture_filename": "FtrFishAntyobi",
+    "internal_id": 4201,
     "colors": [
       "Blue",
       "Red"
@@ -326,6 +327,7 @@
     "icon_filename": "Fish30",
     "critterpedia_filename": "FishAngelfish",
     "furniture_filename": "FtrFishAngelfish",
+    "internal_id": 2247,
     "colors": [
       "Yellow",
       "Black"
@@ -485,6 +487,7 @@
     "icon_filename": "Fish36",
     "critterpedia_filename": "FishPiraruku",
     "furniture_filename": "FtrFishPiraruku",
+    "internal_id": 2253,
     "colors": [
       "Black",
       "Blue"
@@ -600,6 +603,7 @@
     "icon_filename": "Fish33",
     "critterpedia_filename": "FishArowana",
     "furniture_filename": "FtrFishArowana",
+    "internal_id": 2250,
     "colors": [
       "Yellow",
       "Black"
@@ -715,6 +719,7 @@
     "icon_filename": "Fish47",
     "critterpedia_filename": "FishIshidai",
     "furniture_filename": "FtrFishIshidai",
+    "internal_id": 2265,
     "colors": [
       "White",
       "Black"
@@ -951,6 +956,7 @@
     "icon_filename": "Fish84",
     "critterpedia_filename": "FishDemenigisu",
     "furniture_filename": "FtrFishDemenigisu",
+    "internal_id": 4204,
     "colors": [
       "Black",
       "Black"
@@ -1253,8 +1259,9 @@
     "icon_filename": "Fish77",
     "critterpedia_filename": "FishBeta",
     "furniture_filename": "FtrFishBeta",
+    "internal_id": 4191,
     "colors": [
-      "Light blue",
+      "Aqua",
       "Black"
     ],
     "special_sell": 3750,
@@ -1412,8 +1419,9 @@
     "icon_filename": "Fish0",
     "critterpedia_filename": "FishTanago",
     "furniture_filename": "FtrFishTanago",
+    "internal_id": 2215,
     "colors": [
-      "Light blue",
+      "Aqua",
       "Blue"
     ],
     "special_sell": 1350,
@@ -1571,6 +1579,7 @@
     "icon_filename": "Fish19",
     "critterpedia_filename": "FishBlackbass",
     "furniture_filename": "FtrFishBlackbass",
+    "internal_id": 2234,
     "colors": [
       "Green",
       "Black"
@@ -1873,6 +1882,7 @@
     "icon_filename": "Fish73",
     "critterpedia_filename": "FishFugu",
     "furniture_filename": "FtrFishFugu",
+    "internal_id": 2262,
     "colors": [
       "Beige",
       "Black"
@@ -1999,6 +2009,7 @@
     "icon_filename": "Fish58",
     "critterpedia_filename": "FishKajiki",
     "furniture_filename": "FtrFishKajiki",
+    "internal_id": 2275,
     "colors": [
       "Blue",
       "Black"
@@ -2235,6 +2246,7 @@
     "icon_filename": "Fish17",
     "critterpedia_filename": "FishBlueguill",
     "furniture_filename": "FtrFishBlueguill",
+    "internal_id": 2232,
     "colors": [
       "Blue",
       "Black"
@@ -2537,6 +2549,7 @@
     "icon_filename": "Fish42",
     "critterpedia_filename": "FishChouchouuo",
     "furniture_filename": "FtrFishChouchouuo",
+    "internal_id": 2259,
     "colors": [
       "Yellow",
       "Black"
@@ -2696,6 +2709,7 @@
     "icon_filename": "Fish5",
     "critterpedia_filename": "FishKoi",
     "furniture_filename": "FtrFishKoi",
+    "internal_id": 2219,
     "colors": [
       "Gray",
       "Black"
@@ -2998,6 +3012,7 @@
     "icon_filename": "Fish14",
     "critterpedia_filename": "FishNamazu",
     "furniture_filename": "FtrFishNamazu",
+    "internal_id": 2229,
     "colors": [
       "Black",
       "Black"
@@ -3157,6 +3172,7 @@
     "icon_filename": "Fish24",
     "critterpedia_filename": "FishOoiwana",
     "furniture_filename": "FtrFishOoiwana",
+    "internal_id": 2239,
     "colors": [
       "Brown",
       "Black"
@@ -3349,6 +3365,7 @@
     "icon_filename": "Fish23",
     "critterpedia_filename": "FishYamame",
     "furniture_filename": "FtrFishYamame",
+    "internal_id": 2238,
     "colors": [
       "Brown",
       "Black"
@@ -3541,6 +3558,7 @@
     "icon_filename": "Fish40",
     "critterpedia_filename": "FishKumanomi",
     "furniture_filename": "FtrFishKumanomi",
+    "internal_id": 2257,
     "colors": [
       "Orange",
       "Black"
@@ -3700,6 +3718,7 @@
     "icon_filename": "Fish63",
     "critterpedia_filename": "FishSirakansu",
     "furniture_filename": "FtrFishSirakansu",
+    "internal_id": 2284,
     "colors": [
       "Black",
       "Black"
@@ -4002,6 +4021,7 @@
     "icon_filename": "Fish10",
     "critterpedia_filename": "FishZarigani",
     "furniture_filename": "FtrFishZarigani",
+    "internal_id": 2223,
     "colors": [
       "Red",
       "Black"
@@ -4161,6 +4181,7 @@
     "icon_filename": "Fish2",
     "critterpedia_filename": "FishFuna",
     "furniture_filename": "FtrFishFuna",
+    "internal_id": 328,
     "colors": [
       "Brown",
       "Black"
@@ -4463,6 +4484,7 @@
     "icon_filename": "Fish50",
     "critterpedia_filename": "FishKarei",
     "furniture_filename": "FtrFishKarei",
+    "internal_id": 2268,
     "colors": [
       "Brown",
       "Black"
@@ -4666,6 +4688,7 @@
     "icon_filename": "Fish3",
     "critterpedia_filename": "FishUgui",
     "furniture_filename": "FtrFishUgui",
+    "internal_id": 2217,
     "colors": [
       "Brown",
       "Black"
@@ -4968,6 +4991,7 @@
     "icon_filename": "Fish34",
     "critterpedia_filename": "FishDolado",
     "furniture_filename": "FtrFishDolado",
+    "internal_id": 2251,
     "colors": [
       "Yellow",
       "Black"
@@ -5083,6 +5107,7 @@
     "icon_filename": "Fish56",
     "critterpedia_filename": "FishChouchinankou",
     "furniture_filename": "FtrFishChouchinankou",
+    "internal_id": 2273,
     "colors": [
       "Black",
       "Black"
@@ -5242,6 +5267,7 @@
     "icon_filename": "Fish12",
     "critterpedia_filename": "FishDonko",
     "furniture_filename": "FtrFishDonko",
+    "internal_id": 2227,
     "colors": [
       "Brown",
       "Black"
@@ -5544,6 +5570,7 @@
     "icon_filename": "Fish11",
     "critterpedia_filename": "FishKaeru",
     "furniture_filename": "FtrFishKaeru",
+    "internal_id": 2226,
     "colors": [
       "Green",
       "Black"
@@ -5670,6 +5697,7 @@
     "icon_filename": "Fish35",
     "critterpedia_filename": "FishGa",
     "furniture_filename": "FtrFishGa",
+    "internal_id": 2252,
     "colors": [
       "Brown",
       "Black"
@@ -5785,6 +5813,7 @@
     "icon_filename": "Fish16",
     "critterpedia_filename": "FishRaigyo",
     "furniture_filename": "FtrFishRaigyo",
+    "internal_id": 2231,
     "colors": [
       "Black",
       "Black"
@@ -5889,6 +5918,7 @@
     "icon_filename": "Fish70",
     "critterpedia_filename": "FishRouninaji",
     "furniture_filename": "FtrFishGT",
+    "internal_id": 2276,
     "colors": [
       "Black",
       "Black"
@@ -6048,6 +6078,7 @@
     "icon_filename": "Fish79",
     "critterpedia_filename": "FishGoldenTorauto",
     "furniture_filename": "FtrFishGoldenTorauto",
+    "internal_id": 4193,
     "colors": [
       "Brown",
       "Black"
@@ -6218,9 +6249,10 @@
     "icon_filename": "Fish7",
     "critterpedia_filename": "FishKingyo",
     "furniture_filename": "FtrFishKingyo",
+    "internal_id": 329,
     "colors": [
       "Red",
-      "Light blue"
+      "Aqua"
     ],
     "special_sell": 1950,
     "active_months": {
@@ -6520,6 +6552,7 @@
     "icon_filename": "Fish62",
     "critterpedia_filename": "FishSame",
     "furniture_filename": "FtrFishSame",
+    "internal_id": 2280,
     "colors": [
       "Blue",
       "Blue"
@@ -6635,6 +6668,7 @@
     "icon_filename": "Fish29",
     "critterpedia_filename": "FishGuppi",
     "furniture_filename": "FtrFishGuppi",
+    "internal_id": 2245,
     "colors": [
       "Blue",
       "Black"
@@ -6838,6 +6872,7 @@
     "icon_filename": "Fish61",
     "critterpedia_filename": "FishShumokuzame",
     "furniture_filename": "FtrFishShumokuzame",
+    "internal_id": 2279,
     "colors": [
       "Black",
       "Black"
@@ -6953,6 +6988,7 @@
     "icon_filename": "Fish46",
     "critterpedia_filename": "FishAji",
     "furniture_filename": "FtrFishAji",
+    "internal_id": 2264,
     "colors": [
       "Blue",
       "Black"
@@ -7255,6 +7291,7 @@
     "icon_filename": "Fish9",
     "critterpedia_filename": "FishMedaka",
     "furniture_filename": "FtrFishMedaka",
+    "internal_id": 2222,
     "colors": [
       "Yellow",
       "Black"
@@ -7403,6 +7440,7 @@
     "icon_filename": "Fish28",
     "critterpedia_filename": "FishKingsalmon",
     "furniture_filename": "FtrFishKingsalmon",
+    "internal_id": 2243,
     "colors": [
       "Gray",
       "Black"
@@ -7451,6 +7489,7 @@
     "icon_filename": "Fish6",
     "critterpedia_filename": "FishNishikigoi",
     "furniture_filename": "FtrFishNishikigoi",
+    "internal_id": 2220,
     "colors": [
       "Red",
       "White"
@@ -7753,6 +7792,7 @@
     "icon_filename": "Fish13",
     "critterpedia_filename": "FishDojou",
     "furniture_filename": "FtrFishDojou",
+    "internal_id": 2228,
     "colors": [
       "Brown",
       "Blue"
@@ -7868,6 +7908,7 @@
     "icon_filename": "Fish82",
     "critterpedia_filename": "FishShiira",
     "furniture_filename": "FtrFishShiira",
+    "internal_id": 4202,
     "colors": [
       "Yellow",
       "Black"
@@ -8027,6 +8068,7 @@
     "icon_filename": "Fish66",
     "critterpedia_filename": "FishSyanhaigani",
     "furniture_filename": "FtrFishShanghai",
+    "internal_id": 2244,
     "colors": [
       "Black",
       "Blue"
@@ -8120,6 +8162,7 @@
     "icon_filename": "Fish55",
     "critterpedia_filename": "FishUtsubo",
     "furniture_filename": "FtrFishUtsubo",
+    "internal_id": 2271,
     "colors": [
       "Brown",
       "Black"
@@ -8213,8 +8256,9 @@
     "icon_filename": "Fish43",
     "critterpedia_filename": "FishNaporeonfish",
     "furniture_filename": "FtrFishNaporeonfish",
+    "internal_id": 2260,
     "colors": [
-      "Light blue",
+      "Aqua",
       "Black"
     ],
     "special_sell": 15000,
@@ -8295,8 +8339,9 @@
     "icon_filename": "Fish31",
     "critterpedia_filename": "FishNeontetora",
     "furniture_filename": "FtrFishNeontetora",
+    "internal_id": 2248,
     "colors": [
-      "Light blue",
+      "Aqua",
       "Black"
     ],
     "special_sell": 750,
@@ -8498,6 +8543,7 @@
     "icon_filename": "Fish67",
     "critterpedia_filename": "FishDokutaafish",
     "furniture_filename": "FtrFishDoctor",
+    "internal_id": 2246,
     "colors": [
       "Brown",
       "Blue"
@@ -8635,6 +8681,7 @@
     "icon_filename": "Fish69",
     "critterpedia_filename": "FishRyuuguunotukai",
     "furniture_filename": "FtrFishRyugu",
+    "internal_id": 2283,
     "colors": [
       "Red",
       "Blue"
@@ -8816,6 +8863,7 @@
     "icon_filename": "Fish60",
     "critterpedia_filename": "FishManbou",
     "furniture_filename": "FtrFishManbou",
+    "internal_id": 2278,
     "colors": [
       "Blue",
       "Orange"
@@ -8909,6 +8957,7 @@
     "icon_filename": "Fish51",
     "critterpedia_filename": "FishHirame",
     "furniture_filename": "FtrFishHirame",
+    "internal_id": 2269,
     "colors": [
       "Beige",
       "Black"
@@ -9211,6 +9260,7 @@
     "icon_filename": "Fish1",
     "critterpedia_filename": "FishOikawa",
     "furniture_filename": "FtrFishOikawa",
+    "internal_id": 2216,
     "colors": [
       "Blue",
       "Blue"
@@ -9513,6 +9563,7 @@
     "icon_filename": "Fish20",
     "critterpedia_filename": "FishPaiku",
     "furniture_filename": "FtrFishPaiku",
+    "internal_id": 2235,
     "colors": [
       "Green",
       "Black"
@@ -9628,6 +9679,7 @@
     "icon_filename": "Fish32",
     "critterpedia_filename": "FishPirania",
     "furniture_filename": "FtrFishPirania",
+    "internal_id": 2249,
     "colors": [
       "Green",
       "Black"
@@ -9771,6 +9823,7 @@
     "icon_filename": "Fish21",
     "critterpedia_filename": "FishWakasagi",
     "furniture_filename": "FtrFishWakasagi",
+    "internal_id": 2236,
     "colors": [
       "Orange",
       "Blue"
@@ -9875,9 +9928,10 @@
     "icon_filename": "Fish8",
     "critterpedia_filename": "FishDemekin",
     "furniture_filename": "FtrFishDemekin",
+    "internal_id": 2221,
     "colors": [
       "Black",
-      "Light blue"
+      "Aqua"
     ],
     "special_sell": 1950,
     "active_months": {
@@ -10177,6 +10231,7 @@
     "icon_filename": "Fish45",
     "critterpedia_filename": "FishHarisenbon",
     "furniture_filename": "FtrFishHarisenbon",
+    "internal_id": 2263,
     "colors": [
       "Beige",
       "Black"
@@ -10270,6 +10325,7 @@
     "icon_filename": "Fish80",
     "critterpedia_filename": "FishRainbowfish",
     "furniture_filename": "FtrFishRainbowfish",
+    "internal_id": 4194,
     "colors": [
       "Orange",
       "Black"
@@ -10429,6 +10485,7 @@
     "icon_filename": "Fish85",
     "critterpedia_filename": "FishRanchu",
     "furniture_filename": "FtrFishRanchu",
+    "internal_id": 5254,
     "colors": [
       "Red",
       "Black"
@@ -10731,6 +10788,7 @@
     "icon_filename": "Fish59",
     "critterpedia_filename": "FishEi",
     "furniture_filename": "FtrFishEi",
+    "internal_id": 2277,
     "colors": [
       "Brown",
       "Black"
@@ -10846,6 +10904,7 @@
     "icon_filename": "Fish49",
     "critterpedia_filename": "FishTai",
     "furniture_filename": "FtrFishTai",
+    "internal_id": 2267,
     "colors": [
       "Red",
       "Black"
@@ -11148,6 +11207,7 @@
     "icon_filename": "Fish71",
     "critterpedia_filename": "FishHanahigeutubo",
     "furniture_filename": "FtrFishHanahige",
+    "internal_id": 2272,
     "colors": [
       "Blue",
       "Black"
@@ -11285,6 +11345,7 @@
     "icon_filename": "Fish68",
     "critterpedia_filename": "FishEndorikerii",
     "furniture_filename": "FtrFishEndlicheri",
+    "internal_id": 2254,
     "colors": [
       "Brown",
       "Black"
@@ -11400,6 +11461,7 @@
     "icon_filename": "Fish27",
     "critterpedia_filename": "FishSake",
     "furniture_filename": "FtrFishSake",
+    "internal_id": 2242,
     "colors": [
       "Brown",
       "Black"
@@ -11448,6 +11510,7 @@
     "icon_filename": "Fish74",
     "critterpedia_filename": "FishNokogirizame",
     "furniture_filename": "FtrFishNokogiri",
+    "internal_id": 2281,
     "colors": [
       "Brown",
       "Black"
@@ -11563,6 +11626,7 @@
     "icon_filename": "Fish48",
     "critterpedia_filename": "FishSuzuki",
     "furniture_filename": "FtrFishSuzuki",
+    "internal_id": 2266,
     "colors": [
       "Gray",
       "Black"
@@ -11865,6 +11929,7 @@
     "icon_filename": "Fish37",
     "critterpedia_filename": "FishKurione",
     "furniture_filename": "FtrFishKurione",
+    "internal_id": 2255,
     "colors": [
       "White",
       "Black"
@@ -12002,6 +12067,7 @@
     "icon_filename": "Fish39",
     "critterpedia_filename": "FishTatsunootoshigo",
     "furniture_filename": "FtrFishTatsunootoshigo",
+    "internal_id": 2256,
     "colors": [
       "Orange",
       "Black"
@@ -12205,6 +12271,7 @@
     "icon_filename": "Fish78",
     "critterpedia_filename": "FishKamitsukigame",
     "furniture_filename": "FtrFishKamitukigame",
+    "internal_id": 4192,
     "colors": [
       "Brown",
       "Black"
@@ -12386,6 +12453,7 @@
     "icon_filename": "Fish65",
     "critterpedia_filename": "FishSuppon",
     "furniture_filename": "FtrFishSuppon",
+    "internal_id": 2224,
     "colors": [
       "Green",
       "Black"
@@ -12457,6 +12525,7 @@
     "icon_filename": "Fish52",
     "critterpedia_filename": "FishIka",
     "furniture_filename": "FtrFishIka",
+    "internal_id": 2270,
     "colors": [
       "Beige",
       "Black"
@@ -12704,6 +12773,7 @@
     "icon_filename": "Fish26",
     "critterpedia_filename": "FishItou",
     "furniture_filename": "FtrFishItou",
+    "internal_id": 2241,
     "colors": [
       "Brown",
       "Black"
@@ -12841,6 +12911,7 @@
     "icon_filename": "Fish75",
     "critterpedia_filename": "FishTyouzame",
     "furniture_filename": "FtrFishTyouzame",
+    "internal_id": 4189,
     "colors": [
       "Black",
       "Black"
@@ -13033,6 +13104,7 @@
     "icon_filename": "Fish83",
     "critterpedia_filename": "FishKobanzame",
     "furniture_filename": "FtrFishKobanzame",
+    "internal_id": 4203,
     "colors": [
       "Black",
       "Black"
@@ -13148,6 +13220,7 @@
     "icon_filename": "Fish41",
     "critterpedia_filename": "FishNanyouhagi",
     "furniture_filename": "FtrFishNanyouhagi",
+    "internal_id": 2258,
     "colors": [
       "Blue",
       "Black"
@@ -13307,6 +13380,7 @@
     "icon_filename": "Fish22",
     "critterpedia_filename": "FishAyu",
     "furniture_filename": "FtrFishAyu",
+    "internal_id": 2237,
     "colors": [
       "Green",
       "Black"
@@ -13400,6 +13474,7 @@
     "icon_filename": "Fish64",
     "critterpedia_filename": "FishOtamajakusi",
     "furniture_filename": "FtrFishOtama",
+    "internal_id": 2225,
     "colors": [
       "Black",
       "Blue"
@@ -13559,6 +13634,7 @@
     "icon_filename": "Fish76",
     "critterpedia_filename": "FishThirapia",
     "furniture_filename": "FtrFishThirapia",
+    "internal_id": 4190,
     "colors": [
       "Black",
       "Black"
@@ -13696,6 +13772,7 @@
     "icon_filename": "Fish57",
     "critterpedia_filename": "FishMaguro",
     "furniture_filename": "FtrFishMaguro",
+    "internal_id": 2274,
     "colors": [
       "Blue",
       "Black"
@@ -13877,6 +13954,7 @@
     "icon_filename": "Fish72",
     "critterpedia_filename": "FishJinbeezame",
     "furniture_filename": "FtrFishJinbee",
+    "internal_id": 2282,
     "colors": [
       "Black",
       "Blue"
@@ -13992,6 +14070,7 @@
     "icon_filename": "Fish18",
     "critterpedia_filename": "FishYellowparch",
     "furniture_filename": "FtrFishYellowparch",
+    "internal_id": 2233,
     "colors": [
       "Yellow",
       "Black"
@@ -14173,6 +14252,7 @@
     "icon_filename": "Fish44",
     "critterpedia_filename": "FishMinokasago",
     "furniture_filename": "FtrFishMinokasago",
+    "internal_id": 2261,
     "colors": [
       "Red",
       "Black"
@@ -14373,6 +14453,7 @@
     "icon_filename": "Ins6",
     "critterpedia_filename": "InsectMiirotateha",
     "furniture_filename": "FtrInsectMiirotateha",
+    "internal_id": 620,
     "colors": [
       "Pink",
       "Green"
@@ -14529,6 +14610,7 @@
     "icon_filename": "Ins26",
     "critterpedia_filename": "InsectAri",
     "furniture_filename": "FtrInsectAri",
+    "internal_id": 588,
     "colors": [
       "Black",
       "White"
@@ -14828,6 +14910,7 @@
     "icon_filename": "Ins10",
     "critterpedia_filename": "InsectYonagunisan",
     "furniture_filename": "FtrInsectYonagunisan",
+    "internal_id": 652,
     "colors": [
       "Orange",
       "Yellow"
@@ -14984,6 +15067,7 @@
     "icon_filename": "Ins36",
     "critterpedia_filename": "InsectMinomushi",
     "furniture_filename": "FtrInsectMinomushi",
+    "internal_id": 622,
     "colors": [
       "Brown",
       "Blue"
@@ -15283,6 +15367,7 @@
     "icon_filename": "Ins24",
     "critterpedia_filename": "InsectOniyanma",
     "furniture_filename": "FtrInsectOniyanma",
+    "internal_id": 635,
     "colors": [
       "Black",
       "Yellow"
@@ -15439,6 +15524,7 @@
     "icon_filename": "Ins31",
     "critterpedia_filename": "InsectSuzumushi",
     "furniture_filename": "FtrInsectSuzumushi",
+    "internal_id": 642,
     "colors": [
       "Black",
       "Beige"
@@ -15507,6 +15593,7 @@
     "icon_filename": "Ins80",
     "critterpedia_filename": "InsectHousekizoumushi",
     "furniture_filename": "FtrInsectHousekizoumushi",
+    "internal_id": 3485,
     "colors": [
       "Green",
       "Pink"
@@ -15586,6 +15673,7 @@
     "icon_filename": "Ins17",
     "critterpedia_filename": "InsectAburazemi",
     "furniture_filename": "FtrInsectAburazemi",
+    "internal_id": 582,
     "colors": [
       "Brown",
       "Green"
@@ -15665,6 +15753,7 @@
     "icon_filename": "Ins60",
     "critterpedia_filename": "InsectMukade",
     "furniture_filename": "FtrInsectMukade",
+    "internal_id": 628,
     "colors": [
       "Black",
       "Orange"
@@ -15920,6 +16009,7 @@
     "icon_filename": "Ins69",
     "critterpedia_filename": "InsectSeminonukegara",
     "furniture_filename": "FtrInsectSeminonukegara",
+    "internal_id": 641,
     "colors": [
       "Brown",
       "Green"
@@ -15999,6 +16089,7 @@
     "icon_filename": "Ins39",
     "critterpedia_filename": "InsectGomadarakamikiri",
     "furniture_filename": "FtrInsectGomadarakamikiri",
+    "internal_id": 609,
     "colors": [
       "Black",
       "Green"
@@ -16298,6 +16389,7 @@
     "icon_filename": "Ins72",
     "critterpedia_filename": "InsectAosujiageha",
     "furniture_filename": "FtrInsectAosujiageha",
+    "internal_id": 3477,
     "colors": [
       "Black",
       "Green"
@@ -16443,6 +16535,7 @@
     "icon_filename": "Ins0",
     "critterpedia_filename": "InsectMonshirocho",
     "furniture_filename": "FtrInsectMonshirocho",
+    "internal_id": 626,
     "colors": [
       "White",
       "Green"
@@ -16698,6 +16791,7 @@
     "icon_filename": "Ins30",
     "critterpedia_filename": "InsectKohrogi",
     "furniture_filename": "FtrInsectKohrogi",
+    "internal_id": 617,
     "colors": [
       "Brown",
       "Beige"
@@ -16788,6 +16882,7 @@
     "icon_filename": "Ins49",
     "critterpedia_filename": "InsectHosoakakuwagata",
     "furniture_filename": "FtrInsectHosoakakuwagata",
+    "internal_id": 602,
     "colors": [
       "Black",
       "Black"
@@ -16867,6 +16962,7 @@
     "icon_filename": "Ins81",
     "critterpedia_filename": "InsectItotonbo",
     "furniture_filename": "FtrInsectItotonbo",
+    "internal_id": 5339,
     "colors": [
       "Green",
       "Blue"
@@ -16990,6 +17086,7 @@
     "icon_filename": "Ins23",
     "critterpedia_filename": "InsectGinyanma",
     "furniture_filename": "FtrInsectGinyanma",
+    "internal_id": 595,
     "colors": [
       "Green",
       "Green"
@@ -17168,6 +17265,7 @@
     "icon_filename": "Ins28",
     "critterpedia_filename": "InsectGengorou",
     "furniture_filename": "FtrInsectGengorou",
+    "internal_id": 594,
     "colors": [
       "Black",
       "Blue"
@@ -17302,6 +17400,7 @@
     "icon_filename": "Ins75",
     "critterpedia_filename": "InsectKanabun",
     "furniture_filename": "FtrInsectKanabun",
+    "internal_id": 3480,
     "colors": [
       "Green",
       "Blue"
@@ -17403,6 +17502,7 @@
     "icon_filename": "Ins40",
     "critterpedia_filename": "InsectFunkorogashi",
     "furniture_filename": "FtrInsectFunkorogashi",
+    "internal_id": 604,
     "colors": [
       "Black",
       "Beige"
@@ -17504,6 +17604,7 @@
     "icon_filename": "Ins42",
     "critterpedia_filename": "InsectOhsenchikogane",
     "furniture_filename": "FtrInsectSenchikogane",
+    "internal_id": 614,
     "colors": [
       "Purple",
       "Orange"
@@ -17594,6 +17695,7 @@
     "icon_filename": "Ins5",
     "critterpedia_filename": "InsectMorufuocho",
     "furniture_filename": "FtrInsectMorufuocho",
+    "internal_id": 627,
     "colors": [
       "Blue",
       "Orange"
@@ -17805,6 +17907,7 @@
     "icon_filename": "Ins20",
     "critterpedia_filename": "InsectHigurashi",
     "furniture_filename": "FtrInsectHigurashi",
+    "internal_id": 601,
     "colors": [
       "Black",
       "Orange"
@@ -17900,6 +18003,7 @@
     "icon_filename": "Ins41",
     "critterpedia_filename": "InsectHotaru",
     "furniture_filename": "FtrInsectHotaru",
+    "internal_id": 603,
     "colors": [
       "Black",
       "Blue"
@@ -17957,6 +18061,7 @@
     "icon_filename": "Ins56",
     "critterpedia_filename": "InsectNomi",
     "furniture_filename": "FtrInsectNomi",
+    "internal_id": 633,
     "colors": [
       "Brown",
       "White"
@@ -18157,6 +18262,7 @@
     "icon_filename": "Ins59",
     "critterpedia_filename": "InsectHae",
     "furniture_filename": "FtrInsectHae",
+    "internal_id": 597,
     "colors": [
       "Black",
       "White"
@@ -18456,6 +18562,7 @@
     "icon_filename": "Ins65",
     "critterpedia_filename": "InsectKumazemi",
     "furniture_filename": "FtrInsectKumazemi",
+    "internal_id": 618,
     "colors": [
       "Black",
       "Yellow"
@@ -18535,6 +18642,7 @@
     "icon_filename": "Ins47",
     "critterpedia_filename": "InsectOhkuwagata",
     "furniture_filename": "FtrInsectOhkuwagata",
+    "internal_id": 637,
     "colors": [
       "Black",
       "Black"
@@ -18614,6 +18722,7 @@
     "icon_filename": "Ins76",
     "critterpedia_filename": "InsectTagame",
     "furniture_filename": "FtrInsectTagame",
+    "internal_id": 5157,
     "colors": [
       "Brown",
       "Blue"
@@ -18770,6 +18879,7 @@
     "icon_filename": "Ins77",
     "critterpedia_filename": "InsectGirafanokogirikuwagata",
     "furniture_filename": "FtrInsectGirafanokogirikuwagata",
+    "internal_id": 3482,
     "colors": [
       "Black",
       "Black"
@@ -18849,6 +18959,7 @@
     "icon_filename": "Ins50",
     "critterpedia_filename": "InsectOugononikuwagata",
     "furniture_filename": "FtrInsectOugononikuwagata",
+    "internal_id": 638,
     "colors": [
       "Black",
       "Yellow"
@@ -18928,6 +19039,7 @@
     "icon_filename": "Ins55",
     "critterpedia_filename": "InsectGoraiasuohtsunohanamuguri",
     "furniture_filename": "FtrInsectGoraiasuohtsunohanamuguri",
+    "internal_id": 596,
     "colors": [
       "Red",
       "Black"
@@ -19040,6 +19152,7 @@
     "icon_filename": "Ins32",
     "critterpedia_filename": "InsectKirigirisu",
     "furniture_filename": "FtrInsectKirigirisu",
+    "internal_id": 613,
     "colors": [
       "Green",
       "Beige"
@@ -19130,6 +19243,7 @@
     "icon_filename": "Ins74",
     "critterpedia_filename": "InsectOhmurasaki",
     "furniture_filename": "FtrInsectOhmurasaki",
+    "internal_id": 3479,
     "colors": [
       "Purple",
       "Orange"
@@ -19253,6 +19367,7 @@
     "icon_filename": "Ins66",
     "critterpedia_filename": "InsectYadokari",
     "furniture_filename": "FtrInsectYadokari",
+    "internal_id": 651,
     "colors": [
       "Beige",
       "Pink"
@@ -19552,6 +19667,7 @@
     "icon_filename": "Ins11",
     "critterpedia_filename": "InsectMitsubachi",
     "furniture_filename": "FtrInsectMitsubachi",
+    "internal_id": 623,
     "colors": [
       "Yellow",
       "Blue"
@@ -19708,6 +19824,7 @@
     "icon_filename": "Ins52",
     "critterpedia_filename": "InsectKohkasasuohkabuto",
     "furniture_filename": "FtrInsectKohkasasuohkabuto",
+    "internal_id": 615,
     "colors": [
       "Black",
       "Black"
@@ -19787,6 +19904,7 @@
     "icon_filename": "Ins51",
     "critterpedia_filename": "InsectKabutomushi",
     "furniture_filename": "FtrInsectKabutomushi",
+    "internal_id": 612,
     "colors": [
       "Brown",
       "Black"
@@ -19866,6 +19984,7 @@
     "icon_filename": "Ins53",
     "critterpedia_filename": "InsectZoukabuto",
     "furniture_filename": "FtrInsectZoukabuto",
+    "internal_id": 653,
     "colors": [
       "Beige",
       "Black"
@@ -19945,6 +20064,7 @@
     "icon_filename": "Ins54",
     "critterpedia_filename": "InsectHerakuresuohkabuto",
     "furniture_filename": "FtrInsectHerakuresuohkabuto",
+    "internal_id": 600,
     "colors": [
       "Yellow",
       "Black"
@@ -20024,6 +20144,7 @@
     "icon_filename": "Ins44",
     "critterpedia_filename": "InsectTamamushi",
     "furniture_filename": "FtrInsectTamamushi",
+    "internal_id": 645,
     "colors": [
       "Green",
       "Black"
@@ -20169,6 +20290,7 @@
     "icon_filename": "Ins37",
     "critterpedia_filename": "InsectTentoumushi",
     "furniture_filename": "FtrInsectTentoumushi",
+    "internal_id": 647,
     "colors": [
       "Red",
       "Green"
@@ -20325,6 +20447,7 @@
     "icon_filename": "Ins13",
     "critterpedia_filename": "InsectShoryobatta",
     "furniture_filename": "FtrInsectShoryobatta",
+    "internal_id": 644,
     "colors": [
       "Green",
       "Blue"
@@ -20525,6 +20648,7 @@
     "icon_filename": "Ins79",
     "critterpedia_filename": "InsectNishikiohtsubamega",
     "furniture_filename": "FtrInsectNishikiohtsubamega",
+    "internal_id": 3484,
     "colors": [
       "Green",
       "Pink"
@@ -20681,6 +20805,7 @@
     "icon_filename": "Ins78",
     "critterpedia_filename": "InsectJinmenkamemushi",
     "furniture_filename": "FtrInsectJinmenkamemushi",
+    "internal_id": 3483,
     "colors": [
       "Black",
       "Orange"
@@ -20892,6 +21017,7 @@
     "icon_filename": "Ins15",
     "critterpedia_filename": "InsectKamakiri",
     "furniture_filename": "FtrInsectKamakiri",
+    "internal_id": 607,
     "colors": [
       "Green",
       "Green"
@@ -21125,6 +21251,7 @@
     "icon_filename": "Ins14",
     "critterpedia_filename": "InsectTonosamabatta",
     "furniture_filename": "FtrInsectTonosamabatta",
+    "internal_id": 648,
     "colors": [
       "Green",
       "Orange"
@@ -21237,6 +21364,7 @@
     "icon_filename": "Ins45",
     "critterpedia_filename": "InsectMiyamakuwagata",
     "furniture_filename": "FtrInsectMiyamakuwagata",
+    "internal_id": 624,
     "colors": [
       "Black",
       "Black"
@@ -21316,6 +21444,7 @@
     "icon_filename": "Ins33",
     "critterpedia_filename": "InsectOkera",
     "furniture_filename": "FtrInsectOkera",
+    "internal_id": 634,
     "colors": [
       "Brown",
       "Yellow"
@@ -21516,6 +21645,7 @@
     "icon_filename": "Ins4",
     "critterpedia_filename": "InsectOhkabamadara",
     "furniture_filename": "FtrInsectOhkabamadara",
+    "internal_id": 636,
     "colors": [
       "Orange",
       "Blue"
@@ -21606,6 +21736,7 @@
     "icon_filename": "Ins58",
     "critterpedia_filename": "InsectKa",
     "furniture_filename": "FtrInsectKa",
+    "internal_id": 606,
     "colors": [
       "Black",
       "White"
@@ -21718,6 +21849,7 @@
     "icon_filename": "Ins9",
     "critterpedia_filename": "InsectGa",
     "furniture_filename": "FtrInsectGa",
+    "internal_id": 592,
     "colors": [
       "Beige",
       "Yellow"
@@ -22017,6 +22149,7 @@
     "icon_filename": "Ins16",
     "critterpedia_filename": "InsectHanakamakiri",
     "furniture_filename": "FtrInsectHanakamakiri",
+    "internal_id": 598,
     "colors": [
       "White",
       "Pink"
@@ -22250,6 +22383,7 @@
     "icon_filename": "Ins73",
     "critterpedia_filename": "InsectOhgomamadara",
     "furniture_filename": "FtrInsectOhgomamadara",
+    "internal_id": 3478,
     "colors": [
       "White",
       "Yellow"
@@ -22549,6 +22683,7 @@
     "icon_filename": "Ins3",
     "critterpedia_filename": "InsectKarasuageha",
     "furniture_filename": "FtrInsectKarasuageha",
+    "internal_id": 610,
     "colors": [
       "Green",
       "Blue"
@@ -22683,6 +22818,7 @@
     "icon_filename": "Ins57",
     "critterpedia_filename": "InsectDangomushi",
     "furniture_filename": "FtrInsectDangomushi",
+    "internal_id": 590,
     "colors": [
       "Black",
       "Blue"
@@ -22938,6 +23074,7 @@
     "icon_filename": "Ins27",
     "critterpedia_filename": "InsectAmenbo",
     "furniture_filename": "FtrInsectAmenbo",
+    "internal_id": 587,
     "colors": [
       "Black",
       "Blue"
@@ -23072,6 +23209,7 @@
     "icon_filename": "Ins8",
     "critterpedia_filename": "InsectArekisandoratoribaneageha",
     "furniture_filename": "FtrInsectArekisandoratoribaneageha",
+    "internal_id": 586,
     "colors": [
       "Green",
       "Pink"
@@ -23206,6 +23344,7 @@
     "icon_filename": "Ins48",
     "critterpedia_filename": "InsectNijiirokuwagata",
     "furniture_filename": "FtrInsectNijiirokuwagata",
+    "internal_id": 631,
     "colors": [
       "Brown",
       "Black"
@@ -23318,6 +23457,7 @@
     "icon_filename": "Ins7",
     "critterpedia_filename": "InsectAkaeritoribaneageha",
     "furniture_filename": "FtrInsectAkaeritoribaneageha",
+    "internal_id": 584,
     "colors": [
       "Green",
       "Pink"
@@ -23540,6 +23680,7 @@
     "icon_filename": "Ins22",
     "critterpedia_filename": "InsectAkiakane",
     "furniture_filename": "FtrInsectAkiakane",
+    "internal_id": 585,
     "colors": [
       "Red",
       "Orange"
@@ -23608,6 +23749,7 @@
     "icon_filename": "Ins67",
     "critterpedia_filename": "InsectInago",
     "furniture_filename": "FtrInsectInago",
+    "internal_id": 605,
     "colors": [
       "Green",
       "Yellow"
@@ -23720,6 +23862,7 @@
     "icon_filename": "Ins18",
     "critterpedia_filename": "InsectMinminzemi",
     "furniture_filename": "FtrInsectMinminzemi",
+    "internal_id": 621,
     "colors": [
       "Black",
       "Blue"
@@ -23799,6 +23942,7 @@
     "icon_filename": "Ins82",
     "critterpedia_filename": "InsectRuriboshikamikiri",
     "furniture_filename": "FtrInsectRuriboshikamikiri",
+    "internal_id": 3487,
     "colors": [
       "Blue",
       "Black"
@@ -23933,6 +24077,7 @@
     "icon_filename": "Ins46",
     "critterpedia_filename": "InsectNokogirikuwagata",
     "furniture_filename": "FtrInsectNokogirikuwagata",
+    "internal_id": 632,
     "colors": [
       "Brown",
       "Black"
@@ -24012,6 +24157,7 @@
     "icon_filename": "Ins43",
     "critterpedia_filename": "InsectPurachinakogane",
     "furniture_filename": "FtrInsectPurachinakogane",
+    "internal_id": 639,
     "colors": [
       "Black",
       "Beige"
@@ -24091,6 +24237,7 @@
     "icon_filename": "Ins63",
     "critterpedia_filename": "InsectSasori",
     "furniture_filename": "FtrInsectSasori",
+    "internal_id": 640,
     "colors": [
       "Black",
       "Black"
@@ -24247,6 +24394,7 @@
     "icon_filename": "Ins29",
     "critterpedia_filename": "InsectKatatsumuri",
     "furniture_filename": "FtrInsectKatatsumuri",
+    "internal_id": 611,
     "colors": [
       "Beige",
       "Green"
@@ -24546,6 +24694,7 @@
     "icon_filename": "Ins61",
     "critterpedia_filename": "InsectKumo",
     "furniture_filename": "FtrInsectKumo",
+    "internal_id": 619,
     "colors": [
       "Yellow",
       "Orange"
@@ -24845,6 +24994,7 @@
     "icon_filename": "Ins64",
     "critterpedia_filename": "InsectKamemushi",
     "furniture_filename": "FtrInsectKamemushi",
+    "internal_id": 608,
     "colors": [
       "Green",
       "Yellow"
@@ -25056,6 +25206,7 @@
     "icon_filename": "Ins62",
     "critterpedia_filename": "InsectTaranchura",
     "furniture_filename": "FtrInsectTaranchura",
+    "internal_id": 646,
     "colors": [
       "Brown",
       "Black"
@@ -25234,6 +25385,7 @@
     "icon_filename": "Ins70",
     "critterpedia_filename": "InsectHanmyou",
     "furniture_filename": "FtrInsectHanmyou",
+    "internal_id": 599,
     "colors": [
       "Green",
       "Yellow"
@@ -25467,6 +25619,7 @@
     "icon_filename": "Ins2",
     "critterpedia_filename": "InsectAgehacho",
     "furniture_filename": "FtrInsectAgehacho",
+    "internal_id": 583,
     "colors": [
       "Yellow",
       "Green"
@@ -25656,6 +25809,7 @@
     "icon_filename": "Ins38",
     "critterpedia_filename": "InsectBaiorinmushi",
     "furniture_filename": "FtrInsectBaiorinmushi",
+    "internal_id": 650,
     "colors": [
       "Brown",
       "Black"
@@ -25790,6 +25944,7 @@
     "icon_filename": "Ins19",
     "critterpedia_filename": "InsectTsukutsukuhousi",
     "furniture_filename": "FtrInsectTsukutsukuhousi",
+    "internal_id": 649,
     "colors": [
       "Black",
       "Pink"
@@ -25858,6 +26013,7 @@
     "icon_filename": "Ins34",
     "critterpedia_filename": "InsectKonohamushi",
     "furniture_filename": "FtrInsectKonohamushi",
+    "internal_id": 616,
     "colors": [
       "Green",
       "Green"
@@ -25948,6 +26104,7 @@
     "icon_filename": "Ins35",
     "critterpedia_filename": "InsectNanafushi",
     "furniture_filename": "FtrInsectNanafushi",
+    "internal_id": 630,
     "colors": [
       "Brown",
       "Yellow"
@@ -26118,6 +26275,7 @@
     "icon_filename": "Ins12",
     "critterpedia_filename": "InsectHachi",
     "furniture_filename": "FtrInsectHachi",
+    "internal_id": 643,
     "colors": [
       "Yellow",
       "Orange"
@@ -26417,6 +26575,7 @@
     "icon_filename": "Ins71",
     "critterpedia_filename": "InsectFunamushi",
     "furniture_filename": "FtrInsectFunamushi",
+    "internal_id": 591,
     "colors": [
       "Beige",
       "Blue"
@@ -26716,6 +26875,7 @@
     "icon_filename": "Ins1",
     "critterpedia_filename": "InsectMonkicho",
     "furniture_filename": "FtrInsectMonkicho",
+    "internal_id": 625,
     "colors": [
       "Yellow",
       "Blue"
@@ -26884,6 +27044,7 @@
     "icon_filename": "Awabi",
     "critterpedia_filename": "DiveFishAwabi",
     "furniture_filename": "FtrDiveFishAwabi",
+    "internal_id": 2835,
     "colors": [],
     "special_sell": 3000,
     "active_months": {
@@ -27082,6 +27243,7 @@
     "icon_filename": "Fujitsubo",
     "critterpedia_filename": "DiveFishFujitsubo",
     "furniture_filename": "FtrDiveFishFujitsubo",
+    "internal_id": 2832,
     "colors": [],
     "special_sell": 900,
     "active_months": {
@@ -27379,6 +27541,7 @@
     "icon_filename": "Oumugai",
     "critterpedia_filename": "DiveFishOumugai",
     "furniture_filename": "FtrDiveFishOumugai",
+    "internal_id": 2856,
     "colors": [],
     "special_sell": 2700,
     "active_months": {
@@ -27566,6 +27729,7 @@
     "icon_filename": "DungenessCrab",
     "critterpedia_filename": "DiveFishDungenessCrab",
     "furniture_filename": "FtrDiveFishDungenessCrab",
+    "internal_id": 7308,
     "colors": [],
     "special_sell": 2850,
     "active_months": {
@@ -27764,6 +27928,7 @@
     "icon_filename": "Hotaruika",
     "critterpedia_filename": "DiveFishHotaruika",
     "furniture_filename": "FtrDiveFishHotaruika",
+    "internal_id": 6920,
     "colors": [],
     "special_sell": 2100,
     "active_months": {
@@ -27896,6 +28061,7 @@
     "icon_filename": "Hiramushi",
     "critterpedia_filename": "DiveFishHiramushi",
     "furniture_filename": "FtrDiveFishHiramushi",
+    "internal_id": 2844,
     "colors": [],
     "special_sell": 1050,
     "active_months": {
@@ -27962,6 +28128,7 @@
     "icon_filename": "Gazami",
     "critterpedia_filename": "DiveFishGazami",
     "furniture_filename": "FtrDiveFishGazami",
+    "internal_id": 7191,
     "colors": [],
     "special_sell": 3300,
     "active_months": {
@@ -28116,6 +28283,7 @@
     "icon_filename": "Daiougusokumushi",
     "critterpedia_filename": "DiveFishDaiougusokumushi",
     "furniture_filename": "FtrDiveFishDaiougusokumushi",
+    "internal_id": 2858,
     "colors": [],
     "special_sell": 18000,
     "active_months": {
@@ -28254,6 +28422,7 @@
     "icon_filename": "Shakogai",
     "critterpedia_filename": "DiveFishShakogai",
     "furniture_filename": "FtrDiveFishShakogai",
+    "internal_id": 7214,
     "colors": [],
     "special_sell": 22500,
     "active_months": {
@@ -28386,6 +28555,7 @@
     "icon_filename": "Kabutogani",
     "critterpedia_filename": "DiveFishKabutogani",
     "furniture_filename": "FtrDiveFishKabutogani",
+    "internal_id": 2857,
     "colors": [],
     "special_sell": 3750,
     "active_months": {
@@ -28474,6 +28644,7 @@
     "icon_filename": "Fish54",
     "critterpedia_filename": "DiveFishLobster",
     "furniture_filename": "FtrDiveFishLobster",
+    "internal_id": 2849,
     "colors": [],
     "special_sell": 6750,
     "active_months": {
@@ -28617,6 +28788,7 @@
     "icon_filename": "Shako",
     "critterpedia_filename": "DiveFishSyako",
     "furniture_filename": "FtrDiveFishShako",
+    "internal_id": 2845,
     "colors": [],
     "special_sell": 3750,
     "active_months": {
@@ -28914,6 +29086,7 @@
     "icon_filename": "Mizukurage",
     "critterpedia_filename": "DiveFishMizukurage",
     "furniture_filename": "FtrDiveFishMizukurage",
+    "internal_id": 7245,
     "colors": [],
     "special_sell": 900,
     "active_months": {
@@ -29002,6 +29175,7 @@
     "icon_filename": "Muhrugai",
     "critterpedia_filename": "DiveFishMuhrugai",
     "furniture_filename": "FtrDiveFishMuhrugai",
+    "internal_id": 7411,
     "colors": [],
     "special_sell": 2250,
     "active_months": {
@@ -29178,6 +29352,7 @@
     "icon_filename": "Tako",
     "critterpedia_filename": "DiveFishTako",
     "furniture_filename": "FtrDiveFishTako",
+    "internal_id": 2854,
     "colors": [],
     "special_sell": 1800,
     "active_months": {
@@ -29475,6 +29650,7 @@
     "icon_filename": "Kaki",
     "critterpedia_filename": "DiveFishOyster",
     "furniture_filename": "FtrDiveFishKaki",
+    "internal_id": 2833,
     "colors": [],
     "special_sell": 1650,
     "active_months": {
@@ -29629,6 +29805,7 @@
     "icon_filename": "Akoyagai",
     "critterpedia_filename": "DiveFishAkoyagai",
     "furniture_filename": "FtrDiveFishAkoyagai",
+    "internal_id": 2838,
     "colors": [],
     "special_sell": 4200,
     "active_months": {
@@ -29926,6 +30103,7 @@
     "icon_filename": "Tarabagani",
     "critterpedia_filename": "DiveFishTarabagani",
     "furniture_filename": "FtrDiveFishTarabagani",
+    "internal_id": 2852,
     "colors": [],
     "special_sell": 12000,
     "active_months": {
@@ -30080,6 +30258,7 @@
     "icon_filename": "Hotate",
     "critterpedia_filename": "DiveFishHotate",
     "furniture_filename": "FtrDiveFishHotate",
+    "internal_id": 2839,
     "colors": [],
     "special_sell": 1800,
     "active_months": {
@@ -30377,6 +30556,7 @@
     "icon_filename": "Isogintyaku",
     "critterpedia_filename": "DiveFishIsogintyaku",
     "furniture_filename": "FtrDiveFishIsogintyaku",
+    "internal_id": 2840,
     "colors": [],
     "special_sell": 750,
     "active_months": {
@@ -30674,6 +30854,7 @@
     "icon_filename": "Namako",
     "critterpedia_filename": "DiveFishNamako",
     "furniture_filename": "FtrDiveFishNamako",
+    "internal_id": 2842,
     "colors": [],
     "special_sell": 750,
     "active_months": {
@@ -30850,6 +31031,7 @@
     "icon_filename": "Umibudou",
     "critterpedia_filename": "DiveFishUmibudou",
     "furniture_filename": "FtrDiveFishUmibudou",
+    "internal_id": 2830,
     "colors": [],
     "special_sell": 1350,
     "active_months": {
@@ -30960,6 +31142,7 @@
     "icon_filename": "Senjunamako",
     "critterpedia_filename": "DiveFishSenjunamako",
     "furniture_filename": "FtrDiveFishSenjunamako",
+    "internal_id": 7303,
     "colors": [],
     "special_sell": 15000,
     "active_months": {
@@ -31081,6 +31264,7 @@
     "icon_filename": "Hoya",
     "critterpedia_filename": "DiveFishHoya",
     "furniture_filename": "FtrDiveFishHoya",
+    "internal_id": 7228,
     "colors": [],
     "special_sell": 2250,
     "active_months": {
@@ -31224,6 +31408,7 @@
     "icon_filename": "Umiushi",
     "critterpedia_filename": "DiveFishUmiushi",
     "furniture_filename": "FtrDiveFishUmiushi",
+    "internal_id": 2843,
     "colors": [],
     "special_sell": 900,
     "active_months": {
@@ -31521,6 +31706,7 @@
     "icon_filename": "Hitode",
     "critterpedia_filename": "DiveFishHitode",
     "furniture_filename": "FtrDiveFishHitode",
+    "internal_id": 2841,
     "colors": [],
     "special_sell": 750,
     "active_months": {
@@ -31818,6 +32004,7 @@
     "icon_filename": "Uni",
     "critterpedia_filename": "DiveFishUni",
     "furniture_filename": "FtrDiveFishUni",
+    "internal_id": 2831,
     "colors": [],
     "special_sell": 2550,
     "active_months": {
@@ -31950,6 +32137,7 @@
     "icon_filename": "Wakame",
     "critterpedia_filename": "DiveFishWakame",
     "furniture_filename": "FtrDiveFishWakame",
+    "internal_id": 2620,
     "colors": [],
     "special_sell": 900,
     "active_months": {
@@ -32214,6 +32402,7 @@
     "icon_filename": "Paipuuni",
     "critterpedia_filename": "DiveFishPaipuuni",
     "furniture_filename": "FtrDiveFishPaipuuni",
+    "internal_id": 7267,
     "colors": [],
     "special_sell": 3000,
     "active_months": {
@@ -32346,6 +32535,7 @@
     "icon_filename": "Zuwaigani",
     "critterpedia_filename": "DiveFishZuwaigani",
     "furniture_filename": "FtrDiveFishZuwaigani",
+    "internal_id": 2850,
     "colors": [],
     "special_sell": 9000,
     "active_months": {
@@ -32522,6 +32712,7 @@
     "icon_filename": "Takaashigani",
     "critterpedia_filename": "DiveFishTakaashigani",
     "furniture_filename": "FtrDiveFishTakaashigani",
+    "internal_id": 2853,
     "colors": [],
     "special_sell": 18000,
     "active_months": {
@@ -32610,6 +32801,7 @@
     "icon_filename": "Iseebi",
     "critterpedia_filename": "DiveFishIseebi",
     "furniture_filename": "FtrDiveFishIseebi",
+    "internal_id": 2848,
     "colors": [],
     "special_sell": 7500,
     "active_months": {
@@ -32709,6 +32901,7 @@
     "icon_filename": "Chinanago",
     "critterpedia_filename": "DiveFishChinanago",
     "furniture_filename": "FtrDiveFishChinanago",
+    "internal_id": 2855,
     "colors": [],
     "special_sell": 1650,
     "active_months": {
@@ -32863,6 +33056,7 @@
     "icon_filename": "Amaebi",
     "critterpedia_filename": "DiveFishAmaebi",
     "furniture_filename": "FtrDiveFishAmaebi",
+    "internal_id": 2846,
     "colors": [],
     "special_sell": 2100,
     "active_months": {
@@ -33017,6 +33211,7 @@
     "icon_filename": "Kurumaebi",
     "critterpedia_filename": "DiveFishKurumaebi",
     "furniture_filename": "FtrDiveFishKurumaebi",
+    "internal_id": 2847,
     "colors": [],
     "special_sell": 4500,
     "active_months": {
@@ -33127,6 +33322,7 @@
     "icon_filename": "Sazae",
     "critterpedia_filename": "DiveFishSazae",
     "furniture_filename": "FtrDiveFishSazae",
+    "internal_id": 2834,
     "colors": [],
     "special_sell": 1500,
     "active_months": {
@@ -33314,6 +33510,7 @@
     "icon_filename": "Mendako",
     "critterpedia_filename": "DiveFishMendako",
     "furniture_filename": "FtrDiveFishMendako",
+    "internal_id": 7252,
     "colors": [],
     "special_sell": 9000,
     "active_months": {
@@ -33479,6 +33676,7 @@
     "icon_filename": "Koumoridako",
     "critterpedia_filename": "DiveFishKoumoridako",
     "furniture_filename": "FtrDiveFishKoumoridako",
+    "internal_id": 7203,
     "colors": [],
     "special_sell": 15000,
     "active_months": {
@@ -33600,6 +33798,7 @@
     "icon_filename": "Kairoudouketsu",
     "critterpedia_filename": "DiveFishKairoudouketsu",
     "furniture_filename": "FtrDiveFishKairoudouketsu",
+    "internal_id": 7318,
     "colors": [],
     "special_sell": 7500,
     "active_months": {
@@ -33743,6 +33942,7 @@
     "icon_filename": "Baigai",
     "critterpedia_filename": "DiveFishBaigai",
     "furniture_filename": "FtrDiveFishBaigai",
+    "internal_id": 7278,
     "colors": [],
     "special_sell": 1500,
     "active_months": {

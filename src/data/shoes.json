@@ -7,15 +7,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 776,
+    "internal_id": 11689,
     "variants": [
       {
         "variation": "Black",
@@ -70,14 +73,17 @@
     "diy": true,
     "hha_base_points": 103,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 763,
+    "internal_id": 5472,
     "variants": [
       {
         "variation": null,
@@ -104,14 +110,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 925,
+    "internal_id": 10112,
     "variants": [
       {
         "variation": "Gray",
@@ -201,7 +210,7 @@
         "variation": "Blue",
         "filename": "ShoesSandalBaboush0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -236,14 +245,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 791,
+    "internal_id": 10158,
     "variants": [
       {
         "variation": "Black",
@@ -305,8 +317,8 @@
         "variation": "Mint",
         "filename": "ShoesLowcutBallet1",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Kicks"
@@ -368,15 +380,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 800,
+    "internal_id": 5638,
     "variants": [
       {
         "variation": "Red",
@@ -438,7 +453,7 @@
         "variation": "Light blue",
         "filename": "ShoesHighcutBasket6",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "source": [
@@ -501,15 +516,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Gorgeous",
+    "style_1": "Gorgeous",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 769,
+    "internal_id": 10139,
     "variants": [
       {
         "variation": "Red",
@@ -606,15 +624,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 772,
+    "internal_id": 11685,
     "variants": [
       {
         "variation": "Black",
@@ -697,15 +718,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 526,
+    "internal_id": 4730,
     "variants": [
       {
         "variation": "Black",
@@ -746,14 +770,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 811,
+    "internal_id": 10248,
     "variants": [
       {
         "variation": "Black",
@@ -829,7 +856,7 @@
         "variation": "Light blue",
         "filename": "ShoesLowcutSpike1",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Gray"
         ],
         "source": [
@@ -878,15 +905,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 796,
+    "internal_id": 10700,
     "variants": [
       {
         "variation": "White",
@@ -1011,15 +1041,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 804,
+    "internal_id": 11254,
     "variants": [
       {
         "variation": "Ivory",
@@ -1067,7 +1100,7 @@
         "variation": "Blue",
         "filename": "ShoesKneeWestern4",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "source": [
@@ -1102,15 +1135,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "Summer",
     "mannequin_piece": true,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 523,
+    "internal_id": 10122,
     "variants": [
       {
         "variation": "Gray",
@@ -1207,15 +1243,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 878,
+    "internal_id": 10267,
     "variants": [
       {
         "variation": "Pink",
@@ -1263,7 +1302,7 @@
         "variation": "Light blue",
         "filename": "ShoesHighcutCute0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "source": [
@@ -1312,15 +1351,18 @@
     "diy": false,
     "hha_base_points": 251,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Received in mail from DAL after 30 flights",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1184,
+    "internal_id": 12130,
     "variants": [
       {
         "variation": null,
@@ -1347,14 +1389,17 @@
     "diy": true,
     "hha_base_points": 351,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1211,
+    "internal_id": 12455,
     "variants": [
       {
         "variation": null,
@@ -1381,14 +1426,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 1098,
+    "internal_id": 11987,
     "variants": [
       {
         "variation": "White",
@@ -1436,7 +1484,7 @@
         "variation": "Blue",
         "filename": "ShoesLowcutEmbroidery3",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Pink"
         ],
         "source": [
@@ -1457,15 +1505,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Winter",
     "mannequin_piece": true,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 767,
+    "internal_id": 11683,
     "variants": [
       {
         "variation": "Ruby red",
@@ -1534,15 +1585,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Winter",
     "mannequin_piece": true,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 520,
+    "internal_id": 11550,
     "variants": [
       {
         "variation": "Gray",
@@ -1625,15 +1679,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 1003,
+    "internal_id": 10080,
     "variants": [
       {
         "variation": "Berry red",
@@ -1695,7 +1752,7 @@
         "variation": "Light blue",
         "filename": "ShoesLowcutSuede5",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -1758,15 +1815,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 761,
+    "internal_id": 10735,
     "variants": [
       {
         "variation": "White",
@@ -1856,7 +1916,7 @@
         "variation": "Light blue",
         "filename": "ShoesSandalBeachborder5",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Orange"
         ],
         "source": [
@@ -1871,7 +1931,7 @@
         "filename": "ShoesSandalBeachborder0",
         "colors": [
           "Blue",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -1891,15 +1951,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "Summer",
     "mannequin_piece": true,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 766,
+    "internal_id": 10131,
     "variants": [
       {
         "variation": "White",
@@ -1976,7 +2039,7 @@
         "filename": "ShoesSandalFlower4",
         "colors": [
           "Blue",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -2010,14 +2073,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Gorgeous",
+    "style_1": "Gorgeous",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 924,
+    "internal_id": 11478,
     "variants": [
       {
         "variation": "White",
@@ -2072,15 +2138,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 797,
+    "internal_id": 11251,
     "variants": [
       {
         "variation": "Black",
@@ -2135,14 +2204,17 @@
     "diy": true,
     "hha_base_points": 103,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Gorgeous",
+    "style_1": "Gorgeous",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 777,
+    "internal_id": 5524,
     "variants": [
       {
         "variation": null,
@@ -2169,15 +2241,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 814,
+    "internal_id": 10252,
     "variants": [
       {
         "variation": "Pink",
@@ -2212,7 +2287,7 @@
         "filename": "ShoesHighcutHightech2",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -2225,7 +2300,7 @@
         "variation": "Light blue",
         "filename": "ShoesHighcutHightech3",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "source": [
@@ -2260,15 +2335,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 938,
+    "internal_id": 10045,
     "variants": [
       {
         "variation": "White",
@@ -2393,15 +2471,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 785,
+    "internal_id": 5564,
     "variants": [
       {
         "variation": "Gray",
@@ -2477,7 +2558,7 @@
         "variation": "Blue",
         "filename": "ShoesSandalRoomborder5",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -2526,14 +2607,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 801,
+    "internal_id": 11558,
     "variants": [
       {
         "variation": "Black",
@@ -2602,14 +2686,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 864,
+    "internal_id": 10264,
     "variants": [
       {
         "variation": "Silver",
@@ -2706,14 +2793,18 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
+    "source_notes": "May appear in Able Sisters on Sundays during August",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 236,
+    "internal_id": 10965,
     "variants": [
       {
         "variation": "Gray",
@@ -2723,7 +2814,8 @@
           "Beige"
         ],
         "source": [
-          "Kicks"
+          "Kicks",
+          "Able Sisters"
         ],
         "buy": 1600,
         "sell": 400,
@@ -2737,7 +2829,8 @@
           "Beige"
         ],
         "source": [
-          "Kicks"
+          "Kicks",
+          "Able Sisters"
         ],
         "buy": 1600,
         "sell": 400,
@@ -2751,7 +2844,8 @@
           "Beige"
         ],
         "source": [
-          "Kicks"
+          "Kicks",
+          "Able Sisters"
         ],
         "buy": 1600,
         "sell": 400,
@@ -2765,7 +2859,8 @@
           "Beige"
         ],
         "source": [
-          "Kicks"
+          "Kicks",
+          "Able Sisters"
         ],
         "buy": 1600,
         "sell": 400,
@@ -2779,7 +2874,8 @@
           "Beige"
         ],
         "source": [
-          "Kicks"
+          "Kicks",
+          "Able Sisters"
         ],
         "buy": 1600,
         "sell": 400,
@@ -2793,7 +2889,8 @@
           "Beige"
         ],
         "source": [
-          "Kicks"
+          "Kicks",
+          "Able Sisters"
         ],
         "buy": 1600,
         "sell": 400,
@@ -2807,7 +2904,8 @@
           "Beige"
         ],
         "source": [
-          "Kicks"
+          "Kicks",
+          "Able Sisters"
         ],
         "buy": 1600,
         "sell": 400,
@@ -2821,7 +2919,8 @@
           "Beige"
         ],
         "source": [
-          "Kicks"
+          "Kicks",
+          "Able Sisters"
         ],
         "buy": 1600,
         "sell": 400,
@@ -2838,14 +2937,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 1097,
+    "internal_id": 9846,
     "variants": [
       {
         "variation": null,
@@ -2872,14 +2974,18 @@
     "diy": false,
     "hha_base_points": 351,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
+    "source_notes": "Added to Able Sisters stock rotation the day after receiving this item from Label",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 1135,
+    "internal_id": 11766,
     "variants": [
       {
         "variation": "Midnight",
@@ -2889,7 +2995,7 @@
           "Gray"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3500,
         "sell": 875,
@@ -2903,7 +3009,7 @@
           "Gray"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3500,
         "sell": 875,
@@ -2917,7 +3023,7 @@
           "Gray"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3500,
         "sell": 875,
@@ -2931,7 +3037,7 @@
           "Gray"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3500,
         "sell": 875,
@@ -2945,7 +3051,7 @@
           "Gray"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3500,
         "sell": 875,
@@ -2959,7 +3065,7 @@
           "Gray"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3500,
         "sell": 875,
@@ -2976,14 +3082,18 @@
     "diy": false,
     "hha_base_points": 351,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
+    "source_notes": "Added to Able Sisters stock rotation the day after receiving this item from Label",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 1136,
+    "internal_id": 11771,
     "variants": [
       {
         "variation": "Midnight",
@@ -2993,7 +3103,7 @@
           "White"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3300,
         "sell": 825,
@@ -3007,7 +3117,7 @@
           "Black"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3300,
         "sell": 825,
@@ -3021,7 +3131,7 @@
           "Black"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3300,
         "sell": 825,
@@ -3035,7 +3145,7 @@
           "Black"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3300,
         "sell": 825,
@@ -3049,7 +3159,7 @@
           "Black"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3300,
         "sell": 825,
@@ -3063,7 +3173,7 @@
           "Black"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3300,
         "sell": 825,
@@ -3080,15 +3190,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 820,
+    "internal_id": 11257,
     "variants": [
       {
         "variation": "White",
@@ -3157,14 +3270,17 @@
     "diy": true,
     "hha_base_points": 351,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1213,
+    "internal_id": 12457,
     "variants": [
       {
         "variation": null,
@@ -3191,15 +3307,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 768,
+    "internal_id": 10132,
     "variants": [
       {
         "variation": "Gray",
@@ -3296,15 +3415,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 522,
+    "internal_id": 11450,
     "variants": [
       {
         "variation": "White",
@@ -3415,14 +3537,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 947,
+    "internal_id": 11562,
     "variants": [
       {
         "variation": "White",
@@ -3471,7 +3596,7 @@
         "filename": "ShoesKneeWitch1",
         "colors": [
           "Blue",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Kicks"
@@ -3491,15 +3616,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 762,
+    "internal_id": 10163,
     "variants": [
       {
         "variation": "White",
@@ -3589,8 +3717,8 @@
         "variation": "Light blue",
         "filename": "ShoesLowcutStrap3",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -3624,14 +3752,17 @@
     "diy": false,
     "hha_base_points": 251,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1223,
+    "internal_id": 12660,
     "variants": [
       {
         "variation": "Pink",
@@ -3651,7 +3782,7 @@
         "variation": "Light blue",
         "filename": "ShoesLowcutMermaid1",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -3672,15 +3803,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "Winter",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 780,
+    "internal_id": 11459,
     "variants": [
       {
         "variation": "Black",
@@ -3742,7 +3876,7 @@
         "variation": "Blue",
         "filename": "ShoesHighcutMoccasin5",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Beige"
         ],
         "source": [
@@ -3791,15 +3925,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 881,
+    "internal_id": 11467,
     "variants": [
       {
         "variation": "White",
@@ -3889,7 +4026,7 @@
         "variation": "Light blue",
         "filename": "ShoesLowcutMoccasin2",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "source": [
@@ -3910,14 +4047,17 @@
     "diy": false,
     "hha_base_points": 151,
     "size": "1x1",
-    "miles_price": 400,
+    "exchange_price": 400,
+    "exchange_currency": "Nook Miles",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1145,
+    "internal_id": 5630,
     "variants": [
       {
         "variation": null,
@@ -3927,7 +4067,7 @@
           "Green"
         ],
         "source": [
-          "Nook Miles Shop"
+          "Nook Miles Redemption"
         ],
         "buy": -1,
         "sell": 2000,
@@ -3944,15 +4084,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 802,
+    "internal_id": 10712,
     "variants": [
       {
         "variation": "White",
@@ -4077,14 +4220,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 760,
+    "internal_id": 10977,
     "variants": [
       {
         "variation": "White",
@@ -4132,8 +4278,8 @@
         "variation": "Blue",
         "filename": "ShoesLowcutAnimal3",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Kicks"
@@ -4167,14 +4313,17 @@
     "diy": false,
     "hha_base_points": 451,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1228,
+    "internal_id": 12665,
     "variants": [
       {
         "variation": null,
@@ -4201,15 +4350,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 765,
+    "internal_id": 11679,
     "variants": [
       {
         "variation": "Black",
@@ -4278,15 +4430,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 517,
+    "internal_id": 4716,
     "variants": [
       {
         "variation": "White",
@@ -4376,7 +4531,7 @@
         "variation": "Light blue",
         "filename": "ShoesLowcutLeathersneker6",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -4411,15 +4566,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "Winter",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 782,
+    "internal_id": 11694,
     "variants": [
       {
         "variation": "Black",
@@ -4530,14 +4688,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 839,
+    "internal_id": 11799,
     "variants": [
       {
         "variation": "Black",
@@ -4606,15 +4767,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 529,
+    "internal_id": 11557,
     "variants": [
       {
         "variation": "Black",
@@ -4739,14 +4903,17 @@
     "diy": true,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1191,
+    "internal_id": 12326,
     "variants": [
       {
         "variation": null,
@@ -4773,14 +4940,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 876,
+    "internal_id": 10105,
     "variants": [
       {
         "variation": "Red",
@@ -4828,8 +4998,8 @@
         "variation": "Light blue",
         "filename": "ShoesLowcutToilet3",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Kicks"
@@ -4863,15 +5033,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 888,
+    "internal_id": 10721,
     "variants": [
       {
         "variation": "White",
@@ -4996,15 +5169,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 794,
+    "internal_id": 10058,
     "variants": [
       {
         "variation": "Ivory",
@@ -5129,15 +5305,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 946,
+    "internal_id": 10073,
     "variants": [
       {
         "variation": "Black",
@@ -5213,7 +5392,7 @@
         "variation": "Light blue",
         "filename": "ShoesLowcutRubbertoe3",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -5262,14 +5441,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 783,
+    "internal_id": 11569,
     "variants": [
       {
         "variation": "White",
@@ -5352,14 +5534,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 789,
+    "internal_id": 10153,
     "variants": [
       {
         "variation": "White",
@@ -5470,15 +5655,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 515,
+    "internal_id": 10696,
     "variants": [
       {
         "variation": "White",
@@ -5561,14 +5749,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "Winter",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 815,
+    "internal_id": 5660,
     "variants": [
       {
         "variation": "White",
@@ -5630,7 +5821,7 @@
         "variation": "Light blue",
         "filename": "ShoesKneeSki4",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "source": [
@@ -5665,14 +5856,17 @@
     "diy": true,
     "hha_base_points": 351,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1215,
+    "internal_id": 12459,
     "variants": [
       {
         "variation": null,
@@ -5699,15 +5893,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 787,
+    "internal_id": 10082,
     "variants": [
       {
         "variation": "White",
@@ -5783,7 +5980,7 @@
         "variation": "Light blue",
         "filename": "ShoesLowcutSlipon5",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -5832,15 +6029,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 786,
+    "internal_id": 10099,
     "variants": [
       {
         "variation": "Black",
@@ -5916,8 +6116,8 @@
         "variation": "Light blue",
         "filename": "ShoesSandalResin0",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -5965,14 +6165,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 764,
+    "internal_id": 5473,
     "variants": [
       {
         "variation": "Red",
@@ -6055,14 +6258,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 778,
+    "internal_id": 10085,
     "variants": [
       {
         "variation": "White",
@@ -6166,8 +6372,8 @@
         "variation": "Blue",
         "filename": "ShoesLowcutSlipper5",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Kicks"
@@ -6187,14 +6393,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 863,
+    "internal_id": 5760,
     "variants": [
       {
         "variation": null,
@@ -6221,15 +6430,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 894,
+    "internal_id": 5824,
     "variants": [
       {
         "variation": "Red",
@@ -6291,7 +6503,7 @@
         "variation": "Gray",
         "filename": "ShoesSandalSports7",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "source": [
@@ -6354,15 +6566,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 941,
+    "internal_id": 11236,
     "variants": [
       {
         "variation": "Gray",
@@ -6459,14 +6674,17 @@
     "diy": true,
     "hha_base_points": 351,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1212,
+    "internal_id": 12456,
     "variants": [
       {
         "variation": null,
@@ -6493,15 +6711,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Gorgeous",
+    "style_1": "Gorgeous",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 784,
+    "internal_id": 10144,
     "variants": [
       {
         "variation": "Silver",
@@ -6626,14 +6847,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 808,
+    "internal_id": 5622,
     "variants": [
       {
         "variation": "Red",
@@ -6716,15 +6940,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 705,
+    "internal_id": 11242,
     "variants": [
       {
         "variation": "White",
@@ -6786,7 +7013,7 @@
         "variation": "Light blue",
         "filename": "ShoesHighcutTrekking3",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Purple"
         ],
         "source": [
@@ -6849,15 +7076,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "Winter",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 528,
+    "internal_id": 11675,
     "variants": [
       {
         "variation": "Gray",
@@ -6940,15 +7170,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 521,
+    "internal_id": 10119,
     "variants": [
       {
         "variation": "White",
@@ -6996,8 +7229,8 @@
         "variation": "Mint",
         "filename": "ShoesLowcutEnamelpumps1",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -7045,14 +7278,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 792,
+    "internal_id": 5609,
     "variants": [
       {
         "variation": null,
@@ -7079,15 +7315,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 868,
+    "internal_id": 10998,
     "variants": [
       {
         "variation": "Red",
@@ -7142,15 +7381,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 809,
+    "internal_id": 10715,
     "variants": [
       {
         "variation": "Red",
@@ -7226,8 +7468,8 @@
         "variation": "Light blue",
         "filename": "ShoesSandalAqua3",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -7275,15 +7517,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 882,
+    "internal_id": 10276,
     "variants": [
       {
         "variation": "Black",
@@ -7373,7 +7618,7 @@
         "variation": "Light blue",
         "filename": "ShoesLowcutMarine1",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "source": [
@@ -7408,20 +7653,23 @@
     "diy": true,
     "hha_base_points": 351,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1216,
+    "internal_id": 12460,
     "variants": [
       {
         "variation": null,
         "filename": "ShoesLowcutEggfish0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "source": [
@@ -7442,15 +7690,18 @@
     "diy": false,
     "hha_base_points": 437,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": 6,
+    "exchange_currency": "Heart Crystals",
     "source_notes": "Only available during Wedding Season",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1217,
+    "internal_id": 12495,
     "variants": [
       {
         "variation": null,
@@ -7477,15 +7728,18 @@
     "diy": false,
     "hha_base_points": 437,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": 6,
+    "exchange_currency": "Heart Crystals",
     "source_notes": "Only available during Wedding Season",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1218,
+    "internal_id": 12496,
     "variants": [
       {
         "variation": null,
@@ -7512,15 +7766,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 883,
+    "internal_id": 11472,
     "variants": [
       {
         "variation": "Greige",
@@ -7631,15 +7888,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 812,
+    "internal_id": 11462,
     "variants": [
       {
         "variation": "White",
@@ -7708,14 +7968,17 @@
     "diy": true,
     "hha_base_points": 351,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1214,
+    "internal_id": 12458,
     "variants": [
       {
         "variation": null,
@@ -7742,14 +8005,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 795,
+    "internal_id": 10985,
     "variants": [
       {
         "variation": "Red",
@@ -7832,15 +8098,18 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 779,
+    "internal_id": 11247,
     "variants": [
       {
         "variation": "White",
@@ -7965,14 +8234,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 821,
+    "internal_id": 10259,
     "variants": [
       {
         "variation": "Black",
@@ -8069,14 +8341,17 @@
     "diy": false,
     "hha_base_points": 23,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 799,
+    "internal_id": 5624,
     "variants": [
       {
         "variation": null,
@@ -8103,22 +8378,25 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 530,
+    "internal_id": 10974,
     "variants": [
       {
         "variation": "Aqua",
         "filename": "ShoesSandalZori6",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"

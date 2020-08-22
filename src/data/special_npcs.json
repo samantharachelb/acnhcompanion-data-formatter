@@ -7,10 +7,12 @@
     "gender": "Female",
     "gender_asia": "Male",
     "npc_id": "mka",
+    "internal_id": 44,
     "birthday": "02/08",
     "name_color": "#fe8885",
     "bubble_color": "#ffffff",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpMka",
     "id": 1
   },
   {
@@ -21,10 +23,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "owl",
+    "internal_id": 23,
     "birthday": "09/24",
     "name_color": "#f7f0c2",
     "bubble_color": "#7d593c",
-    "filename": "owl",
+    "icon_filename": "owl",
+    "photo_filename": "NpcSpOwl",
     "id": 2
   },
   {
@@ -35,10 +39,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "dgb",
+    "internal_id": 32,
     "birthday": "04/23",
     "name_color": "#fffce9",
     "bubble_color": "#c67022",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpDgb",
     "id": 3
   },
   {
@@ -49,10 +55,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "pge",
+    "internal_id": 28,
     "birthday": "10/15",
     "name_color": "#333333",
     "bubble_color": "#689a8b",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpPge",
     "id": 4
   },
   {
@@ -63,10 +71,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "bey",
+    "internal_id": 59,
     "birthday": "03/07",
     "name_color": "#f9db2f",
     "bubble_color": "#a99d6e",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": null,
     "id": 5
   },
   {
@@ -77,10 +87,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "ows",
+    "internal_id": 24,
     "birthday": "09/07",
     "name_color": "#f7f0c2",
     "bubble_color": "#81280a",
-    "filename": "ows",
+    "icon_filename": "ows",
+    "photo_filename": "NpcSpOws",
     "id": 6
   },
   {
@@ -91,10 +103,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "bev",
+    "internal_id": 2,
     "birthday": "12/09",
     "name_color": "#fffce9",
     "bubble_color": "#77614c",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpBev",
     "id": 7
   },
   {
@@ -105,10 +119,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "dga",
+    "internal_id": 30,
     "birthday": "06/28",
     "name_color": "#fffce9",
     "bubble_color": "#e69111",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpDga",
     "id": 8
   },
   {
@@ -119,10 +135,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "alp",
+    "internal_id": 0,
     "birthday": "01/26",
     "name_color": "#fffce9",
     "bubble_color": "#4ddcd9",
-    "filename": "alp",
+    "icon_filename": "alp",
+    "photo_filename": "NpcSpAlp",
     "id": 9
   },
   {
@@ -133,10 +151,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "boc",
+    "internal_id": 61,
     "birthday": "05/05",
     "name_color": "#ab2629",
     "bubble_color": "#ff9b43",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": null,
     "id": 10
   },
   {
@@ -147,24 +167,28 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "szo",
+    "internal_id": 49,
     "birthday": "12/20",
     "name_color": "#664734",
     "bubble_color": "#c1a081",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpSzo",
     "id": 11
   },
   {
     "source_sheet": "Special NPCs",
     "name": "DJ KK",
-    "icon_image": null,
+    "icon_image": "https://acnhapi.com/1.0.0/NpcIcon/tkkB.png",
     "photo_image": "https://acnhcdn.com/latest/NpcPoster/NpcSpTkkB.png",
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "tkkB",
+    "internal_id": 65,
     "birthday": "08/23",
     "name_color": "#545259",
     "bubble_color": "#ffffff",
-    "filename": null,
+    "icon_filename": "tkkB",
+    "photo_filename": "NpcSpTkkB",
     "id": 12
   },
   {
@@ -175,10 +199,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "mob",
+    "internal_id": 20,
     "birthday": "05/01",
     "name_color": "#612f0a",
     "bubble_color": "#d97012",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpMob",
     "id": 13
   },
   {
@@ -189,10 +215,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "chy",
+    "internal_id": 63,
     "birthday": "05/10",
     "name_color": "#fb646b",
     "bubble_color": "#25251a",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": null,
     "id": 14
   },
   {
@@ -203,10 +231,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "tuk",
+    "internal_id": 40,
     "birthday": "10/10",
     "name_color": "#4b4496",
     "bubble_color": "#ff97ca",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpTuk",
     "id": 15
   },
   {
@@ -217,10 +247,12 @@
     "gender": "Female",
     "gender_asia": "Male",
     "npc_id": "grf",
+    "internal_id": 10,
     "birthday": "11/14",
     "name_color": "#d254c7",
     "bubble_color": "#ffffc1",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpGrf",
     "id": 16
   },
   {
@@ -231,10 +263,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "kpg",
+    "internal_id": 14,
     "birthday": "04/15",
     "name_color": "#fff364",
     "bubble_color": "#7dcc00",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpKpg",
     "id": 17
   },
   {
@@ -245,10 +279,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "gulB",
+    "internal_id": 69,
     "birthday": "05/25",
     "name_color": "#fffbe8",
     "bubble_color": "#f52c2c",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": null,
     "id": 18
   },
   {
@@ -259,10 +295,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "gul",
+    "internal_id": 35,
     "birthday": "05/25",
     "name_color": "#fffce9",
     "bubble_color": "#0073ff",
-    "filename": "gul",
+    "icon_filename": "gul",
+    "photo_filename": "NpcSpGul",
     "id": 19
   },
   {
@@ -273,10 +311,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "poo",
+    "internal_id": 33,
     "birthday": "01/31",
     "name_color": "#fffce9",
     "bubble_color": "#fc81d9",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpPoo",
     "id": 20
   },
   {
@@ -287,10 +327,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "spn",
+    "internal_id": 58,
     "birthday": "08/02",
     "name_color": "#714f31",
     "bubble_color": "#ebc83c",
-    "filename": "spn",
+    "icon_filename": "spn",
+    "photo_filename": null,
     "id": 21
   },
   {
@@ -301,10 +343,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "sza",
+    "internal_id": 38,
     "birthday": "12/20",
     "name_color": "#f4aa16",
     "bubble_color": "#fff98f",
-    "filename": "sza",
+    "icon_filename": "sza",
+    "photo_filename": "NpcSpSza",
     "id": 22
   },
   {
@@ -315,10 +359,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "pkn",
+    "internal_id": 57,
     "birthday": "10/31",
     "name_color": "#080800",
     "bubble_color": "#ff6d00",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpPkn",
     "id": 23
   },
   {
@@ -329,10 +375,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "rei",
+    "internal_id": 48,
     "birthday": "12/24",
     "name_color": "#fffe69",
     "bubble_color": "#d6781a",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpRei",
     "id": 24
   },
   {
@@ -343,10 +391,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "boa",
+    "internal_id": 4,
     "birthday": "01/08",
     "name_color": "#f3af18",
     "bubble_color": "#a04c27",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpBoa",
     "id": 25
   },
   {
@@ -357,10 +407,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "tkkA",
+    "internal_id": 8,
     "birthday": "08/23",
     "name_color": "#595757",
     "bubble_color": "#ffffff",
-    "filename": "tkkA",
+    "icon_filename": "tkkA",
+    "photo_filename": "NpcSpTkkA",
     "id": 26
   },
   {
@@ -371,10 +423,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "kpp",
+    "internal_id": 16,
     "birthday": "07/12",
     "name_color": "#fff364",
     "bubble_color": "#7dcc00",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpKpp",
     "id": 27
   },
   {
@@ -385,10 +439,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "lom",
+    "internal_id": 46,
     "birthday": "10/22",
     "name_color": "#9c4e00",
     "bubble_color": "#feff4f",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpLom",
     "id": 28
   },
   {
@@ -399,10 +455,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "bpt",
+    "internal_id": 5,
     "birthday": "10/28",
     "name_color": "#fffce9",
     "bubble_color": "#1c2f60",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpBpt",
     "id": 29
   },
   {
@@ -413,10 +471,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "skk",
+    "internal_id": 37,
     "birthday": "11/30",
     "name_color": "#78b3c7",
     "bubble_color": "#2a4869",
-    "filename": "skk",
+    "icon_filename": "skk",
+    "photo_filename": "NpcSpSkk",
     "id": 30
   },
   {
@@ -427,10 +487,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "hgc",
+    "internal_id": 11,
     "birthday": "10/31",
     "name_color": "#fffee0",
     "bubble_color": "#7f5174",
-    "filename": "hgc",
+    "icon_filename": "hgc",
+    "photo_filename": "NpcSpHgc",
     "id": 31
   },
   {
@@ -441,10 +503,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "slo",
+    "internal_id": 43,
     "birthday": "08/08",
     "name_color": "#fffce9",
     "bubble_color": "#c0ab72",
-    "filename": "slo",
+    "icon_filename": "slo",
+    "photo_filename": "NpcSpSlo",
     "id": 32
   },
   {
@@ -455,10 +519,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "kps",
+    "internal_id": 17,
     "birthday": "08/16",
     "name_color": "#fff364",
     "bubble_color": "#7dcc00",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpKps",
     "id": 33
   },
   {
@@ -469,10 +535,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "kpm",
+    "internal_id": 15,
     "birthday": "09/26",
     "name_color": "#fff364",
     "bubble_color": "#7dcc00",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpKpm",
     "id": 34
   },
   {
@@ -483,10 +551,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "otg",
+    "internal_id": 56,
     "birthday": "09/12",
     "name_color": "#5e2818",
     "bubble_color": "#ffa6aa",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpOtg",
     "id": 35
   },
   {
@@ -497,10 +567,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "tap",
+    "internal_id": 45,
     "birthday": "02/29",
     "name_color": "#ffceff",
     "bubble_color": "#bc40a9",
-    "filename": "tap",
+    "icon_filename": "tap",
+    "photo_filename": "NpcSpTap",
     "id": 36
   },
   {
@@ -511,10 +583,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "ott",
+    "internal_id": 22,
     "birthday": "06/06",
     "name_color": "#fffad4",
     "bubble_color": "#506b94",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpOtt",
     "id": 37
   },
   {
@@ -525,10 +599,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "hgh",
+    "internal_id": 12,
     "birthday": "05/22",
     "name_color": "#fffad4",
     "bubble_color": "#3c4c78",
-    "filename": "hgh",
+    "icon_filename": "hgh",
+    "photo_filename": "NpcSpHgh",
     "id": 38
   },
   {
@@ -539,10 +615,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "chm",
+    "internal_id": 6,
     "birthday": "07/25",
     "name_color": "#f3f338",
     "bubble_color": "#72aa1c",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpChm",
     "id": 39
   },
   {
@@ -553,10 +631,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "dod",
+    "internal_id": 62,
     "birthday": "10/02",
     "name_color": "#38889e",
     "bubble_color": "#ffdf50",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": null,
     "id": 40
   },
   {
@@ -567,10 +647,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "seo",
+    "internal_id": 36,
     "birthday": "07/19",
     "name_color": "#fffd87",
     "bubble_color": "#f44957",
-    "filename": "seo",
+    "icon_filename": "seo",
+    "photo_filename": "NpcSpSeo",
     "id": 41
   },
   {
@@ -581,10 +663,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "pck",
+    "internal_id": 25,
     "birthday": "03/03",
     "name_color": "#edebd6",
     "bubble_color": "#0a96ae",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpPck",
     "id": 42
   },
   {
@@ -595,10 +679,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "plk",
+    "internal_id": 26,
     "birthday": "03/19",
     "name_color": "#fffce9",
     "bubble_color": "#fe9ee0",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpPlk",
     "id": 43
   },
   {
@@ -609,10 +695,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "plo",
+    "internal_id": 31,
     "birthday": "03/08",
     "name_color": "#fffce9",
     "bubble_color": "#44c04f",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpPlo",
     "id": 44
   },
   {
@@ -623,10 +711,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "fsl",
+    "internal_id": 3,
     "birthday": "06/20",
     "name_color": "#feffca",
     "bubble_color": "#d38856",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpFsl",
     "id": 45
   },
   {
@@ -637,10 +727,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "plm",
+    "internal_id": 27,
     "birthday": "11/21",
     "name_color": "#fffce9",
     "bubble_color": "#dd8dfa",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpPlm",
     "id": 46
   },
   {
@@ -651,10 +743,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "mnk",
+    "internal_id": 19,
     "birthday": "04/17",
     "name_color": "#efe956",
     "bubble_color": "#3e54cf",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpMnk",
     "id": 47
   },
   {
@@ -665,10 +759,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "fox",
+    "internal_id": 9,
     "birthday": "10/18",
     "name_color": "#4f1904",
     "bubble_color": "#ebb020",
-    "filename": "fox",
+    "icon_filename": "fox",
+    "photo_filename": "NpcSpFox",
     "id": 48
   },
   {
@@ -679,10 +775,12 @@
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "alw",
+    "internal_id": 1,
     "birthday": "07/05",
     "name_color": "#fffce9",
     "bubble_color": "#ffaad1",
-    "filename": "alw",
+    "icon_filename": "alw",
+    "photo_filename": "NpcSpAlw",
     "id": 49
   },
   {
@@ -693,10 +791,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "mol",
+    "internal_id": 21,
     "birthday": "04/06",
     "name_color": "#612f0a",
     "bubble_color": "#d97012",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpMol",
     "id": 50
   },
   {
@@ -707,24 +807,28 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "xct",
+    "internal_id": 42,
     "birthday": "02/01",
     "name_color": "#fffce9",
     "bubble_color": "#5a66d2",
-    "filename": "xct",
+    "icon_filename": "xct",
+    "photo_filename": "NpcSpXct",
     "id": 51
   },
   {
     "source_sheet": "Special NPCs",
     "name": "Sable",
     "icon_image": "https://acnhcdn.com/latest/NpcIcon/hgs.png",
-    "photo_image": "https://acnhcdn.com/latest/NpcBromide/NpcSp\"&PROPER(G53)&\".png",
+    "photo_image": "https://acnhcdn.com/latest/NpcBromide/NpcSpHgs.png",
     "gender": "Female",
     "gender_asia": "Female",
     "npc_id": "hgs",
+    "internal_id": 13,
     "birthday": "11/22",
     "name_color": "#fffee0",
     "bubble_color": "#895452",
-    "filename": "hgs",
+    "icon_filename": "hgs",
+    "photo_filename": "NpcSpHgs",
     "id": 52
   },
   {
@@ -735,10 +839,12 @@
     "gender": "Female",
     "gender_asia": "Male",
     "npc_id": "cml",
+    "internal_id": 7,
     "birthday": "11/10",
     "name_color": "#954f07",
     "bubble_color": "#fcbb3a",
-    "filename": "cml",
+    "icon_filename": "cml",
+    "photo_filename": "NpcSpCml",
     "id": 53
   },
   {
@@ -749,10 +855,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "upa",
+    "internal_id": 41,
     "birthday": "01/02",
     "name_color": "#a90d0a",
     "bubble_color": "#ffb0b0",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpUpa",
     "id": 54
   },
   {
@@ -763,10 +871,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "rcm",
+    "internal_id": 52,
     "birthday": "06/07",
     "name_color": "#4d2a20",
     "bubble_color": "#de8735",
-    "filename": "rcm",
+    "icon_filename": "rcm",
+    "photo_filename": "NpcSpRcm",
     "id": 55
   },
   {
@@ -777,10 +887,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "rco",
+    "internal_id": 34,
     "birthday": "05/30",
     "name_color": "#4d2a20",
     "bubble_color": "#de8735",
-    "filename": "rco",
+    "icon_filename": "rco",
+    "photo_filename": "NpcSpRco",
     "id": 56
   },
   {
@@ -791,10 +903,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "rct",
+    "internal_id": 51,
     "birthday": "06/07",
     "name_color": "#4d2a20",
     "bubble_color": "#de8735",
-    "filename": "rct",
+    "icon_filename": "rct",
+    "photo_filename": "NpcSpRct",
     "id": 57
   },
   {
@@ -805,10 +919,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "ttlA",
+    "internal_id": 39,
     "birthday": "12/31",
     "name_color": "#705800",
     "bubble_color": "#ffea6b",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpTtlA",
     "id": 58
   },
   {
@@ -819,10 +935,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "wrl",
+    "internal_id": 50,
     "birthday": "02/25",
     "name_color": "#fffce9",
     "bubble_color": "#8c99fd",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": "NpcSpWrl",
     "id": 59
   },
   {
@@ -833,10 +951,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "doc",
+    "internal_id": 66,
     "birthday": "12/17",
     "name_color": "#38889e",
     "bubble_color": "#ffdf50",
-    "filename": "doc",
+    "icon_filename": "doc",
+    "photo_filename": null,
     "id": 60
   },
   {
@@ -847,10 +967,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "gstA",
+    "internal_id": 55,
     "birthday": "02/26",
     "name_color": "#7490c2",
     "bubble_color": "#e3ecf5",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": null,
     "id": 61
   },
   {
@@ -861,10 +983,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "gstB",
+    "internal_id": 64,
     "birthday": "02/26",
     "name_color": "#7490c2",
     "bubble_color": "#e3ecf5",
-    "filename": null,
+    "icon_filename": null,
+    "photo_filename": null,
     "id": 62
   },
   {
@@ -875,10 +999,12 @@
     "gender": "Male",
     "gender_asia": "Male",
     "npc_id": "pyn",
+    "internal_id": 47,
     "birthday": "03/11",
     "name_color": "#0ea8c7",
     "bubble_color": "#ffe20b",
-    "filename": "pyn",
+    "icon_filename": "pyn",
+    "photo_filename": "NpcSpPyn",
     "id": 63
   }
 ]

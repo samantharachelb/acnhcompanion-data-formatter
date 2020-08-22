@@ -9,6 +9,7 @@
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4664,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstFourLegs.png",
@@ -37,6 +38,7 @@
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 294,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAmber.png",
@@ -65,6 +67,7 @@
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 295,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAmmonoidea.png",
@@ -93,6 +96,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 169,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusA.png",
@@ -121,6 +125,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 171,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusC.png",
@@ -149,6 +154,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 170,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusB.png",
@@ -177,6 +183,7 @@
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4651,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnomalocaris.png",
@@ -205,6 +212,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 298,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchaeopteryx.png",
@@ -233,6 +241,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 177,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchelonA.png",
@@ -261,6 +270,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 178,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchelonB.png",
@@ -289,6 +299,7 @@
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 301,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAustralopithecus.png",
@@ -317,6 +328,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4689,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusB.png",
@@ -345,6 +357,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4690,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusC.png",
@@ -373,6 +386,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4688,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusA.png",
@@ -401,6 +415,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4691,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusD.png",
@@ -429,6 +444,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 296,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilCoprolite.png",
@@ -457,6 +473,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 211,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDeinonychusB.png",
@@ -485,6 +502,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 210,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDeinonychusA.png",
@@ -513,6 +531,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 184,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDimetrodonA.png",
@@ -541,6 +560,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 185,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDimetrodonB.png",
@@ -569,6 +589,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 300,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIchnology.png",
@@ -597,6 +618,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 218,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusC.png",
@@ -625,6 +647,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 217,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusB.png",
@@ -653,6 +676,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 219,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusD.png",
@@ -681,6 +705,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 216,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusA.png",
@@ -709,6 +734,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 220,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusE.png",
@@ -737,6 +763,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 7251,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusF.png",
@@ -765,6 +792,7 @@
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4660,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDunkleosteus.png",
@@ -793,6 +821,7 @@
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4663,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstAmphibian.png",
@@ -821,6 +850,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 188,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonA.png",
@@ -849,6 +879,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 190,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonC.png",
@@ -877,6 +908,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 189,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonB.png",
@@ -905,6 +937,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4665,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstMammal.png",
@@ -933,6 +966,7 @@
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4659,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMegalocerosB.png",
@@ -961,6 +995,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 208,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonC.png",
@@ -989,6 +1024,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4699,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusC.png",
@@ -1017,6 +1053,7 @@
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 195,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMammothA.png",
@@ -1045,6 +1082,7 @@
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 196,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMammothB.png",
@@ -1073,6 +1111,7 @@
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 180,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumA.png",
@@ -1101,6 +1140,7 @@
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 182,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumC.png",
@@ -1129,6 +1169,7 @@
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 181,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumB.png",
@@ -1157,6 +1198,7 @@
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4662,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstFish.png",
@@ -1185,6 +1227,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 192,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilOphthalmosaurusA.png",
@@ -1213,6 +1256,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 193,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilOphthalmosaurusB.png",
@@ -1241,6 +1285,7 @@
     "museum": "Room 2",
     "interact": true,
     "catalog": "Not for sale",
+    "internal_id": 198,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPachycephalosaurusA.png",
@@ -1269,6 +1314,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 199,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPachycephalosaurusB.png",
@@ -1297,6 +1343,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 202,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusA.png",
@@ -1325,6 +1372,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 204,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusC.png",
@@ -1353,6 +1401,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 203,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusB.png",
@@ -1381,6 +1430,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 234,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusA.png",
@@ -1409,6 +1459,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 236,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusC.png",
@@ -1437,6 +1488,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 235,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusB.png",
@@ -1465,6 +1517,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 206,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonA.png",
@@ -1493,6 +1546,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4697,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusA.png",
@@ -1521,6 +1575,7 @@
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4658,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMegalocerosA.png",
@@ -1549,6 +1604,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 207,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonB.png",
@@ -1577,6 +1633,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 4698,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusB.png",
@@ -1605,6 +1662,7 @@
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 213,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSmilodonA.png",
@@ -1633,6 +1691,7 @@
     "museum": "Room 3",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 214,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSmilodonB.png",
@@ -1661,6 +1720,7 @@
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 302,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilShark.png",
@@ -1689,6 +1749,7 @@
     "museum": "Room 2",
     "interact": true,
     "catalog": "Not for sale",
+    "internal_id": 222,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusA.png",
@@ -1717,6 +1778,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 224,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusC.png",
@@ -1745,6 +1807,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 223,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusB.png",
@@ -1773,6 +1836,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 226,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusA.png",
@@ -1801,6 +1865,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 228,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusC.png",
@@ -1829,6 +1894,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 227,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusB.png",
@@ -1857,6 +1923,7 @@
     "museum": "Room 2",
     "interact": true,
     "catalog": "Not for sale",
+    "internal_id": 238,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexA.png",
@@ -1885,6 +1952,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 240,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexC.png",
@@ -1913,6 +1981,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 239,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexB.png",
@@ -1941,6 +2010,7 @@
     "museum": "Room 2",
     "interact": true,
     "catalog": "Not for sale",
+    "internal_id": 242,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsA.png",
@@ -1969,6 +2039,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 244,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsC.png",
@@ -1997,6 +2068,7 @@
     "museum": "Room 2",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 243,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsB.png",
@@ -2025,6 +2097,7 @@
     "museum": "Room 1",
     "interact": false,
     "catalog": "Not for sale",
+    "internal_id": 303,
     "variants": [
       {
         "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTrilobite.png",

@@ -33,6 +33,18 @@ function delUndefNull(obj: any) {
     });
 }
 
+function delEmpty(obj: any) {
+    for (let key in obj) {
+        if (!obj[key] || typeof obj[key] !== 'object') {
+            continue
+        }
+        delEmpty(obj[key]);
+        if(Object.keys(obj[key]).length === 0) {
+            delete obj[key];
+        }
+    }
+}
+
 function naMapToInt(obj: any) {
     Object.keys(obj).forEach(key => {
         if(obj[key] && typeof obj[key] === 'object') {
@@ -53,4 +65,4 @@ function stripChar(obj: any, char: string) {
         }
     });
 }
-export { delUndef, delNull, delUndefNull, naMapToInt, stripChar };
+export { delUndef, delNull, delUndefNull, delEmpty, naMapToInt, stripChar };

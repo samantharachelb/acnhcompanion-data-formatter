@@ -8,6 +8,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2472,
     "variants": [
       {
         "filename": "mjk_Keiji",
@@ -35,12 +36,13 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2423,
     "variants": [
       {
         "filename": "mjk_Aloha",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "K.K. concert",
@@ -62,6 +64,7 @@
     "size": "1x1",
     "source_notes": "Hidden song - only by request",
     "catalog": "Not for sale",
+    "internal_id": 4312,
     "variants": [
       {
         "filename": "mjk_DoubutuNoMachi",
@@ -87,12 +90,13 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2492,
     "variants": [
       {
         "filename": "mjk_Idol",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "K.K. concert",
@@ -114,6 +118,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2454,
     "variants": [
       {
         "filename": "mjk_Paris",
@@ -141,6 +146,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2448,
     "variants": [
       {
         "filename": "mjk_ShowaKayo",
@@ -168,6 +174,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2443,
     "variants": [
       {
         "filename": "mjk_EuroBeat",
@@ -195,6 +202,7 @@
     "size": "1x1",
     "source_notes": "Hidden song - only by request",
     "catalog": "Not for sale",
+    "internal_id": 4314,
     "variants": [
       {
         "filename": "mjk_Drive",
@@ -220,6 +228,7 @@
     "size": "1x1",
     "source_notes": "Hidden song - only by request",
     "catalog": "Not for sale",
+    "internal_id": 4313,
     "variants": [
       {
         "filename": "mjk_Sayonara",
@@ -245,6 +254,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2461,
     "variants": [
       {
         "filename": "mjk_MoriNoSeikatsu",
@@ -272,6 +282,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2450,
     "variants": [
       {
         "filename": "mjk_KekeRider",
@@ -299,6 +310,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2480,
     "variants": [
       {
         "filename": "mjk_UtataneNoYume",
@@ -326,6 +338,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2458,
     "variants": [
       {
         "filename": "mjk_Daisuki",
@@ -353,6 +366,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2427,
     "variants": [
       {
         "filename": "mjk_China",
@@ -380,6 +394,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2484,
     "variants": [
       {
         "filename": "mjk_Hollywood",
@@ -407,6 +422,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2413,
     "variants": [
       {
         "filename": "mjk_Maria",
@@ -434,6 +450,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2447,
     "variants": [
       {
         "filename": "mjk_Ballad",
@@ -461,6 +478,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2486,
     "variants": [
       {
         "filename": "mjk_Roma",
@@ -488,12 +506,13 @@
     "size": "1x1",
     "source_notes": "Received on your first time seeing KK perform during your birthday",
     "catalog": "Not for sale",
+    "internal_id": 2495,
     "variants": [
       {
         "filename": "mjk_BirthdaySong",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "K.K. concert"
@@ -514,6 +533,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2436,
     "variants": [
       {
         "filename": "mjk_Blues",
@@ -541,6 +561,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2415,
     "variants": [
       {
         "filename": "mjk_Bossa",
@@ -568,6 +589,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2416,
     "variants": [
       {
         "filename": "mjk_Caripso",
@@ -595,6 +617,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2428,
     "variants": [
       {
         "filename": "mjk_Turkey",
@@ -622,6 +645,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2405,
     "variants": [
       {
         "filename": "mjk_Sanbika",
@@ -649,6 +673,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2425,
     "variants": [
       {
         "filename": "mjk_Peru",
@@ -676,6 +701,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2445,
     "variants": [
       {
         "filename": "mjk_Country",
@@ -703,6 +729,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2439,
     "variants": [
       {
         "filename": "mjk_Urban",
@@ -730,6 +757,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2441,
     "variants": [
       {
         "filename": "mjk_Drumnbass",
@@ -757,6 +785,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2451,
     "variants": [
       {
         "filename": "mjk_KowaiUta",
@@ -784,6 +813,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2494,
     "variants": [
       {
         "filename": "mjk_Disco",
@@ -811,6 +841,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2464,
     "variants": [
       {
         "filename": "mjk_Dixie",
@@ -838,6 +869,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2411,
     "variants": [
       {
         "filename": "mjk_Etude",
@@ -865,6 +897,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2422,
     "variants": [
       {
         "filename": "mjk_Haisai",
@@ -892,6 +925,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2490,
     "variants": [
       {
         "filename": "mjk_Flamenco",
@@ -919,6 +953,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2430,
     "variants": [
       {
         "filename": "mjk_Minyo",
@@ -946,6 +981,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2410,
     "variants": [
       {
         "filename": "mjk_Fusion",
@@ -973,6 +1009,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2488,
     "variants": [
       {
         "filename": "mjk_Raregroove",
@@ -1000,6 +1037,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2434,
     "variants": [
       {
         "filename": "mjk_NewOrleans",
@@ -1027,6 +1065,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2478,
     "variants": [
       {
         "filename": "mjk_House",
@@ -1054,12 +1093,13 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2482,
     "variants": [
       {
         "filename": "mjk_DoubutsuNoShima",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "K.K. concert",
@@ -1081,12 +1121,13 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2409,
     "variants": [
       {
         "filename": "mjk_Jazz",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "K.K. concert",
@@ -1108,12 +1149,13 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2489,
     "variants": [
       {
         "filename": "mjk_Jongara",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "K.K. concert",
@@ -1135,6 +1177,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2449,
     "variants": [
       {
         "filename": "mjk_Enka",
@@ -1162,6 +1205,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2440,
     "variants": [
       {
         "filename": "mjk_LoveSong",
@@ -1189,6 +1233,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2412,
     "variants": [
       {
         "filename": "mjk_Lullaby",
@@ -1216,6 +1261,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2418,
     "variants": [
       {
         "filename": "mjk_Mambo",
@@ -1243,6 +1289,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2465,
     "variants": [
       {
         "filename": "mjk_Gamelan",
@@ -1270,6 +1317,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2406,
     "variants": [
       {
         "filename": "mjk_March",
@@ -1297,6 +1345,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2456,
     "variants": [
       {
         "filename": "mjk_Senor",
@@ -1324,6 +1373,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2474,
     "variants": [
       {
         "filename": "mjk_Metal",
@@ -1351,6 +1401,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2487,
     "variants": [
       {
         "filename": "mjk_Milonga",
@@ -1378,6 +1429,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2491,
     "variants": [
       {
         "filename": "mjk_Bolero",
@@ -1405,6 +1457,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2485,
     "variants": [
       {
         "filename": "mjk_Maharaja",
@@ -1432,6 +1485,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2455,
     "variants": [
       {
         "filename": "mjk_Parade",
@@ -1459,6 +1513,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2433,
     "variants": [
       {
         "filename": "mjk_RagTime",
@@ -1486,6 +1541,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2473,
     "variants": [
       {
         "filename": "mjk_Ondo",
@@ -1513,6 +1569,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2419,
     "variants": [
       {
         "filename": "mjk_Reggae",
@@ -1540,6 +1597,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2431,
     "variants": [
       {
         "filename": "mjk_Rock",
@@ -1567,12 +1625,13 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2471,
     "variants": [
       {
         "filename": "mjk_KekeBilly",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "K.K. concert",
@@ -1594,6 +1653,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2429,
     "variants": [
       {
         "filename": "mjk_Afro",
@@ -1621,6 +1681,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2417,
     "variants": [
       {
         "filename": "mjk_Salsa",
@@ -1648,12 +1709,13 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2414,
     "variants": [
       {
         "filename": "mjk_Samba",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "K.K. concert",
@@ -1675,6 +1737,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2420,
     "variants": [
       {
         "filename": "mjk_Ska",
@@ -1702,6 +1765,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2479,
     "variants": [
       {
         "filename": "mjk_Sonata",
@@ -1729,6 +1793,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2457,
     "variants": [
       {
         "filename": "mjk_KekeSong",
@@ -1756,6 +1821,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2438,
     "variants": [
       {
         "filename": "mjk_Soul",
@@ -1783,6 +1849,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2426,
     "variants": [
       {
         "filename": "mjk_Cossack",
@@ -1810,6 +1877,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2481,
     "variants": [
       {
         "filename": "mjk_Osanpo",
@@ -1837,6 +1905,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2408,
     "variants": [
       {
         "filename": "mjk_Swing",
@@ -1864,6 +1933,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2493,
     "variants": [
       {
         "filename": "mjk_Electronica",
@@ -1891,6 +1961,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2421,
     "variants": [
       {
         "filename": "mjk_Tango",
@@ -1918,6 +1989,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2442,
     "variants": [
       {
         "filename": "mjk_TechnoBeat",
@@ -1945,6 +2017,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2407,
     "variants": [
       {
         "filename": "mjk_Waltz",
@@ -1972,6 +2045,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2452,
     "variants": [
       {
         "filename": "mjk_Western",
@@ -1999,6 +2073,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2466,
     "variants": [
       {
         "filename": "mjk_Daimyo",
@@ -2026,6 +2101,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2424,
     "variants": [
       {
         "filename": "mjk_Irish",
@@ -2053,12 +2129,13 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2468,
     "variants": [
       {
         "filename": "mjk_HunaUta2001",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "K.K. concert",
@@ -2080,12 +2157,13 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2467,
     "variants": [
       {
         "filename": "mjk_Alpine",
         "colors": [
           "Brown",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "K.K. concert",
@@ -2107,6 +2185,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2453,
     "variants": [
       {
         "filename": "mjk_Sensei",
@@ -2134,6 +2213,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2460,
     "variants": [
       {
         "filename": "mjk_BokuNoBasho",
@@ -2161,6 +2241,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2469,
     "variants": [
       {
         "filename": "mjk_Napolitan",
@@ -2188,6 +2269,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2444,
     "variants": [
       {
         "filename": "mjk_OnlyMe",
@@ -2215,6 +2297,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2463,
     "variants": [
       {
         "filename": "mjk_KangaeChu",
@@ -2242,6 +2325,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2432,
     "variants": [
       {
         "filename": "mjk_RocknRoll",
@@ -2269,6 +2353,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2437,
     "variants": [
       {
         "filename": "mjk_Gospel",
@@ -2296,6 +2381,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2483,
     "variants": [
       {
         "filename": "mjk_Minimal",
@@ -2323,6 +2409,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"I feel good!\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2476,
     "variants": [
       {
         "filename": "mjk_HaruNoKomorebi",
@@ -2350,6 +2437,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2475,
     "variants": [
       {
         "filename": "mjk_BlueOnigiri",
@@ -2377,6 +2465,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2470,
     "variants": [
       {
         "filename": "mjk_NiDanZaka",
@@ -2404,6 +2493,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little grumpy...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2446,
     "variants": [
       {
         "filename": "mjk_Eleki",
@@ -2431,6 +2521,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2435,
     "variants": [
       {
         "filename": "mjk_Funk",
@@ -2458,6 +2549,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"It's hard to say.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2462,
     "variants": [
       {
         "filename": "mjk_NamiNami",
@@ -2485,6 +2577,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"A little blue...\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2459,
     "variants": [
       {
         "filename": "mjk_Ototoi",
@@ -2512,6 +2605,7 @@
     "size": "1x1",
     "source_notes": "Possible song KK will play when choosing \"Laid-back.\" as your mood",
     "catalog": "For sale",
+    "internal_id": 2477,
     "variants": [
       {
         "filename": "mjk_Horo",
@@ -2539,6 +2633,7 @@
     "size": "1x1",
     "source_notes": "Received on your first time seeing KK perform",
     "catalog": "Not for sale",
+    "internal_id": 4318,
     "variants": [
       {
         "filename": "mjk_MainTheme",
@@ -2564,6 +2659,7 @@
     "size": "1x1",
     "source_notes": "Played by K.K. if you request something he doesn't have (does not give take-home track)",
     "catalog": "Not in catalog",
+    "internal_id": 4315,
     "variants": [
       {
         "filename": "mjk_Miss1",
@@ -2587,6 +2683,7 @@
     "size": "1x1",
     "source_notes": "Played by K.K. if you request something he doesn't have (does not give take-home track)",
     "catalog": "Not in catalog",
+    "internal_id": 4316,
     "variants": [
       {
         "filename": "mjk_Miss2",
@@ -2610,6 +2707,7 @@
     "size": "1x2",
     "source_notes": "Played by K.K. if you request something he doesn't have (does not give take-home track)",
     "catalog": "Not in catalog",
+    "internal_id": 4317,
     "variants": [
       {
         "filename": "mjk_Miss3",

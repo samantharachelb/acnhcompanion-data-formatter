@@ -5,12 +5,13 @@ That same formatted output can also be used with mongodb later.
 
 A spreadsheet containing all of the relevant spawn rate data can be found 
 [here](https://docs.google.com/spreadsheets/d/1AdHpfKIAVst9pOIoXPNN4kN8sGlxReSEKogo7ypdVKM/edit?usp=sharing).
- 
 
 ## Usage
+
 The code hosted in this repository is licensed under the [MIT License](license).
 
 ## Attribution
+
 Data made available through this API has been sourced from the following spreadsheets
 - [Data Spreadsheet for Animal Crossing New Horizons](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=1531928528)
 - [ACNH Insect Spawn Probability](https://docs.google.com/spreadsheets/d/1OTdyHZjDg6yySukbA3cC-siwi6FH76Z8g1OIFm3A1LY/edit#gid=2008277638)

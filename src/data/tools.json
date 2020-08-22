@@ -9,8 +9,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 2100,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -39,8 +41,10 @@
     "stack_size": 1,
     "hha_base_points": 201,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 7590,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -68,9 +72,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
     "variant_id": null,
+    "internal_id": 7869,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -99,9 +105,11 @@
     "stack_size": 10,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
     "variant_id": null,
+    "internal_id": 12974,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -130,9 +138,11 @@
     "stack_size": 10,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
     "variant_id": null,
+    "internal_id": 4386,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -161,8 +171,10 @@
     "stack_size": 1,
     "hha_base_points": 501,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 8769,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -190,8 +202,10 @@
     "stack_size": 1,
     "hha_base_points": 351,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 12578,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -219,8 +233,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 7589,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -248,9 +264,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "variant_id": "0_0",
+    "internal_id": 8472,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -362,9 +380,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "variant_id": "0_0",
+    "internal_id": 8177,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -476,9 +496,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "variant_id": "0_0",
+    "internal_id": 8577,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -590,9 +612,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "variant_id": "0_0",
+    "internal_id": 8580,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -704,9 +728,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "variant_id": "0_0",
+    "internal_id": 8534,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -818,8 +844,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 5092,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -847,9 +875,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "variant_id": "0_0",
+    "internal_id": 8535,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -961,9 +991,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "variant_id": "0_0",
+    "internal_id": 8471,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -1075,8 +1107,10 @@
     "stack_size": 1,
     "hha_base_points": 501,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 8770,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1104,8 +1138,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": "0_0",
+    "internal_id": 2377,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -1217,9 +1253,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": 100,
+    "exchange_price": 100,
+    "exchange_currency": "Nook Miles",
     "source_notes": "Available after unlocking the axe in the story",
     "variant_id": null,
+    "internal_id": 3068,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1249,9 +1287,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": 100,
+    "exchange_price": 100,
+    "exchange_currency": "Nook Miles",
     "source_notes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
     "variant_id": null,
+    "internal_id": 3084,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1281,9 +1321,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": 100,
+    "exchange_price": 100,
+    "exchange_currency": "Nook Miles",
     "source_notes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
     "variant_id": null,
+    "internal_id": 2376,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1313,9 +1355,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": 100,
+    "exchange_price": 100,
+    "exchange_currency": "Nook Miles",
     "source_notes": "Available after unlocking the shovel in the story",
     "variant_id": null,
+    "internal_id": 3082,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1345,9 +1389,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
     "variant_id": null,
+    "internal_id": 3083,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1376,8 +1422,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 9617,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1405,8 +1453,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 8179,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1434,8 +1484,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 8660,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1463,8 +1515,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 8574,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1492,8 +1546,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 8578,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1521,8 +1577,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 7591,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1550,8 +1608,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 8533,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1579,9 +1639,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
     "variant_id": null,
+    "internal_id": 13125,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1610,8 +1672,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 5083,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1639,8 +1703,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 7585,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1668,8 +1734,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 7592,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1697,8 +1765,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 2615,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1726,9 +1796,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Obtained by speaking to Isabelle on New Year's Eve",
     "variant_id": null,
+    "internal_id": 5741,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1756,8 +1828,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 5094,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1785,8 +1859,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 5095,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -1814,8 +1890,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": "0_0",
+    "internal_id": 7588,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -1891,9 +1969,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
     "variant_id": "0_0",
+    "internal_id": 5784,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -2013,8 +2093,10 @@
     "stack_size": 1,
     "hha_base_points": 151,
     "size": "1x1",
-    "miles_price": 500,
+    "exchange_price": 500,
+    "exchange_currency": "Nook Miles",
     "variant_id": null,
+    "internal_id": 13128,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -2023,7 +2105,7 @@
         "filename": "ToolPennantRcm",
         "colors": [],
         "source": [
-          "Nook Miles Shop"
+          "Nook Miles Redemption"
         ],
         "buy": -1,
         "sell": 2500,
@@ -2042,8 +2124,10 @@
     "stack_size": 1,
     "hha_base_points": 151,
     "size": "1x1",
-    "miles_price": 400,
+    "exchange_price": 400,
+    "exchange_currency": "Nook Miles",
     "variant_id": null,
+    "internal_id": 9762,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -2055,7 +2139,7 @@
           "White"
         ],
         "source": [
-          "Nook Miles Shop"
+          "Nook Miles Redemption"
         ],
         "buy": -1,
         "sell": 2000,
@@ -2074,8 +2158,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 5320,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -2103,9 +2189,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "variant_id": "0_0",
+    "internal_id": 8473,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -2217,9 +2305,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "variant_id": "0_0",
+    "internal_id": 8178,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -2331,9 +2421,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "variant_id": "0_0",
+    "internal_id": 8575,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -2445,9 +2537,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "variant_id": "0_0",
+    "internal_id": 8579,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -2559,9 +2653,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "variant_id": "0_0",
+    "internal_id": 8536,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -2673,8 +2769,10 @@
     "stack_size": 1,
     "hha_base_points": 201,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 5517,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -2702,8 +2800,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 5091,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -2731,9 +2831,11 @@
     "stack_size": 10,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Only available close to new year holiday",
     "variant_id": null,
+    "internal_id": 2753,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -2761,9 +2863,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
     "variant_id": null,
+    "internal_id": 13126,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -2792,9 +2896,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
     "variant_id": null,
+    "internal_id": 5744,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -2823,9 +2929,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "variant_id": "0_0",
+    "internal_id": 8576,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -2937,9 +3045,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
     "variant_id": null,
+    "internal_id": 13123,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -2968,9 +3078,11 @@
     "stack_size": 10,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
     "variant_id": null,
+    "internal_id": 5743,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -2999,8 +3111,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 5093,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3028,8 +3142,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 7586,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3057,8 +3173,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": "0_0",
+    "internal_id": 2099,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -3170,9 +3288,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in all tiers of shops, including Timmy & Tommy before the shop is opened",
     "variant_id": "0_0",
+    "internal_id": 2822,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -3292,9 +3412,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in Nook's Cranny (upgraded only)",
     "variant_id": "0_0",
+    "internal_id": 8176,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -3406,8 +3528,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 2544,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3435,8 +3559,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 5856,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3464,9 +3590,11 @@
     "stack_size": 1,
     "hha_base_points": 103,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Available in the re-buyable slot in Nook's Cranny",
     "variant_id": null,
+    "internal_id": 5430,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3494,8 +3622,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 3331,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3523,8 +3653,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 7587,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3552,8 +3684,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 5085,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3581,9 +3715,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
     "variant_id": null,
+    "internal_id": 5742,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3612,9 +3748,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
     "variant_id": null,
+    "internal_id": 5319,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3643,8 +3781,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 4703,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3672,8 +3812,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 7584,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3701,8 +3843,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": "0_0",
+    "internal_id": 2379,
     "customization_kit_cost": 1,
     "variants": [
       {
@@ -3814,8 +3958,10 @@
     "stack_size": 1,
     "hha_base_points": 437,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 12695,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3843,8 +3989,10 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "variant_id": null,
+    "internal_id": 5084,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3872,9 +4020,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Only available during May Day Tour",
     "variant_id": null,
+    "internal_id": 12615,
     "customization_kit_cost": null,
     "variants": [
       {
@@ -3902,9 +4052,11 @@
     "stack_size": 1,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "source_notes": "Only available during a fireworks display; Available in rotating cabinet stock after August",
     "variant_id": null,
+    "internal_id": 13124,
     "customization_kit_cost": null,
     "variants": [
       {

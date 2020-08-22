@@ -10,11 +10,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 649,
+    "internal_id": 11385,
     "variants": [
       {
         "variation": "Black",
@@ -58,11 +60,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 1093,
+    "internal_id": 12067,
     "variants": [
       {
         "variation": "Zebra",
@@ -106,18 +110,20 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 847,
+    "internal_id": 8921,
     "variants": [
       {
         "variation": "Blue",
         "filename": "BottomsTexSkirtBoxApron1",
         "colors": [
           "White",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -168,11 +174,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 127,
+    "internal_id": 11296,
     "variants": [
       {
         "variation": "Black",
@@ -272,11 +280,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 422,
+    "internal_id": 11906,
     "variants": [
       {
         "variation": "Black",
@@ -376,11 +386,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 849,
+    "internal_id": 11313,
     "variants": [
       {
         "variation": "Black",
@@ -456,7 +468,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsHalfBasketball6",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "source": [
@@ -508,11 +520,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Gorgeous",
+    "style_1": "Gorgeous",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 327,
+    "internal_id": 4364,
     "variants": [
       {
         "variation": "Orange",
@@ -598,11 +612,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 429,
+    "internal_id": 8721,
     "variants": [
       {
         "variation": "Red",
@@ -674,11 +690,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "Winter",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 734,
+    "internal_id": 9120,
     "variants": [
       {
         "variation": "Black",
@@ -740,7 +758,7 @@
         "variation": "Peacock blue",
         "filename": "BottomsTexPantsHalfBoa6",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "source": [
@@ -806,11 +824,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "Winter",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 733,
+    "internal_id": 9109,
     "variants": [
       {
         "variation": "Red",
@@ -858,7 +878,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtBoxBoa5",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "source": [
@@ -938,11 +958,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 851,
+    "internal_id": 11663,
     "variants": [
       {
         "variation": "Black",
@@ -1014,11 +1036,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 902,
+    "internal_id": 9193,
     "variants": [
       {
         "variation": "White",
@@ -1062,11 +1086,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 842,
+    "internal_id": 11787,
     "variants": [
       {
         "variation": "Red",
@@ -1100,8 +1126,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtBoxBoxpleats0",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -1138,11 +1164,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 736,
+    "internal_id": 8727,
     "variants": [
       {
         "variation": "White",
@@ -1228,11 +1256,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 890,
+    "internal_id": 5816,
     "variants": [
       {
         "variation": "Gray",
@@ -1332,11 +1362,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 145,
+    "internal_id": 3342,
     "variants": [
       {
         "variation": "Brown",
@@ -1413,7 +1445,7 @@
         "filename": "BottomsTexPantsNormalCamouflage3",
         "colors": [
           "Blue",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -1450,11 +1482,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 365,
+    "internal_id": 4434,
     "variants": [
       {
         "variation": "Brown",
@@ -1531,7 +1565,7 @@
         "filename": "BottomsTexSkirtBoxCamo3",
         "colors": [
           "Blue",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -1568,11 +1602,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 411,
+    "internal_id": 4504,
     "variants": [
       {
         "variation": "Gray",
@@ -1648,8 +1684,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtBoxCareer3",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -1700,11 +1736,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 148,
+    "internal_id": 9705,
     "variants": [
       {
         "variation": "Mustard",
@@ -1790,11 +1828,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 245,
+    "internal_id": 8837,
     "variants": [
       {
         "variation": "Camel",
@@ -1880,11 +1920,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 361,
+    "internal_id": 9714,
     "variants": [
       {
         "variation": "Gray",
@@ -1984,11 +2026,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 273,
+    "internal_id": 9243,
     "variants": [
       {
         "variation": "White",
@@ -2060,11 +2104,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 14,
+    "internal_id": 4178,
     "variants": [
       {
         "variation": "Gray",
@@ -2192,11 +2238,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 818,
+    "internal_id": 5665,
     "variants": [
       {
         "variation": "Red",
@@ -2282,11 +2330,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Gorgeous",
+    "style_1": "Gorgeous",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 854,
+    "internal_id": 11378,
     "variants": [
       {
         "variation": "White",
@@ -2414,11 +2464,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 726,
+    "internal_id": 5411,
     "variants": [
       {
         "variation": null,
@@ -2448,11 +2500,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 468,
+    "internal_id": 9728,
     "variants": [
       {
         "variation": "Light gray",
@@ -2552,11 +2606,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 295,
+    "internal_id": 11148,
     "variants": [
       {
         "variation": "Light gray",
@@ -2656,11 +2712,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 870,
+    "internal_id": 8747,
     "variants": [
       {
         "variation": "Magenta",
@@ -2694,7 +2752,7 @@
         "variation": "Blue",
         "filename": "BottomsTexSkirtLongCorte0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "source": [
@@ -2718,11 +2776,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 347,
+    "internal_id": 9707,
     "variants": [
       {
         "variation": "White",
@@ -2798,8 +2858,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsNormalCropped3",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -2850,11 +2910,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 149,
+    "internal_id": 9265,
     "variants": [
       {
         "variation": "Gray",
@@ -2926,11 +2988,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 369,
+    "internal_id": 6842,
     "variants": [
       {
         "variation": "White",
@@ -2978,8 +3042,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsHotCulotte0",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -3002,11 +3066,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 884,
+    "internal_id": 10214,
     "variants": [
       {
         "variation": "White",
@@ -3078,11 +3144,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 419,
+    "internal_id": 11301,
     "variants": [
       {
         "variation": "Black & red",
@@ -3210,11 +3278,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 690,
+    "internal_id": 11395,
     "variants": [
       {
         "variation": "White",
@@ -3286,11 +3356,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 283,
+    "internal_id": 4274,
     "variants": [
       {
         "variation": "Blue",
@@ -3338,8 +3410,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsHotDenim1",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -3376,11 +3448,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 305,
+    "internal_id": 4326,
     "variants": [
       {
         "variation": "Navy blue",
@@ -3428,8 +3502,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsWideDenim1",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -3466,11 +3540,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 17,
+    "internal_id": 2403,
     "variants": [
       {
         "variation": "Blue",
@@ -3518,7 +3594,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsNormalDenim1",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "source": [
@@ -3556,11 +3632,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 265,
+    "internal_id": 4246,
     "variants": [
       {
         "variation": "Blue",
@@ -3608,8 +3686,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtBoxDenim1",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -3646,11 +3724,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 427,
+    "internal_id": 8915,
     "variants": [
       {
         "variation": "Gray",
@@ -3694,11 +3774,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Winter",
     "mannequin_piece": true,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 274,
+    "internal_id": 11265,
     "variants": [
       {
         "variation": "White",
@@ -3826,11 +3908,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Winter",
     "mannequin_piece": true,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 280,
+    "internal_id": 11330,
     "variants": [
       {
         "variation": "White",
@@ -3958,11 +4042,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 412,
+    "internal_id": 11658,
     "variants": [
       {
         "variation": "Gray",
@@ -4038,7 +4124,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtLongDrape7",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -4090,11 +4176,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Winter",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 907,
+    "internal_id": 5923,
     "variants": [
       {
         "variation": "Pink",
@@ -4166,11 +4254,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 160,
+    "internal_id": 11406,
     "variants": [
       {
         "variation": "Berry red",
@@ -4242,11 +4332,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 862,
+    "internal_id": 9188,
     "variants": [
       {
         "variation": "Black",
@@ -4309,7 +4401,7 @@
         "filename": "BottomsTexPantsWideThail1",
         "colors": [
           "Blue",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -4346,11 +4438,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 755,
+    "internal_id": 5459,
     "variants": [
       {
         "variation": "Blue",
@@ -4384,7 +4478,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsWidePrintdenim1",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -4408,11 +4502,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 430,
+    "internal_id": 8737,
     "variants": [
       {
         "variation": "Berry red",
@@ -4433,7 +4529,7 @@
         "filename": "BottomsTexSkirtLongEmbroidery0",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -4470,11 +4566,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 431,
+    "internal_id": 8739,
     "variants": [
       {
         "variation": "Red",
@@ -4532,11 +4630,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 1092,
+    "internal_id": 12069,
     "variants": [
       {
         "variation": "Beige",
@@ -4608,11 +4708,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "Winter",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 730,
+    "internal_id": 8795,
     "variants": [
       {
         "variation": "Red",
@@ -4646,7 +4748,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtAlineFur0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -4698,11 +4800,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Winter",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 843,
+    "internal_id": 11338,
     "variants": [
       {
         "variation": "Gray",
@@ -4788,11 +4892,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 480,
+    "internal_id": 8790,
     "variants": [
       {
         "variation": "Black",
@@ -4854,8 +4960,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtAlineFlare4",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -4878,11 +4984,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Gorgeous",
+    "style_1": "Gorgeous",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 161,
+    "internal_id": 3408,
     "variants": [
       {
         "variation": "White",
@@ -4982,11 +5090,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 478,
+    "internal_id": 11655,
     "variants": [
       {
         "variation": "Black",
@@ -5062,8 +5172,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtBoxLace0",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -5114,11 +5224,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 908,
+    "internal_id": 8756,
     "variants": [
       {
         "variation": "Pink",
@@ -5152,7 +5264,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtLongFlower0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "source": [
@@ -5176,11 +5288,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 1095,
+    "internal_id": 12059,
     "variants": [
       {
         "variation": "White",
@@ -5308,11 +5422,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 334,
+    "internal_id": 4372,
     "variants": [
       {
         "variation": "White",
@@ -5374,8 +5490,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsHalfFormal3",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -5440,11 +5556,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 331,
+    "internal_id": 9275,
     "variants": [
       {
         "variation": "Pink",
@@ -5506,8 +5624,8 @@
         "variation": "Blue",
         "filename": "BottomsTexPantsWideFrilled3",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -5530,11 +5648,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 349,
+    "internal_id": 8789,
     "variants": [
       {
         "variation": "Gray",
@@ -5634,11 +5754,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 731,
+    "internal_id": 8802,
     "variants": [
       {
         "variation": "Gray",
@@ -5738,11 +5860,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 301,
+    "internal_id": 10192,
     "variants": [
       {
         "variation": "White",
@@ -5856,11 +5980,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 296,
+    "internal_id": 4299,
     "variants": [
       {
         "variation": "Gray",
@@ -5908,8 +6034,8 @@
         "variation": "Blue",
         "filename": "BottomsTexPantsWideGaucho4",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -5946,11 +6072,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Winter",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 871,
+    "internal_id": 9191,
     "variants": [
       {
         "variation": "Navy blue",
@@ -6036,11 +6164,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 16,
+    "internal_id": 12194,
     "variants": [
       {
         "variation": "Gray",
@@ -6116,8 +6246,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtAlineGingham7",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -6168,11 +6298,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 861,
+    "internal_id": 8923,
     "variants": [
       {
         "variation": "Black",
@@ -6215,11 +6347,13 @@
     "size": "1x1",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 312,
+    "internal_id": 4333,
     "variants": [
       {
         "variation": null,
@@ -6248,11 +6382,13 @@
     "size": "1x1",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 2,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1190,
+    "internal_id": 8907,
     "variants": [
       {
         "variation": null,
@@ -6282,18 +6418,20 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 272,
+    "internal_id": 9537,
     "variants": [
       {
         "variation": "Light blue",
         "filename": "BottomsTexPantsWideHickory1",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -6330,11 +6468,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 248,
+    "internal_id": 8858,
     "variants": [
       {
         "variation": "Black",
@@ -6410,7 +6550,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsHotRunning1",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -6462,11 +6602,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 142,
+    "internal_id": 9239,
     "variants": [
       {
         "variation": "Black",
@@ -6538,11 +6680,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Winter",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 845,
+    "internal_id": 5707,
     "variants": [
       {
         "variation": "Gray",
@@ -6576,8 +6720,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsNormalKnit2",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -6614,11 +6758,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Winter",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 729,
+    "internal_id": 11345,
     "variants": [
       {
         "variation": "Pink",
@@ -6652,8 +6798,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtBoxAran1",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -6690,11 +6836,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 310,
+    "internal_id": 11391,
     "variants": [
       {
         "variation": "White",
@@ -6742,7 +6890,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsWideKungfu2",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -6777,13 +6925,16 @@
     "diy": false,
     "hha_base_points": 351,
     "size": "1x1",
+    "source_notes": "Added to Able Sisters stock rotation the day after receiving this item from Label",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 1129,
+    "internal_id": 11736,
     "variants": [
       {
         "variation": "Midnight",
@@ -6793,7 +6944,7 @@
           "White"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 2540,
         "sell": 635,
@@ -6807,7 +6958,7 @@
           "White"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 2540,
         "sell": 635,
@@ -6821,7 +6972,7 @@
           "White"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 2540,
         "sell": 635,
@@ -6835,7 +6986,7 @@
           "White"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 2540,
         "sell": 635,
@@ -6849,7 +7000,7 @@
           "White"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 2540,
         "sell": 635,
@@ -6863,7 +7014,7 @@
           "White"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 2540,
         "sell": 635,
@@ -6880,13 +7031,16 @@
     "diy": false,
     "hha_base_points": 351,
     "size": "1x1",
+    "source_notes": "Added to Able Sisters stock rotation the day after receiving this item from Label",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 1130,
+    "internal_id": 11741,
     "variants": [
       {
         "variation": "Midnight",
@@ -6896,7 +7050,7 @@
           "Black"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3100,
         "sell": 775,
@@ -6910,7 +7064,7 @@
           "Red"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3100,
         "sell": 775,
@@ -6924,7 +7078,7 @@
           "Pink"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3100,
         "sell": 775,
@@ -6938,7 +7092,7 @@
           "Yellow"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3100,
         "sell": 775,
@@ -6952,7 +7106,7 @@
           "Blue"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3100,
         "sell": 775,
@@ -6966,7 +7120,7 @@
           "Purple"
         ],
         "source": [
-          "Labelle"
+          "Label"
         ],
         "buy": 3100,
         "sell": 775,
@@ -6986,11 +7140,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": true,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 421,
+    "internal_id": 4517,
     "variants": [
       {
         "variation": "White",
@@ -7052,8 +7208,8 @@
         "variation": "Blue",
         "filename": "BottomsTexPantsHotLace4",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -7076,11 +7232,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 152,
+    "internal_id": 3384,
     "variants": [
       {
         "variation": "White",
@@ -7152,11 +7310,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 906,
+    "internal_id": 8753,
     "variants": [
       {
         "variation": "White",
@@ -7190,7 +7350,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtLongLemon0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "source": [
@@ -7214,11 +7374,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 335,
+    "internal_id": 10197,
     "variants": [
       {
         "variation": "Gray",
@@ -7318,11 +7480,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 275,
+    "internal_id": 11144,
     "variants": [
       {
         "variation": "Gray",
@@ -7408,11 +7572,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 846,
+    "internal_id": 5708,
     "variants": [
       {
         "variation": "Blue",
@@ -7460,7 +7626,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtLongDenim1",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "source": [
@@ -7498,11 +7664,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 336,
+    "internal_id": 4374,
     "variants": [
       {
         "variation": "Red",
@@ -7574,11 +7742,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 255,
+    "internal_id": 8703,
     "variants": [
       {
         "variation": "White",
@@ -7640,8 +7810,8 @@
         "variation": "Cyan",
         "filename": "BottomsTexSkirtLongPleats3",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -7664,11 +7834,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 270,
+    "internal_id": 4252,
     "variants": [
       {
         "variation": "Black",
@@ -7758,7 +7930,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtLongDot7",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -7796,11 +7968,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 912,
+    "internal_id": 6016,
     "variants": [
       {
         "variation": "Navy blue",
@@ -7876,8 +8050,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtLongSailor2",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -7928,11 +8102,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 732,
+    "internal_id": 8724,
     "variants": [
       {
         "variation": "Gray",
@@ -8004,11 +8180,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 426,
+    "internal_id": 11947,
     "variants": [
       {
         "variation": "Red",
@@ -8080,11 +8258,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 333,
+    "internal_id": 9089,
     "variants": [
       {
         "variation": "Red",
@@ -8133,7 +8313,7 @@
         "filename": "BottomsTexPantsHalfMulticolor2",
         "colors": [
           "Blue",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -8156,11 +8336,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Gorgeous",
+    "style_1": "Gorgeous",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 339,
+    "internal_id": 9249,
     "variants": [
       {
         "variation": "White",
@@ -8288,11 +8470,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 395,
+    "internal_id": 6899,
     "variants": [
       {
         "variation": "Black",
@@ -8420,11 +8604,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 404,
+    "internal_id": 9280,
     "variants": [
       {
         "variation": "Yellow",
@@ -8445,7 +8631,7 @@
         "filename": "BottomsTexPantsWideKnee2",
         "colors": [
           "Green",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -8496,11 +8682,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 781,
+    "internal_id": 8740,
     "variants": [
       {
         "variation": "Red",
@@ -8549,7 +8737,7 @@
         "filename": "BottomsTexSkirtLongPatch0",
         "colors": [
           "Blue",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -8572,11 +8760,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 855,
+    "internal_id": 5737,
     "variants": [
       {
         "variation": null,
@@ -8606,11 +8796,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Gorgeous",
+    "style_1": "Gorgeous",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 737,
+    "internal_id": 5422,
     "variants": [
       {
         "variation": "Cool",
@@ -8630,7 +8822,7 @@
         "variation": "Pastel",
         "filename": "BottomsTexSkirtAlineTutu2",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Colorful"
         ],
         "source": [
@@ -8668,11 +8860,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 344,
+    "internal_id": 11314,
     "variants": [
       {
         "variation": "Red",
@@ -8721,7 +8915,7 @@
         "filename": "BottomsTexPantsHalfAloha2",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -8749,7 +8943,7 @@
         "filename": "BottomsTexPantsHalfAloha0",
         "colors": [
           "Blue",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -8763,7 +8957,7 @@
         "filename": "BottomsTexPantsHalfAloha4",
         "colors": [
           "Purple",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -8785,11 +8979,13 @@
     "size": "1x1",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 1227,
+    "internal_id": 12664,
     "variants": [
       {
         "variation": null,
@@ -8819,11 +9015,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 817,
+    "internal_id": 8844,
     "variants": [
       {
         "variation": "Red",
@@ -8857,7 +9055,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsHotShaggycheck0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Gray"
         ],
         "source": [
@@ -8895,11 +9093,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 735,
+    "internal_id": 10208,
     "variants": [
       {
         "variation": "White",
@@ -8975,8 +9175,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtAlineLeather6",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -9027,11 +9227,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 125,
+    "internal_id": 3309,
     "variants": [
       {
         "variation": "Black",
@@ -9131,11 +9333,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 885,
+    "internal_id": 5811,
     "variants": [
       {
         "variation": "Red",
@@ -9207,11 +9411,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 860,
+    "internal_id": 10210,
     "variants": [
       {
         "variation": "White",
@@ -9283,11 +9489,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 299,
+    "internal_id": 4303,
     "variants": [
       {
         "variation": "Black",
@@ -9387,11 +9595,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Winter",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 752,
+    "internal_id": 11320,
     "variants": [
       {
         "variation": "Black",
@@ -9449,11 +9659,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 1187,
+    "internal_id": 12178,
     "variants": [
       {
         "variation": "Gray",
@@ -9487,8 +9699,8 @@
         "variation": "Blue",
         "filename": "BottomsTexSkirtAlineDot2",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -9525,11 +9737,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 399,
+    "internal_id": 4485,
     "variants": [
       {
         "variation": "Red",
@@ -9601,11 +9815,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 728,
+    "internal_id": 11418,
     "variants": [
       {
         "variation": "Black",
@@ -9733,11 +9949,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 144,
+    "internal_id": 3341,
     "variants": [
       {
         "variation": "Navy blue",
@@ -9813,8 +10031,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtAlineSailor2",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -9865,11 +10083,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 459,
+    "internal_id": 9722,
     "variants": [
       {
         "variation": "Dark red",
@@ -9983,11 +10203,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 905,
+    "internal_id": 5873,
     "variants": [
       {
         "variation": "Black",
@@ -10101,11 +10323,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 308,
+    "internal_id": 11381,
     "variants": [
       {
         "variation": "Gray",
@@ -10219,11 +10443,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 309,
+    "internal_id": 11362,
     "variants": [
       {
         "variation": "Black",
@@ -10309,11 +10535,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "Winter",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 374,
+    "internal_id": 11408,
     "variants": [
       {
         "variation": "Ruby red",
@@ -10334,7 +10562,7 @@
         "filename": "BottomsTexPantsWideSki1",
         "colors": [
           "Orange",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -10375,7 +10603,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsWideSki4",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Red"
         ],
         "source": [
@@ -10413,11 +10641,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 126,
+    "internal_id": 11282,
     "variants": [
       {
         "variation": "White",
@@ -10479,7 +10709,7 @@
         "variation": "Blue",
         "filename": "BottomsTexPantsNormalSlacks2",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Brown"
         ],
         "source": [
@@ -10531,11 +10761,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 1091,
+    "internal_id": 12075,
     "variants": [
       {
         "variation": "White",
@@ -10611,8 +10843,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsHalfSoccer4",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -10663,11 +10895,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Gorgeous",
+    "style_1": "Gorgeous",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 852,
+    "internal_id": 9179,
     "variants": [
       {
         "variation": "Silver",
@@ -10795,11 +11029,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 287,
+    "internal_id": 4283,
     "variants": [
       {
         "variation": "Gray",
@@ -10847,8 +11083,8 @@
         "variation": "Blue",
         "filename": "BottomsTexSkirtBoxSweat2",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -10871,11 +11107,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Elegant",
+    "style_1": "Elegant",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 853,
+    "internal_id": 8851,
     "variants": [
       {
         "variation": "Red",
@@ -10947,11 +11185,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 128,
+    "internal_id": 9238,
     "variants": [
       {
         "variation": "Black",
@@ -11037,11 +11277,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 844,
+    "internal_id": 8846,
     "variants": [
       {
         "variation": "Red",
@@ -11113,11 +11355,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 420,
+    "internal_id": 9106,
     "variants": [
       {
         "variation": "Gray",
@@ -11165,7 +11409,7 @@
         "variation": "Blue",
         "filename": "BottomsTexPantsHalfSurf0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "source": [
@@ -11203,11 +11447,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 119,
+    "internal_id": 3296,
     "variants": [
       {
         "variation": "Gray",
@@ -11297,8 +11543,8 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsNormalSweat6",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -11335,11 +11581,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 256,
+    "internal_id": 4223,
     "variants": [
       {
         "variation": "White",
@@ -11373,7 +11621,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexSkirtAlineTennis2",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "source": [
@@ -11411,11 +11659,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Winter",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 848,
+    "internal_id": 5711,
     "variants": [
       {
         "variation": "Pink",
@@ -11449,8 +11699,8 @@
         "variation": "Blue",
         "filename": "BottomsTexPantsHotFluffy1",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -11487,11 +11737,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 841,
+    "internal_id": 11368,
     "variants": [
       {
         "variation": "Black",
@@ -11581,7 +11833,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsNormalCroppedsweat2",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -11619,18 +11871,20 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 896,
+    "internal_id": 5826,
     "variants": [
       {
         "variation": "Red",
         "filename": "BottomsTexSkirtLongTiedye0",
         "colors": [
           "Red",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -11709,11 +11963,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 409,
+    "internal_id": 4502,
     "variants": [
       {
         "variation": "Purple",
@@ -11761,8 +12017,8 @@
         "variation": "Mint",
         "filename": "BottomsTexSkirtLongTiered1",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -11798,11 +12054,13 @@
     "size": "1x1",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "Not for sale",
     "cloth_group_id": 840,
+    "internal_id": 9282,
     "variants": [
       {
         "variation": "Gray",
@@ -11812,7 +12070,7 @@
           "Gray"
         ],
         "source": [
-          "Recycle bin"
+          "Recycle box"
         ],
         "buy": -1,
         "sell": 10,
@@ -11826,7 +12084,7 @@
           "Black"
         ],
         "source": [
-          "Recycle bin"
+          "Recycle box"
         ],
         "buy": -1,
         "sell": 10,
@@ -11840,7 +12098,7 @@
           "Brown"
         ],
         "source": [
-          "Recycle bin"
+          "Recycle box"
         ],
         "buy": -1,
         "sell": 10,
@@ -11860,11 +12118,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 140,
+    "internal_id": 11285,
     "variants": [
       {
         "variation": "White",
@@ -11955,7 +12215,7 @@
         "filename": "BottomsTexPantsNormalSportsjersey0",
         "colors": [
           "Blue",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -11978,11 +12238,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 727,
+    "internal_id": 9171,
     "variants": [
       {
         "variation": "Dark red",
@@ -12054,11 +12316,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 756,
+    "internal_id": 5460,
     "variants": [
       {
         "variation": "Red",
@@ -12106,8 +12370,8 @@
         "variation": "Aqua",
         "filename": "BottomsTexPantsWideSuteteko4",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -12158,11 +12422,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 359,
+    "internal_id": 8908,
     "variants": [
       {
         "variation": "Gray",
@@ -12196,7 +12462,7 @@
         "variation": "Blue",
         "filename": "BottomsTexSkirtAlineTweedfrill3",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Blue"
         ],
         "source": [
@@ -12234,11 +12500,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 240,
+    "internal_id": 11388,
     "variants": [
       {
         "variation": "Berry red",
@@ -12338,11 +12606,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 120,
+    "internal_id": 11666,
     "variants": [
       {
         "variation": "Pink",
@@ -12400,11 +12670,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 15,
+    "internal_id": 3317,
     "variants": [
       {
         "variation": "Monotone",
@@ -12439,7 +12711,7 @@
         "filename": "BottomsTexPantsNormalTwotoneYellow",
         "colors": [
           "Yellow",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -12476,11 +12748,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Cute",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 754,
+    "internal_id": 8918,
     "variants": [
       {
         "variation": "Pink",
@@ -12500,7 +12774,7 @@
         "variation": "Mint",
         "filename": "BottomsTexSkirtAlineShabby2",
         "colors": [
-          "Light blue",
+          "Aqua",
           "White"
         ],
         "source": [
@@ -12538,11 +12812,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Elegant",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 401,
+    "internal_id": 9102,
     "variants": [
       {
         "variation": "Black",
@@ -12628,11 +12904,13 @@
     "source_notes": "Available from Able Sisters shop only",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Cool",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 175,
+    "internal_id": 3463,
     "variants": [
       {
         "variation": null,
@@ -12662,11 +12940,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": true,
-    "style": "Simple",
+    "style_1": "Simple",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 648,
+    "internal_id": 11153,
     "variants": [
       {
         "variation": "Gray",
@@ -12752,11 +13032,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 850,
+    "internal_id": 11363,
     "variants": [
       {
         "variation": "Pink",
@@ -12814,18 +13096,20 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": true,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 269,
+    "internal_id": 4251,
     "variants": [
       {
         "variation": "Light blue",
         "filename": "BottomsTexPantsHotDenimholes0",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -12890,18 +13174,20 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Cool",
+    "style_1": "Cool",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 129,
+    "internal_id": 3313,
     "variants": [
       {
         "variation": "Light blue",
         "filename": "BottomsTexPantsNormalDenimholes0",
         "colors": [
-          "Light blue",
-          "Light blue"
+          "Aqua",
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -12966,11 +13252,13 @@
     "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
     "seasonal_availability": "Summer",
     "mannequin_piece": false,
-    "style": "Cute",
+    "style_1": "Cute",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "catalog": "For sale",
     "cloth_group_id": 332,
+    "internal_id": 8861,
     "variants": [
       {
         "variation": "Red",
@@ -12991,7 +13279,7 @@
         "filename": "BottomsTexPantsHotYacht2",
         "colors": [
           "Pink",
-          "Light blue"
+          "Aqua"
         ],
         "source": [
           "Able Sisters"
@@ -13004,7 +13292,7 @@
         "variation": "Light blue",
         "filename": "BottomsTexPantsHotYacht0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Yellow"
         ],
         "source": [

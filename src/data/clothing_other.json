@@ -7,16 +7,19 @@
     "diy": false,
     "hha_base_points": 0,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Active",
     "sort_order": 1,
     "villager_equippable": false,
     "primary_shape": "Marinesuit",
     "secondary_shape": "N",
     "catalog": "For sale",
     "cloth_group_id": 1260,
+    "internal_id": 13103,
     "variants": [
       {
         "variation": "Black",
@@ -85,16 +88,19 @@
     "diy": false,
     "hha_base_points": 51,
     "size": "1x1",
-    "miles_price": null,
+    "exchange_price": null,
+    "exchange_currency": null,
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Gorgeous",
     "sort_order": 1,
     "villager_equippable": false,
     "primary_shape": "Marinesuit",
     "secondary_shape": "L",
     "catalog": "For sale",
     "cloth_group_id": 1259,
+    "internal_id": 13099,
     "variants": [
       {
         "variation": "Yellow",
@@ -128,7 +134,7 @@
         "variation": "Light blue",
         "filename": "TopsTexMarinesuitNormalLRashguard0",
         "colors": [
-          "Light blue",
+          "Aqua",
           "Black"
         ],
         "source": [
@@ -163,16 +169,19 @@
     "diy": false,
     "hha_base_points": 151,
     "size": "1x1",
-    "miles_price": 800,
+    "exchange_price": 800,
+    "exchange_currency": "Nook Miles",
     "seasonal_availability": "All Year",
     "mannequin_piece": false,
-    "style": "Active",
+    "style_1": "Active",
+    "style_2": "Simple",
     "sort_order": 1,
     "villager_equippable": false,
     "primary_shape": "Marinesuit",
     "secondary_shape": "L",
     "catalog": "Not for sale",
     "cloth_group_id": 1258,
+    "internal_id": 12970,
     "variants": [
       {
         "variation": null,
@@ -182,7 +191,7 @@
           "Green"
         ],
         "source": [
-          "Nook Miles Shop"
+          "Nook Miles Redemption"
         ],
         "buy": -1,
         "sell": 4000,
